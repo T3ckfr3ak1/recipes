@@ -1,0 +1,62 @@
+{
+  "title": "Scrambled Eggs",
+  "description": "Soft scrambled eggs. 2 to 3 eggs per person.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "2 to 3",
+      "unit": null,
+      "item": "eggs",
+      "note": "per person"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "whole milk",
+      "note": "per 2 eggs"
+    },
+    {
+      "quantity": "pinch",
+      "unit": null,
+      "item": "salt",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "butter",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "pepper",
+      "note": "to taste"
+    },
+    {
+      "quantity": "handful",
+      "unit": null,
+      "item": "shredded habanero jack",
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Whisk eggs with 1 Tbsp whole milk per 2 eggs and a pinch of salt.",
+    "Melt 1 Tbsp butter in a nonstick skillet over medium-low.",
+    "Pour in eggs. Let sit 20 seconds, then slowly push from the edges to the center with a spatula. Keep going.",
+    "Pull off the heat while they still look slightly wet; they finish on the plate. Pepper to taste. Optional: a handful of shredded habanero jack in the last 30 seconds."
+  ],
+  "tags": [
+    "breakfast",
+    "eggs"
+  ],
+  "category": "Breakfast",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R12",
+  "notes": "5 min. Breakfast timing: start hash browns (R2) and sausage (R13) in the oven first; eggs go last.",
+  "deleted": false,
+  "id": "270c5592e007",
+  "created_at": "2026-10-23T12:04:05-05:00",
+  "updated_at": "2026-10-23T12:04:05-05:00"
+}
