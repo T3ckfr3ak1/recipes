@@ -1,0 +1,68 @@
+{
+  "title": "Instant Pot Pulled Pork",
+  "description": "Bone-in Prairie Fresh pork shoulder (6.5 to 10 lb), pressure cooked (or slow cooked) and shredded. Makes enough for about 4 to 6 meals.",
+  "servings": null,
+  "prep_minutes": 20,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "bone-in pork shoulder",
+      "note": "Prairie Fresh, 6.5 to 10 lb"
+    },
+    {
+      "quantity": "about 3 to 4",
+      "unit": "Tbsp",
+      "item": "your favorite pork dry rub",
+      "note": "or mix: 1 Tbsp salt, 1 Tbsp paprika, 2 tsp garlic powder, 2 tsp dried minced onion, 1 tsp black pepper, 1 tsp chili powder (optional: drizzle of maple syrup)"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "Better Than Bouillon chicken base",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "vegetable oil",
+      "note": "if searing"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "BBQ sauce",
+      "note": "for serving, optional"
+    }
+  ],
+  "steps": [
+    "Cut to fit. Cut the meat into 3 to 5 large chunks (about 2 lb each), cutting around the bone. Trim the thickest outside fat cap if you like. Put the bone in the pot too, it adds flavor. Don't fill past the 2/3 line. If it won't all fit, cook in two batches or use the slow cook method.",
+    "Season. Pat dry and rub all over with the rub.",
+    "Sear (optional, adds flavor). Saute mode, oil, brown the chunks 2 to 3 min per side in batches. Remove the meat.",
+    "Liquid. Add the water and Better Than Bouillon. Scrape the bottom so nothing is stuck (this prevents the \"Burn\" warning). Put the trivet in if you have it, then the pork.",
+    "Pressure cook on High: 60 to 75 min for 2 lb chunks. If cooking a bigger whole-ish piece (4 lb+), go 90 to 100 min.",
+    "Natural release at least 15 to 20 min, then release the rest.",
+    "Check. It should pull apart easily with a fork (about 195 to 205°F). If it fights you, pressure cook 10 to 15 more min.",
+    "Shred. Pull out the meat, remove bone and big fat pieces, shred with 2 forks. Skim fat off the liquid and stir a ladle or two of the juice back into the meat so it stays moist."
+  ],
+  "tags": [
+    "instant pot",
+    "pork",
+    "pulled pork",
+    "meal prep"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R3",
+  "notes": "Hands-on 20 min. Total about 2 to 2.5 hours (pressure) or 8 to 10 hours (slow cook).\nSlow cook alternative: same prep. Slow Cook mode, lid on (vent can stay on venting), Low 8 to 10 hours or High 5 to 6 hours, until fork-tender. Shred the same way.\nStorage: fridge 3 to 4 days. Freeze in meal-size bags with a little juice, flat, labeled, up to 2 to 3 months.",
+  "deleted": false,
+  "id": "106a28a8f3c9",
+  "created_at": "2026-10-23T12:03:49-05:00",
+  "updated_at": "2026-10-23T12:03:49-05:00"
+}
