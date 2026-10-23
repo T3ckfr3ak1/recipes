@@ -1,0 +1,55 @@
+{
+  "id": "f795dafd-ceef-4b74-9bd8-2fa3735897b5",
+  "title": "Cheesy Rallys Fries",
+  "description": "A recipe for making crispy fries topped with melted mozzarella and habanero jack cheese.",
+  "servings": 2,
+  "prep_minutes": 5,
+  "cook_minutes": 18,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Rally’s fries"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Parchment paper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mozzarella cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Habanero jack cheese"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 450°F (Bake) until fully hot.",
+    "Put parchment on a metal baking sheet, trimmed so it doesn’t hang over the edges.",
+    "Spread Rally’s fries in a single layer on the parchment.",
+    "Switch oven to Air Fry at 450°F and put the pan on the middle rack.",
+    "Cook for 10 minutes.",
+    "Flip the fries.",
+    "Cook for 8 more minutes (or until as crispy as you like).",
+    "Pull the pan out, cover with mozzarella + habanero jack.",
+    "Put back in the oven for 1-2 minutes to melt the cheese."
+  ],
+  "tags": [
+    "Snack",
+    "American",
+    "undefined"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Ensure the oven is fully preheated for optimal crispiness.\n\nNutrition: Serving 1 serving · Calories estimated · Fat estimated · Saturated fat estimated · Unsaturated fat estimated · Trans fat estimated · Cholesterol estimated · Sodium estimated · Carbs estimated · Fiber estimated · Sugar estimated · Protein estimated",
+  "created_at": "2025-11-30T23:38:31.916+00:00",
+  "updated_at": "2026-07-19T11:05:06.779257+00:00",
+  "deleted": false,
+  "images": [
+    "images/f795dafd-ceef-4b74-9bd8-2fa3735897b5/f795dafd-ceef-4b74-9bd8-2fa3735897b5.jpg"
+  ]
+}

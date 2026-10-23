@@ -1,0 +1,89 @@
+{
+  "id": "4107614a-6cc5-409a-bb86-1d13b4e1c561",
+  "title": "Christmas Morning Tater Tot Casserole",
+  "description": "The Perfect Christmas Morning Casserole with tater tots, ham, cheese, and eggs.",
+  "servings": 8,
+  "prep_minutes": 10,
+  "cook_minutes": 45,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "bag",
+      "item": "tater tots"
+    },
+    {
+      "quantity": "16",
+      "unit": "ounces",
+      "item": "diced or cubed ham"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "cheddar jack cheese"
+    },
+    {
+      "quantity": "8",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "milk"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "sour cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pinch of salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pinch of pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pinch of garlic powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pinch of onion powder"
+    }
+  ],
+  "steps": [
+    "Pour the bag of tater tots into a 9x13 baking dish.",
+    "Add the diced or cubed ham over the tater tots.",
+    "Sprinkle the cheddar jack cheese evenly over the ham and tater tots.",
+    "In a mixing bowl, whisk together the eggs, milk, sour cream, salt, pepper, garlic powder, and onion powder.",
+    "Pour the egg mixture evenly over the casserole ingredients in the baking dish.",
+    "Sprinkle additional cheese on top if desired.",
+    "Bake in a preheated oven at 375°F (190°C) for about 45 minutes until cooked through and bubbly."
+  ],
+  "tags": [
+    "Holiday",
+    "American",
+    "Christmas",
+    "breakfast",
+    "casserole",
+    "tater tots",
+    "ham",
+    "cheese",
+    "eggs"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1AxzeNxESa/\n\nNutrition: Serving 1 slice · Calories Approximately 350 kcal per serving · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 150mg · Sodium 800mg · Carbs 30g · Fiber 3g · Sugar 3g · Protein 15g",
+  "created_at": "2025-09-19T05:01:12.103+00:00",
+  "updated_at": "2026-07-19T00:46:53.528012+00:00",
+  "deleted": false,
+  "images": [
+    "images/4107614a-6cc5-409a-bb86-1d13b4e1c561/4107614a-6cc5-409a-bb86-1d13b4e1c561.jpg"
+  ]
+}

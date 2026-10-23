@@ -1,0 +1,89 @@
+{
+  "id": "83555280-5a36-4ce3-8fa5-b745870e5d05",
+  "title": "Civil War Era Mac & Cheese",
+  "description": "A simple, creamy macaroni and cheese inspired by Civil War recipes, cooked with canned milk and Parmesan cheese, seasoned with nutmeg and spices.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "rigatoni pasta (or similar barrel-like pasta)"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "canned evaporated milk"
+    },
+    {
+      "quantity": "4",
+      "unit": "tablespoons",
+      "item": "butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "grated Parmesan cheese"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "coarse ground black pepper"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "ground nutmeg"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "ground mustard (optional)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Breadcrumbs or dried cornbread for topping (optional)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Smoked paprika for garnish (optional)"
+    }
+  ],
+  "steps": [
+    "Bring the canned evaporated milk to a simmer in a Dutch oven or large pot.",
+    "Add the pasta directly into the simmering milk, stirring constantly to prevent scorching.",
+    "Cook the pasta in the milk until tender and the milk has reduced by about half, approximately 15 minutes.",
+    "Stir in the butter until melted and incorporated.",
+    "Add the grated Parmesan cheese, stirring until the mixture is smooth and creamy.",
+    "Season with black pepper, nutmeg, and salt to taste.",
+    "Optional: Transfer to a greased casserole dish, sprinkle with breadcrumbs or dried cornbread, and dust with smoked paprika.",
+    "Bake at 350°F (175°C) for about 15 minutes or until golden brown on top.",
+    "Serve hot and enjoy this traditional Civil War-inspired macaroni and cheese."
+  ],
+  "tags": [
+    "American",
+    "Civil War",
+    "macaroni and cheese",
+    "canned milk",
+    "Parmesan",
+    "nutmeg",
+    "traditional"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "For added flavor, sprinkle with breadcrumbs and smoked paprika before baking.\n\nSource: https://www.facebook.com/share/v/16MbPRn2yG/\n\nNutrition: Serving 1 cup · Calories 350 kcal · Fat 15 g · Saturated fat 8 g · Unsaturated fat 7 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 600 mg · Carbs 45 g · Fiber 3 g · Sugar 6 g · Protein 12 g",
+  "created_at": "2025-11-24T01:04:38.408+00:00",
+  "updated_at": "2026-07-19T04:35:24.140269+00:00",
+  "deleted": false,
+  "images": [
+    "images/83555280-5a36-4ce3-8fa5-b745870e5d05/83555280-5a36-4ce3-8fa5-b745870e5d05.jpg"
+  ]
+}

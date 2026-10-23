@@ -1,0 +1,87 @@
+{
+  "id": "3b64ef4e-300d-498e-9290-301a66579143",
+  "title": "Beef Stroganoff",
+  "description": "An easy weeknight meal to make at home.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "ground beef without the wrapper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half an onion"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "garlic"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "Dijon mustard"
+    },
+    {
+      "quantity": "1",
+      "unit": "container",
+      "item": "beef broth (4 cups)"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "heavy cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half a cup sour cream"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "cream cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Green onion for garnish"
+    }
+  ],
+  "steps": [
+    "Cook the ground beef in a pan until browned.",
+    "Add chopped onion and cook until onions sweat down.",
+    "Stir in garlic and Dijon mustard.",
+    "Add beef broth and bring to a light boil.",
+    "Add noodles and cook until soft, ensuring they are halfway submerged in broth.",
+    "Stir in sour cream and cream cheese until well incorporated and thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve with chopped green onion on top."
+  ],
+  "tags": [
+    "Russian-inspired",
+    "beef",
+    "stroganoff",
+    "easy",
+    "dinner",
+    "quick"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/19nVpfr5J3/\n\nNutrition: Serving 1 bowl · Calories Approximately 600 kcal · Fat 35g · Saturated fat 20g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 100mg · Sodium 800mg · Carbs 50g · Fiber 3g · Sugar 8g · Protein 40g",
+  "created_at": "2025-11-22T07:20:02.033+00:00",
+  "updated_at": "2026-07-19T00:26:59.561865+00:00",
+  "deleted": false,
+  "images": [
+    "images/3b64ef4e-300d-498e-9290-301a66579143/3b64ef4e-300d-498e-9290-301a66579143.jpg"
+  ]
+}

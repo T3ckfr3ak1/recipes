@@ -1,0 +1,103 @@
+{
+  "id": "e046f3f8-151c-4eed-9178-a046610c9717",
+  "title": "Cattle Drive Casserole",
+  "description": "A hearty and cheesy casserole with ground beef, vegetables, and biscuit base.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "bisquick"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "and 1/4 cups of milk"
+    },
+    {
+      "quantity": "2",
+      "unit": "pounds",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "diced onion"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "diced bell pepper"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "taco seasoning"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "mayonnaise"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "sour cream"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "freshly shredded cheddar cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "freshly shredded pepper jack cheese"
+    },
+    {
+      "quantity": "2",
+      "unit": "cans",
+      "item": "Rotel, drained"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Extra cheese (cheddar and pepper jack) for topping"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Parsley for garnish (optional)"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 350°F (175°C). Grease a 9x13-inch baking dish.",
+    "In a mixing bowl, combine bisquick and milk. Whisk until well combined, then pour into the prepared baking dish and spread evenly. Bake for 10-15 minutes.",
+    "While the biscuit base is baking, heat a pan with oil over medium heat. Add ground beef and cook until browned. Add diced onion and bell pepper, sautéing until vegetables are tender. Stir in taco seasoning and cook for another minute. Remove from heat.",
+    "In a separate bowl, mix mayonnaise, sour cream, cheddar cheese, and pepper jack cheese until well combined.",
+    "Remove the biscuit base from the oven. Spread the cooked meat mixture evenly over the biscuit base.",
+    "Drain the cans of Rotel and layer them over the meat mixture.",
+    "Spread the cheese mixture over the Rotel layer.",
+    "Sprinkle additional shredded cheese on top.",
+    "Bake in the oven at 350°F (175°C) for about 30 minutes, until bubbly and golden.",
+    "Allow to cool slightly before garnishing with parsley, if desired, and serving."
+  ],
+  "tags": [
+    "American",
+    "casserole",
+    "beef",
+    "cheesy",
+    "baked"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1FuDjsVYb8/\n\nNutrition: Serving 1 slice · Calories 450 kcal · Fat 30 g · Saturated fat 12 g · Unsaturated fat 17 g · Trans fat 1 g · Cholesterol 80 mg · Sodium 800 mg · Carbs 30 g · Fiber 3 g · Sugar 5 g · Protein 25 g",
+  "created_at": "2025-09-19T04:58:00.221+00:00",
+  "updated_at": "2026-07-19T09:47:02.691982+00:00",
+  "deleted": false,
+  "images": [
+    "images/e046f3f8-151c-4eed-9178-a046610c9717/e046f3f8-151c-4eed-9178-a046610c9717.jpg"
+  ]
+}

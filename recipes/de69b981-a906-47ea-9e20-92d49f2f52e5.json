@@ -1,0 +1,78 @@
+{
+  "id": "de69b981-a906-47ea-9e20-92d49f2f52e5",
+  "title": "Queso Chicken Spaghetti",
+  "description": "Traditional Italian Queso Chicken Spaghetti Just Like Your Midwestern Grandma Used To Make It",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "cubed Velveeta cheese"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "Monterey Jack cheese, shredded"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "Rotel Original"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "green chilies (hot, optional)"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "cream of chicken soup"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "whole milk"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "shredded cooked chicken"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cooked spaghetti"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sliced black olives (optional, for topping)"
+    }
+  ],
+  "steps": [
+    "Add Velveeta, Monterey Jack cheese, Rotel, green chilies, cream of chicken soup, and whole milk to a pot.",
+    "Stir over medium heat until all ingredients are melted and well combined.",
+    "Add shredded cooked chicken to the mixture and stir.",
+    "Add cooked spaghetti and stir to coat evenly.",
+    "Serve with sliced black olives on top if desired."
+  ],
+  "tags": [
+    "Italian",
+    "cheesy",
+    "chicken",
+    "spaghetti",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1GiMYnqSsm/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal · Fat 20 g · Saturated fat 10 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 900 mg · Carbs 60 g · Fiber 4 g · Sugar 8 g · Protein 30 g",
+  "created_at": "2025-09-20T03:57:59.736+00:00",
+  "updated_at": "2026-07-19T09:40:50.524265+00:00",
+  "deleted": false,
+  "images": [
+    "images/de69b981-a906-47ea-9e20-92d49f2f52e5/de69b981-a906-47ea-9e20-92d49f2f52e5.jpg"
+  ]
+}

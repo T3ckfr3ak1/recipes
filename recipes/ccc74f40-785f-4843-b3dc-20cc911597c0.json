@@ -1,0 +1,60 @@
+{
+  "id": "ccc74f40-785f-4843-b3dc-20cc911597c0",
+  "title": "Garlic Butter Brown Sugar Pork Chop",
+  "description": "A flavorful pork chop cooked with garlic, brown sugar, and butter, finished in the oven for a tender and delicious meal.",
+  "servings": 2,
+  "prep_minutes": 10,
+  "cook_minutes": 10,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pork chops (bone-in or boneless, as preferred)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Butter (quarter cup)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Brown sugar (3 tablespoons)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Minced garlic (3 tablespoons)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Fresh parsley (optional, for garnish)"
+    }
+  ],
+  "steps": [
+    "Heat a cast iron pan with oil over high heat. Sear the pork chops on both sides until browned, then set aside.",
+    "In the same pan, add butter and reduce heat to low. Stir in brown sugar and minced garlic. Cook for 2-3 minutes.",
+    "Return the pork chops to the pan. Spoon the melted butter mixture over the chops.",
+    "Transfer the pan to an oven preheated to 400°F (200°C). Bake for about 10 minutes.",
+    "Remove from oven and transfer pork chops to a cutting board. Let rest for a few minutes, stirring the sauce occasionally.",
+    "Optional: Garnish with chopped fresh parsley before serving."
+  ],
+  "tags": [
+    "American",
+    "pork chop",
+    "garlic",
+    "brown sugar",
+    "butter",
+    "oven"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/16oP7mzBjm/\n\nNutrition: Serving 1 pork chop with sauce · Calories Approximately 400 kcal · Fat 25 g · Saturated fat 10 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 150 mg · Carbs 30 g · Fiber 0 g · Sugar 15 g · Protein 30 g",
+  "created_at": "2025-09-19T04:56:24.117+00:00",
+  "updated_at": "2026-07-19T08:41:16.221741+00:00",
+  "deleted": false,
+  "images": [
+    "images/ccc74f40-785f-4843-b3dc-20cc911597c0/ccc74f40-785f-4843-b3dc-20cc911597c0.jpg"
+  ]
+}

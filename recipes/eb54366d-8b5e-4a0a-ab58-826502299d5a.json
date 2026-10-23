@@ -1,0 +1,56 @@
+{
+  "id": "eb54366d-8b5e-4a0a-ab58-826502299d5a",
+  "title": "Lazy Day Chocolate Chip Cookie Bars",
+  "description": "A simple and delicious chocolate chip cookie bar recipe that requires minimal effort.",
+  "servings": 12,
+  "prep_minutes": 10,
+  "cook_minutes": 25,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "One box of yellow cake mix"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "One stick of salted butter, melted"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Two eggs, beaten"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A 12-ounce bag of chocolate chips (or three combined bags if needed)"
+    }
+  ],
+  "steps": [
+    "Add the yellow cake mix to a mixing bowl.",
+    "Pour in the melted salted butter.",
+    "Add the beaten eggs.",
+    "Mix all ingredients until beautifully combined.",
+    "Add the chocolate chips and mix until thoroughly combined.",
+    "Pour the mixture into a greased 9x13 baking dish and spread evenly.",
+    "Bake at 350°F (175°C) for 20 to 25 minutes, until edges are toasty.",
+    "Let cool before cutting and serving.",
+    "Optional: Drizzle with caramel or chocolate, or serve with a scoop of ice cream."
+  ],
+  "tags": [
+    "American",
+    "chocolate chip",
+    "cookie bars",
+    "easy dessert"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1CsLQSQRfK/\n\nNutrition: Serving 1 bar · Calories 200 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 150 mg · Carbs 30 g · Fiber 1 g · Sugar 15 g · Protein 2 g",
+  "created_at": "2025-09-20T03:55:45.275+00:00",
+  "updated_at": "2026-07-19T10:24:09.649272+00:00",
+  "deleted": false,
+  "images": [
+    "images/eb54366d-8b5e-4a0a-ab58-826502299d5a/eb54366d-8b5e-4a0a-ab58-826502299d5a.jpg"
+  ]
+}

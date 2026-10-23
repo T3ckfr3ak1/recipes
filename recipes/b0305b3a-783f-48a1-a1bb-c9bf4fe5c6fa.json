@@ -1,0 +1,122 @@
+{
+  "id": "b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa",
+  "title": "American Goulash or Chop Suey",
+  "description": "A hearty American Goulash recipe with ground beef, pasta, and flavorful seasonings.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 42,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "pounds",
+      "item": "ground beef (beef pork blend or your choice)"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "onion, chopped"
+    },
+    {
+      "quantity": "4",
+      "unit": "",
+      "item": "garlic cloves, minced"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "paprika"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoons",
+      "item": "Italian seasoning"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoons",
+      "item": "salt"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "black pepper"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "cayenne pepper"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "bay leaves"
+    },
+    {
+      "quantity": "1",
+      "unit": "quart",
+      "item": "chicken broth"
+    },
+    {
+      "quantity": "24",
+      "unit": "ounces",
+      "item": "marinara sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "diced tomatoes"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "soy sauce"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "large elbow macaroni noodles"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "freshly shredded white cheddar cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A handful of fresh dried parsley"
+    }
+  ],
+  "steps": [
+    "Add ground beef to a large pot and cook until browned.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic, paprika, Italian seasoning, salt, black pepper, cayenne pepper, and bay leaves. Stir and cook for a couple of minutes.",
+    "Pour in chicken broth, marinara sauce, diced tomatoes, water, and soy sauce. Stir to combine.",
+    "Simmer the mixture for 30 minutes.",
+    "Add elbow macaroni noodles and bring to a rapid boil. Cook for 10 to 12 minutes until noodles are al dente.",
+    "Remove from heat, discard bay leaves, and stir in shredded cheddar cheese and parsley.",
+    "Cover and let sit for 5 minutes.",
+    "Serve in bowls, topped with additional cheddar cheese and parsley if desired."
+  ],
+  "tags": [
+    "American",
+    "American Goulash",
+    "Pasta",
+    "Ground Beef",
+    "Comfort Food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/19aMxayHq4/\n\nNutrition: Serving 1 bowl · Calories Approximately 450 kcal · Fat 15g · Saturated fat 8g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 70mg · Sodium 900mg · Carbs 60g · Fiber 5g · Sugar 8g · Protein 25g",
+  "created_at": "2025-09-19T05:07:42.969+00:00",
+  "updated_at": "2026-07-19T07:07:06.094535+00:00",
+  "deleted": false,
+  "images": [
+    "images/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa.jpg"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "90c736a1-0837-4ea5-9030-93d9ff869714",
+  "title": "Crack Burger on the Recteq Smokestone",
+  "description": "A delicious and addictive burger recipe cooked on the Recteq Smokestone, featuring bacon, cheddar cheese, and a flavorful seasoning mix.",
+  "servings": 4,
+  "prep_minutes": 20,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "bacon, cooked and shredded"
+    },
+    {
+      "quantity": "3",
+      "unit": "pounds",
+      "item": "80/20 ground beef"
+    },
+    {
+      "quantity": "6",
+      "unit": "tablespoons",
+      "item": "Bearded Butcher's ranch seasoning"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "sour cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Extra sharp cheddar cheese, shredded"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Kobe Jack cheese, sliced"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Burger buns"
+    },
+    {
+      "quantity": "57",
+      "unit": "",
+      "item": "Heinz"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional toppings and condiments"
+    }
+  ],
+  "steps": [
+    "Cook the bacon until crispy and shred it.",
+    "In a large mixing bowl, combine the ground beef, ranch seasoning, sour cream, shredded bacon, and shredded cheddar cheese. Mix thoroughly with your hands.",
+    "Portion the mixture into approximately 4-ounce balls. Use a kitchen scale for accuracy if desired.",
+    "Preheat the grill to above 400°F (204°C).",
+    "Form each portion into a semi-smash patty on the grill, seasoning one side with SPG (salt, pepper, garlic powder).",
+    "Flip the patties and place a slice of Kobe Jack cheese on each.",
+    "Cook until desired doneness.",
+    "Toast the burger buns.",
+    "Assemble the burgers by placing the patties on the buns and adding Heinz 57 sauce and any additional toppings."
+  ],
+  "tags": [
+    "Burgers",
+    "American",
+    "burger",
+    "bacon",
+    "cheese",
+    "grilled",
+    "smoky"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Adjust toppings and condiments to taste.\n\nSource: https://www.facebook.com/share/v/175xVRveY3/\n\nNutrition: Serving 1 burger · Calories Approximately 700 kcal · Fat 45 g · Saturated fat 20 g · Unsaturated fat 25 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 900 mg · Carbs 50 g · Fiber 2 g · Sugar 5 g · Protein 45 g",
+  "created_at": "2025-11-22T23:23:10.18+00:00",
+  "updated_at": "2026-07-19T05:20:26.804815+00:00",
+  "deleted": false,
+  "images": [
+    "images/90c736a1-0837-4ea5-9030-93d9ff869714/90c736a1-0837-4ea5-9030-93d9ff869714.jpg"
+  ]
+}

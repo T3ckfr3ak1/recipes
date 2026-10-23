@@ -1,0 +1,41 @@
+{
+  "id": "45427ab5-9add-49d0-815b-c2dc992defd6",
+  "title": "Deep Fried Dorito Bites",
+  "description": "Deep Fried Dorito Bites",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 5,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Doritos chips, enough to make a batch"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Oil for frying"
+    }
+  ],
+  "steps": [
+    "Freeze the Doritos chips for 15-20 minutes.",
+    "Heat oil in a deep fryer or large pot.",
+    "Fry the frozen Doritos chips until golden brown.",
+    "Remove and drain on paper towels."
+  ],
+  "tags": [
+    "American",
+    "Deep Fried",
+    "Doritos",
+    "Snack"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Make sure to freeze the Doritos before frying to achieve the best crispy texture.\n\nSource: https://www.facebook.com/share/r/17Q9hffYHk/\n\nNutrition: Serving 1 cup · Calories 200 kcal · Fat 14 g · Saturated fat 2 g · Unsaturated fat 12 g · Trans fat 0 g · Cholesterol 0 mg · Sodium 150 mg · Carbs 15 g · Fiber 2 g · Sugar 1 g · Protein 2 g",
+  "created_at": "2025-11-24T03:01:13.906+00:00",
+  "updated_at": "2026-07-19T01:02:27.711788+00:00",
+  "deleted": false,
+  "images": [
+    "images/45427ab5-9add-49d0-815b-c2dc992defd6/45427ab5-9add-49d0-815b-c2dc992defd6.jpg"
+  ]
+}

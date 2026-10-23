@@ -1,0 +1,79 @@
+{
+  "id": "dc69e2d3-123f-4f8a-b167-c2160549b8cd",
+  "title": "Bala Baiana",
+  "description": "A delicious Brazilian coconut dessert consisting of coconut balls with a crunchy candied sugar coating.",
+  "servings": 12,
+  "prep_minutes": 15,
+  "cook_minutes": 150,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the coconut filling"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "sweetened condensed milk"
+    },
+    {
+      "quantity": "2/3",
+      "unit": "cup",
+      "item": "shredded coconut flakes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the candied coating"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "sugar"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "vinegar"
+    }
+  ],
+  "steps": [
+    "Prepare the filling",
+    "Melt butter in a pan on medium heat.",
+    "Add sweetened condensed milk and shredded coconut flakes to the pan.",
+    "Cook down on medium heat, stirring constantly, until the mixture starts pulling away from the pan.",
+    "Remove from heat and scrape the mixture into a bowl.",
+    "Cover the bowl and refrigerate for a few hours until fully cooled.",
+    "Grease your hands, grab about a tablespoon of the mixture, and roll into a ball.",
+    "Place balls on parchment paper and insert a toothpick into each one.",
+    "Prepare the coating",
+    "Combine sugar, water, and vinegar in a pan.",
+    "Boil until it turns into a golden brown color.",
+    "Dip the coconut balls quickly into the syrup and place back on parchment paper to harden."
+  ],
+  "tags": [
+    "Brazilian",
+    "dessert",
+    "coconut",
+    "sweet treat"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "Ensure the coconut mixture is fully cooled before rolling to make handling easier.\n\nSource: https://www.facebook.com/share/v/19E556F5Aq/\n\nNutrition: Serving 1 ball · Calories 180 kcal · Fat 4g · Saturated fat 3g · Unsaturated fat 0.5g · Trans fat 0g · Cholesterol 10mg · Sodium 35mg · Carbs 35g · Fiber 1g · Sugar 32g · Protein 2g",
+  "created_at": "2026-08-23T22:03:43.170826+00:00",
+  "updated_at": "2026-08-23T22:03:43.170826+00:00",
+  "deleted": false,
+  "images": [
+    "images/dc69e2d3-123f-4f8a-b167-c2160549b8cd/dc69e2d3-123f-4f8a-b167-c2160549b8cd.jpg"
+  ]
+}

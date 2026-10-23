@@ -1,0 +1,89 @@
+{
+  "id": "6c86b4d0-4f5b-4dfc-becc-43d63958a153",
+  "title": "Korean Tuna Rice Bowl",
+  "description": "A flavorful and easy Korean-inspired tuna rice bowl with vegetables, avocado, and spicy mayo.",
+  "servings": 2,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Canned Korean tuna"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Carrots"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Potatoes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Avocado"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Q.P. Mayonnaise (a good quality mayo)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Furikake (Japanese rice seasoning) in the Asian section of grocery store"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chili sauce (hot pepper sauce)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Seaweed (nori sheets or flakes)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cooked rice"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: bulgogi (marinated beef)"
+    }
+  ],
+  "steps": [
+    "Prepare cooked rice as a base.",
+    "Drain the canned Korean tuna.",
+    "Slice carrots and potatoes into small pieces.",
+    "Dice the avocado.",
+    "Mix the tuna with some chili sauce to taste.",
+    "Assemble the bowl by placing rice at the bottom, then topping with tuna, carrots, potatoes, and avocado.",
+    "Add a dollop of Q.P. mayonnaise on top.",
+    "Sprinkle furikake over the bowl.",
+    "Add seaweed on top or around the bowl.",
+    "Optionally, add cooked bulgogi for extra flavor."
+  ],
+  "tags": [
+    "Korean",
+    "Tuna",
+    "Rice Bowl",
+    "Easy Recipe",
+    "Spicy",
+    "Vegetables"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Adjust chili sauce to preferred spice level. Optional ingredients like bulgogi can be added for extra flavor.\n\nSource: https://www.facebook.com/share/r/1AGzmZ7MwM/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal per serving · Fat 20g · Saturated fat 3g · Unsaturated fat 17g · Trans fat 0g · Cholesterol 30mg · Sodium 700mg · Carbs 60g · Fiber 8g · Sugar 5g · Protein 25g",
+  "created_at": "2025-10-17T03:49:43.618+00:00",
+  "updated_at": "2026-07-19T03:18:24.060054+00:00",
+  "deleted": false,
+  "images": [
+    "images/6c86b4d0-4f5b-4dfc-becc-43d63958a153/6c86b4d0-4f5b-4dfc-becc-43d63958a153.jpg"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "e40f3813-9764-4c53-81d5-c2e282c4d66e",
+  "title": "Marry Me Salad",
+  "description": "A simple and life-changing lettuce salad with lemon, garlic, olive oil, salt, pepper, and a splash of white vinegar.",
+  "servings": 2,
+  "prep_minutes": 5,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Shredded iceberg lettuce"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "Juice of lemon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A little bit of olive oil"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt, about a flat quarter's worth in your hand"
+    },
+    {
+      "quantity": "1",
+      "unit": "clove",
+      "item": "garlic, grated"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper, to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A splash of white vinegar"
+    }
+  ],
+  "steps": [
+    "Combine shredded lettuce, lemon juice, olive oil, salt, grated garlic, pepper, and white vinegar.",
+    "Mix well to ensure all ingredients are incorporated.",
+    "Serve and enjoy."
+  ],
+  "tags": [
+    "Mediterranean",
+    "salad",
+    "lemon",
+    "garlic",
+    "simple",
+    "quick"
+  ],
+  "category": "Salad",
+  "source": "Flavorish",
+  "notes": "Feel free to add peppers, feta cheese, or other toppings as desired.\n\nSource: https://www.facebook.com/share/v/14M4LEWpzXG/\n\nNutrition: Serving 1 bowl · Calories Approximately 50 kcal per serving · Fat 3g · Saturated fat 0.5g · Unsaturated fat 2.5g · Trans fat 0g · Cholesterol 0mg · Sodium 50mg · Carbs 5g · Fiber 1g · Sugar 1g · Protein 1g",
+  "created_at": "2025-11-08T04:15:06.355+00:00",
+  "updated_at": "2026-07-19T09:59:39.400564+00:00",
+  "deleted": false,
+  "images": [
+    "images/e40f3813-9764-4c53-81d5-c2e282c4d66e/e40f3813-9764-4c53-81d5-c2e282c4d66e.jpg"
+  ]
+}

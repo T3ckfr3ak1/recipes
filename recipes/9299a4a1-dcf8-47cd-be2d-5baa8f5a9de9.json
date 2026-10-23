@@ -1,0 +1,92 @@
+{
+  "id": "9299a4a1-dcf8-47cd-be2d-5baa8f5a9de9",
+  "title": "Corn Dog Tacos",
+  "description": "If you never had a corn dog taco, Taco Tuesday's about to change forever.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 4,
+  "ingredients": [
+    {
+      "quantity": "1 1/2",
+      "unit": "pounds",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "packet taco seasoning"
+    },
+    {
+      "quantity": "16",
+      "unit": "ounces",
+      "item": "Mexican mozzarella"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Kebab sticks"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "egg"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "Bisquick"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "masa"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "southern seasoning"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "melted butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "milk"
+    }
+  ],
+  "steps": [
+    "Brown the ground beef.",
+    "Add taco seasoning and break up the meat as it cooks.",
+    "Once fully cooked, turn off the heat and stir to cool down slightly.",
+    "Fold in the Mexican mozzarella, do not stir a lot.",
+    "Lay the mixture out on parchment paper to cool down.",
+    "Once cooled, form the mixture around kebab sticks.",
+    "Freeze for one hour.",
+    "Make the batter: mix 1 egg, 1 cup Bisquick, 1 cup masa, 1 teaspoon southern seasoning, 2 tablespoons melted butter, and 1 cup milk.",
+    "Pour the batter into a tall glass.",
+    "Dip the frozen taco on a stick into the batter.",
+    "Place in an air fryer set to 350 degrees.",
+    "Cook for three to four minutes until golden brown."
+  ],
+  "tags": [
+    "Dinner",
+    "American",
+    "Mexican-inspired",
+    "corn dog tacos",
+    "taco tuesday",
+    "easy dinner",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1DQMLPG33y/\n\nNutrition: Serving 1 taco · Calories 450 · Fat 25g · Saturated fat 10g · Unsaturated fat 14g · Trans fat 1g · Cholesterol 120mg · Sodium 600mg · Carbs 30g · Fiber 2g · Sugar 5g · Protein 25g",
+  "created_at": "2026-06-15T03:30:26.13+00:00",
+  "updated_at": "2026-07-19T05:26:27.635332+00:00",
+  "deleted": false,
+  "images": [
+    "images/9299a4a1-dcf8-47cd-be2d-5baa8f5a9de9/9299a4a1-dcf8-47cd-be2d-5baa8f5a9de9.jpg"
+  ]
+}

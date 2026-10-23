@@ -1,0 +1,104 @@
+{
+  "id": "e8765987-1925-4572-a715-be4acf6f4941",
+  "title": "Classic Beef Stew",
+  "description": "A hearty and flavorful beef stew cooked with vegetables, bacon, and Guinness, perfect for a comforting meal.",
+  "servings": 6,
+  "prep_minutes": 20,
+  "cook_minutes": 160,
+  "ingredients": [
+    {
+      "quantity": "2 1/2",
+      "unit": "pounds",
+      "item": "stew meat"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Olive oil"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "diced onions"
+    },
+    {
+      "quantity": "3",
+      "unit": "cloves",
+      "item": "minced garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half a package of chopped bacon"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "carrots"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "celery stalks"
+    },
+    {
+      "quantity": "3",
+      "unit": "tablespoons",
+      "item": "flour"
+    },
+    {
+      "quantity": "3",
+      "unit": "tablespoons",
+      "item": "tomato paste"
+    },
+    {
+      "quantity": "3",
+      "unit": "cups",
+      "item": "chicken broth"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Guinness beer"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "bay leaves"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoons",
+      "item": "thyme"
+    }
+  ],
+  "steps": [
+    "Brown the stew meat in a Dutch oven in batches until beautifully browned. Remove and set aside.",
+    "Reduce the heat, add a little olive oil, and sauté the diced onions and minced garlic until softened.",
+    "Add chopped bacon and cook until browned.",
+    "Stir in chopped carrots and celery, cooking for a short while.",
+    "Add flour and cook for about a minute, stirring constantly.",
+    "Stir in tomato paste, chicken broth, and Guinness beer. Mix well.",
+    "Add bay leaves and thyme.",
+    "Return the browned meat to the pot with its juices.",
+    "Ensure the meat is covered with liquid, bring to a simmer, then cover with a lid.",
+    "Cook for 2 hours with the lid on, then remove the lid and cook for an additional 30 to 40 minutes."
+  ],
+  "tags": [
+    "Irish",
+    "beef stew",
+    "hearty",
+    "comfort food",
+    "Guinness",
+    "vegetables"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1PyT8ADdXR/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 20 g · Saturated fat 5 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 100 mg · Sodium 800 mg · Carbs 40 g · Fiber 5 g · Sugar 8 g · Protein 35 g",
+  "created_at": "2025-09-19T04:24:57.101+00:00",
+  "updated_at": "2026-07-19T10:14:32.154072+00:00",
+  "deleted": false,
+  "images": [
+    "images/e8765987-1925-4572-a715-be4acf6f4941/e8765987-1925-4572-a715-be4acf6f4941.jpg"
+  ]
+}

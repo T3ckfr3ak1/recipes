@@ -1,0 +1,80 @@
+{
+  "id": "58389cff-8e0d-46f3-ac1a-4866e7cf74c0",
+  "title": "Office Tuna and Egg Lunch",
+  "description": "A quick, high-protein lunch featuring canned tuna and soft-boiled eggs, perfect for a busy workday.",
+  "servings": 1,
+  "prep_minutes": 5,
+  "cook_minutes": 8,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "tuna, drained"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "eight-minute eggs, peeled"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Dijon mustard"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Red wine vinegar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Drizzle of oil"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Squeeze of lemon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Dry seasoning (oregano, salt, pepper)"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "tomato, for serving"
+    }
+  ],
+  "steps": [
+    "Drain the tuna into a bowl.",
+    "Add the peeled eight-minute eggs to the bowl.",
+    "Use a fork to mush the tuna and eggs together.",
+    "Add Dijon mustard, red wine vinegar, a drizzle of oil, a squeeze of lemon, garlic, and seasonings to taste.",
+    "Mash everything together until well combined.",
+    "Serve on top of a sliced tomato with a little extra salt."
+  ],
+  "tags": [
+    "American",
+    "high-protein",
+    "lunch",
+    "tuna",
+    "eggs",
+    "quick"
+  ],
+  "category": "Lunch",
+  "source": "Flavorish",
+  "notes": "This is a great high-protein meal that is easy to assemble at the office.\n\nSource: https://www.facebook.com/share/v/1MMajzHPrP/\n\nNutrition: Serving 1 bowl · Calories 350 · Fat 15g · Saturated fat 3g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 380mg · Sodium 600mg · Carbs 10g · Fiber 2g · Sugar 4g · Protein 45g",
+  "created_at": "2026-08-03T07:39:02.989399+00:00",
+  "updated_at": "2026-08-03T07:39:02.989399+00:00",
+  "deleted": false,
+  "images": [
+    "images/58389cff-8e0d-46f3-ac1a-4866e7cf74c0/58389cff-8e0d-46f3-ac1a-4866e7cf74c0.jpg"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "3a27e0bd-369a-4f68-9ee3-4f2ca5e9523a",
+  "title": "Cheeseburger Stuffed Bacon Wrapped Onion Rings",
+  "description": "Bacon-wrapped onion rings stuffed with cheeseburger ingredients, glazed with Japanese BBQ sauce.",
+  "servings": 4,
+  "prep_minutes": 20,
+  "cook_minutes": 35,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "lb",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "bacon fat"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic to taste"
+    },
+    {
+      "quantity": "2",
+      "unit": "large",
+      "item": "white onions, thick cut"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Burger Sauce (see ingredients below)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bachan's Roasted Garlic Japanese BBQ Sauce (2 tablespoons)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ketchup (1 tablespoon)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mustard (1/2 tablespoon)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mayonnaise (1/2 tablespoon)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Relish (1/2 tablespoon)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Smoked paprika (1/2 tablespoon)"
+    }
+  ],
+  "steps": [
+    "Mix ground beef with shredded cheese, salt, pepper, and garlic to taste. Add bacon fat to keep the meat moist.",
+    "Slice onions into thick rings. Hollow out the center of each onion ring.",
+    "Form the ground beef mixture around each onion ring, shaping it to fit and hollowing out the center.",
+    "Wrap each stuffed onion ring with bacon slices.",
+    "Sprinkle with your favorite rub, then cook in a smoker or oven at 350°F for about 35 minutes.",
+    "Prepare the burger sauce by mixing all sauce ingredients together and chill until use.",
+    "Approximately 10-15 minutes before cooking is complete, baste the onion rings with Bachan's roasted garlic Japanese BBQ sauce to glaze.",
+    "Once cooked, cut open the onion rings, serve with the burger sauce for dipping."
+  ],
+  "tags": [
+    "Main Course",
+    "American",
+    "bacon",
+    "cheeseburger",
+    "onion rings",
+    "barbecue",
+    "smoked"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Ensure bacon is wrapped securely around the onion rings to prevent unraveling during cooking.\n\nSource: https://www.facebook.com/share/r/194Nr7fmZd/\n\nNutrition: Serving 1 onion ring · Calories 350 kcal · Fat 25 g · Saturated fat 10 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 600 mg · Carbs 20 g · Fiber 3 g · Sugar 5 g · Protein 20 g",
+  "created_at": "2025-11-24T04:12:32.873+00:00",
+  "updated_at": "2026-07-19T00:22:43.631826+00:00",
+  "deleted": false,
+  "images": [
+    "images/3a27e0bd-369a-4f68-9ee3-4f2ca5e9523a/3a27e0bd-369a-4f68-9ee3-4f2ca5e9523a.jpg"
+  ]
+}

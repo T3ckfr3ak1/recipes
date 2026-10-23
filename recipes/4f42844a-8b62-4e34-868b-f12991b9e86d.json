@@ -1,0 +1,68 @@
+{
+  "id": "4f42844a-8b62-4e34-868b-f12991b9e86d",
+  "title": "The Best Box Chocolate Cake",
+  "description": "A simple hack to elevate a standard box cake mix into a homemade-tasting dessert.",
+  "servings": 12,
+  "prep_minutes": 15,
+  "cook_minutes": 35,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "box",
+      "item": "yellow cake mix"
+    },
+    {
+      "quantity": "4",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "1",
+      "unit": "stick",
+      "item": "melted butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "milk"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "vanilla extract"
+    },
+    {
+      "quantity": "1",
+      "unit": "container",
+      "item": "Hershey chocolate icing"
+    }
+  ],
+  "steps": [
+    "Preheat your oven to 325 degrees.",
+    "In a large bowl, combine the yellow cake mix, eggs, melted butter, milk, and vanilla extract.",
+    "Mix the ingredients together until well combined.",
+    "Pour the batter into an 8 by 11 inch baking pan.",
+    "Bake for approximately 30-35 minutes, or until a toothpick comes out clean.",
+    "Remove from the oven and let the cake cool completely.",
+    "Place the chocolate icing in the microwave for about 15 seconds to make it pourable.",
+    "Stir the icing and pour it evenly over the top of the cooled cake.",
+    "Use a knife to spread the icing into the corners and let it set before serving."
+  ],
+  "tags": [
+    "American",
+    "cake",
+    "baking",
+    "dessert",
+    "hack",
+    "chocolate"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "Using melted butter instead of oil and milk instead of water adds a richer, more homemade flavor and texture to the cake.\n\nSource: https://www.facebook.com/share/v/19HS2ZwzC5/\n\nNutrition: Serving 1 slice · Calories 350 · Fat 18g · Saturated fat 9g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 85mg · Sodium 320mg · Carbs 45g · Fiber 1g · Sugar 32g · Protein 4g",
+  "created_at": "2026-09-25T21:26:18.484388+00:00",
+  "updated_at": "2026-09-25T21:26:18.484388+00:00",
+  "deleted": false,
+  "images": [
+    "images/4f42844a-8b62-4e34-868b-f12991b9e86d/4f42844a-8b62-4e34-868b-f12991b9e86d.jpg"
+  ]
+}

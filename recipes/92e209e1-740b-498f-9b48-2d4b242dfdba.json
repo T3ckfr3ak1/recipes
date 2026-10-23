@@ -1,0 +1,79 @@
+{
+  "id": "92e209e1-740b-498f-9b48-2d4b242dfdba",
+  "title": "Stuffing 101",
+  "description": "A classic stuffing recipe perfect for Thanksgiving and comfort food.",
+  "servings": 8,
+  "prep_minutes": 15,
+  "cook_minutes": 40,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bread cubes (about 10 cups)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Unsalted butter (1/2 cup)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chopped onion (1 cup)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chopped celery (1 cup)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chopped herbs (such as sage, thyme, rosemary) (2 tablespoons)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt (to taste)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Black pepper (to taste)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chicken or vegetable broth (1 to 1.5 cups)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: cooked sausage, cranberries, nuts (to taste)"
+    }
+  ],
+  "steps": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large skillet, melt butter over medium heat. Add chopped onion and celery; cook until softened.",
+    "Stir in chopped herbs, salt, and pepper.",
+    "In a large mixing bowl, combine bread cubes with the sautéed vegetables and herbs.",
+    "Gradually add broth until the mixture is moist but not soggy.",
+    "Transfer the mixture to a greased baking dish.",
+    "Bake uncovered for 30-40 minutes until golden brown on top."
+  ],
+  "tags": [
+    "American",
+    "stuffing",
+    "thanksgiving",
+    "comfort food"
+  ],
+  "category": "Side Dish",
+  "source": "Flavorish",
+  "notes": "Feel free to add cooked sausage, cranberries, or nuts for extra flavor.\n\nSource: https://www.facebook.com/share/r/1HLbXLKmyJ/\n\nNutrition: Serving 1 cup · Calories 200 kcal · Fat 8 g · Saturated fat 3 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 300 mg · Carbs 30 g · Fiber 3 g · Sugar 5 g · Protein 4 g",
+  "created_at": "2025-11-23T15:25:55.774+00:00",
+  "updated_at": "2026-07-19T05:27:24.956139+00:00",
+  "deleted": false,
+  "images": [
+    "images/92e209e1-740b-498f-9b48-2d4b242dfdba/92e209e1-740b-498f-9b48-2d4b242dfdba.jpg"
+  ]
+}

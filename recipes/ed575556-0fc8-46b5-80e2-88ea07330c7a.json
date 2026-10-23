@@ -1,0 +1,112 @@
+{
+  "id": "ed575556-0fc8-46b5-80e2-88ea07330c7a",
+  "title": "Barbecue Baked Beans",
+  "description": "A flavorful baked beans recipe with smoked sausage, ground meat, and barbecue sauce.",
+  "servings": 6,
+  "prep_minutes": 5,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "stick",
+      "item": "butter"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Favorite smoked sausage"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Favorite barbecue sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "medium",
+      "item": "yellow onion"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "green bell pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ground meat (beef or preferred type)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Favorite baked beans"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Whole bottle of Lovey's barbecue sauce"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "brown sugar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mustard"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional garlic powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Black pepper"
+    }
+  ],
+  "steps": [
+    "Mix the butter, smoked sausage, barbecue sauce, onion, bell pepper, ground meat, salt, pepper, garlic powder, baked beans, Lovey's barbecue sauce, brown sugar, mustard, additional salt, garlic powder, and black pepper.",
+    "Combine all ingredients thoroughly.",
+    "Let the mixture warm up for about 20 minutes."
+  ],
+  "tags": [
+    "American",
+    "barbecue",
+    "baked beans",
+    "sausage",
+    "ground meat",
+    "flavorful"
+  ],
+  "category": "Side Dish",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1AyNeAoJLw/\n\nNutrition: Serving 1 cup · Calories 250 · Fat 12g · Saturated fat 4g · Unsaturated fat 8g · Trans fat 0g · Cholesterol 40mg · Sodium 600mg · Carbs 35g · Fiber 5g · Sugar 15g · Protein 10g",
+  "created_at": "2025-11-27T03:27:16.939+00:00",
+  "updated_at": "2026-07-19T10:30:57.593929+00:00",
+  "deleted": false,
+  "images": [
+    "images/ed575556-0fc8-46b5-80e2-88ea07330c7a/ed575556-0fc8-46b5-80e2-88ea07330c7a.jpg"
+  ]
+}

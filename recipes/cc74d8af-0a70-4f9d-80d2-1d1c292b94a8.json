@@ -1,0 +1,56 @@
+{
+  "id": "cc74d8af-0a70-4f9d-80d2-1d1c292b94a8",
+  "title": "Cheesy Sloppy Joe Garlic Toast",
+  "description": "A delicious and easy dinner idea combining sloppy joe filling with cheesy garlic Texas toast.",
+  "servings": 4,
+  "prep_minutes": 5,
+  "cook_minutes": 10,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "sloppy joe sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Slices of provolone cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Frozen garlic Texas toast"
+    }
+  ],
+  "steps": [
+    "Cook the frozen garlic Texas toast according to the package instructions.",
+    "Use the back of a spoon to mash down in the middle of each toast slice to create a small well.",
+    "Brown the ground beef in a skillet until fully cooked.",
+    "Add the can of sloppy joe sauce to the cooked ground beef and stir to combine.",
+    "Place a slice of provolone cheese over each piece of toast.",
+    "Return the assembled toasts to the oven at 425°F and bake for 10 minutes, or until the cheese is melted and everything is toasted.",
+    "Serve hot and enjoy."
+  ],
+  "tags": [
+    "American",
+    "dinner",
+    "sloppy joes",
+    "garlic toast",
+    "cheesy",
+    "quick meal"
+  ],
+  "category": "Dinner",
+  "source": "Flavorish",
+  "notes": "Adjust cooking time as needed to melt cheese and toast to your preference.\n\nSource: https://www.facebook.com/share/r/1JiUdWkRRf/\n\nNutrition: Serving 1 toast with topping · Calories Approximate 350 kcal per serving · Fat 15g · Saturated fat 8g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 60mg · Sodium 800mg · Carbs 40g · Fiber 3g · Sugar 8g · Protein 20g",
+  "created_at": "2025-11-04T05:31:02.703+00:00",
+  "updated_at": "2026-07-19T08:40:12.666055+00:00",
+  "deleted": false,
+  "images": [
+    "images/cc74d8af-0a70-4f9d-80d2-1d1c292b94a8/cc74d8af-0a70-4f9d-80d2-1d1c292b94a8.jpg"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "6c676546-51b6-49d5-a6bd-009350156c5b",
+  "title": "Cowboy Spaghetti",
+  "description": "A hearty and easy-to-make cowboy spaghetti with big chunks of meat and vegetables, simmered in a flavorful tomato broth.",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "pounds",
+      "item": "hamburger meat"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Onion powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cayenne pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Black pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "IGA crackers, bread crumbs, or grilled bread"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Tony's no salt seasoning"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Beef broth"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Italian seasoning"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Onions, cut into chunks"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Portobello mushrooms, cut into chunks"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Celery, cut into chunks"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Whole tomatoes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Fire roasted tomatoes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Hot Rotel (diced tomatoes with green chilies)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Tomato sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Can of tomato paste"
+    }
+  ],
+  "steps": [
+    "In a bowl, combine hamburger meat, eggs, garlic powder, onion powder, cayenne pepper, black pepper, salt, crackers or bread crumbs, and Tony's no salt seasoning. Mix thoroughly with your hand.",
+    "Form the mixture into meatballs of your desired size.",
+    "Place the meatballs in a pot and cover with beef broth. Bring to a boil and cook for 30 minutes.",
+    "After boiling, add Italian seasoning, chopped onions, portobello mushrooms, and celery to the pot.",
+    "Add whole tomatoes, fire roasted tomatoes, diced tomatoes with green chilies, tomato sauce, and tomato paste. Stir to combine.",
+    "Cover the pot with a lid and simmer until vegetables are tender and flavors meld, about 30 minutes."
+  ],
+  "tags": [
+    "American",
+    "cowboy",
+    "spaghetti",
+    "hearty",
+    "easy",
+    "meatballs",
+    "vegetables"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1Co3kanMdT/\n\nNutrition: Serving 1 bowl · Calories Approximately 400 kcal per serving · Fat 15g · Saturated fat 5g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 800mg · Carbs 50g · Fiber 8g · Sugar 10g · Protein 25g",
+  "created_at": "2025-11-23T15:41:17.134+00:00",
+  "updated_at": "2026-07-19T03:18:00.883324+00:00",
+  "deleted": false,
+  "images": [
+    "images/6c676546-51b6-49d5-a6bd-009350156c5b/6c676546-51b6-49d5-a6bd-009350156c5b.jpg"
+  ]
+}

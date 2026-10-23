@@ -1,0 +1,94 @@
+{
+  "id": "9f91e5a7-c3d9-4357-9418-1e69c871a372",
+  "title": "Crockpot Sausage and Peppers Pasta",
+  "description": "A hearty and flavorful crockpot sausage and peppers pasta dish.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 180,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "pounds",
+      "item": "your favorite sausage"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "sliced onion"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "sliced red bell pepper"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "sliced yellow bell pepper"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "sliced orange bell pepper"
+    },
+    {
+      "quantity": "2",
+      "unit": "cloves",
+      "item": "minced garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper to taste"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "Italian seasoning"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "crushed red pepper flakes (optional, for spiciness)"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "marinara sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cooked pasta of your choice"
+    }
+  ],
+  "steps": [
+    "Place the sausage in the crockpot.",
+    "Add the sliced onion, red bell pepper, yellow bell pepper, and orange bell pepper.",
+    "Add the minced garlic, salt, pepper, Italian seasoning, and crushed red pepper flakes if using.",
+    "Pour in the marinara sauce and stir well.",
+    "Cover and cook on high for about 3 hours.",
+    "After cooking, remove the sausages and cut them into bite-sized pieces.",
+    "Return the sausage pieces to the crockpot and stir to combine.",
+    "Add the cooked pasta and stir until well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "tags": [
+    "Italian",
+    "crockpot",
+    "sausage",
+    "peppers",
+    "pasta",
+    "easy",
+    "dinner"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/16cVaAzDbK/\n\nNutrition: Serving 1 plate · Calories Approximate based on ingredients · Fat Approximate · Saturated fat Approximate · Unsaturated fat Approximate · Trans fat Approximate · Cholesterol Approximate · Sodium Approximate · Carbs Approximate · Fiber Approximate · Sugar Approximate · Protein Approximate",
+  "created_at": "2025-09-20T04:06:14.3+00:00",
+  "updated_at": "2026-07-19T06:12:25.235648+00:00",
+  "deleted": false,
+  "images": [
+    "images/9f91e5a7-c3d9-4357-9418-1e69c871a372/9f91e5a7-c3d9-4357-9418-1e69c871a372.jpg"
+  ]
+}

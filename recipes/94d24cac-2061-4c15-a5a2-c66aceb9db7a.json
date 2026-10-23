@@ -1,0 +1,54 @@
+{
+  "id": "94d24cac-2061-4c15-a5a2-c66aceb9db7a",
+  "title": "German Pancake",
+  "description": "A massive, fluffy, oven-baked pancake that is incredibly easy to make and perfect for sharing.",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "6",
+      "unit": "tablespoons",
+      "item": "butter"
+    },
+    {
+      "quantity": "9",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "cups",
+      "item": "milk"
+    }
+  ],
+  "steps": [
+    "Preheat your oven to 400 degrees.",
+    "Place the butter in a baking dish and put it in the preheated oven to melt.",
+    "In a blender, combine the eggs, a pinch of salt, and the milk. Blend until well combined.",
+    "Carefully remove the baking dish with the melted butter from the oven.",
+    "Pour the egg mixture into the baking dish with the hot butter.",
+    "Place the dish back into the oven and bake for 20 minutes."
+  ],
+  "tags": [
+    "German",
+    "German pancake",
+    "breakfast",
+    "easy",
+    "fluffy"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Serve with fruit or powdered sugar if desired.\n\nSource: https://www.facebook.com/share/v/1F5y3ELNWx/\n\nNutrition: Serving 1 slice · Calories 280 · Fat 18g · Saturated fat 9g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 280mg · Sodium 250mg · Carbs 12g · Fiber 0g · Sugar 8g · Protein 14g",
+  "created_at": "2026-07-05T06:28:24.241381+00:00",
+  "updated_at": "2026-07-05T06:28:24.241381+00:00",
+  "deleted": false,
+  "images": [
+    "images/94d24cac-2061-4c15-a5a2-c66aceb9db7a/94d24cac-2061-4c15-a5a2-c66aceb9db7a.jpg"
+  ]
+}

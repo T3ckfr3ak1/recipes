@@ -1,0 +1,67 @@
+{
+  "id": "4485d134-533c-49da-9d0f-e75cba948586",
+  "title": "All American Breakfast Muffins",
+  "description": "A hearty breakfast muffin recipe with hash browns, sausage, cheese, and eggs, perfect for meal prep and quick mornings.",
+  "servings": 12,
+  "prep_minutes": 5,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Frozen shredded hash browns"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cooked sausage crumbles (pre-cooked or homemade)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Shredded cheddar cheese"
+    },
+    {
+      "quantity": "10",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash of milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper to taste"
+    }
+  ],
+  "steps": [
+    "Add frozen shredded hash browns to a muffin tin.",
+    "Add cooked sausage crumbles to each muffin cup.",
+    "Add shredded cheddar cheese to each muffin cup.",
+    "In a small mixing bowl, crack 10 eggs, add a splash of milk, salt, and pepper, then mix well.",
+    "Pour the egg mixture into each muffin cup, filling them up.",
+    "Bake in the oven at 350°F for about 15 minutes, or until cooked through.",
+    "Remove from oven, and serve. Optional: cut in half to admire the cooked eggs."
+  ],
+  "tags": [
+    "American",
+    "breakfast",
+    "muffins",
+    "eggs",
+    "sausage",
+    "cheese",
+    "meal prep"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/16Fz5itfv1/\n\nNutrition: Serving 1 muffin · Calories 150 kcal · Fat 10 g · Saturated fat 4 g · Unsaturated fat 6 g · Trans fat 0 g · Cholesterol 70 mg · Sodium 300 mg · Carbs 10 g · Fiber 1 g · Sugar 1 g · Protein 8 g",
+  "created_at": "2025-09-19T04:52:49.87+00:00",
+  "updated_at": "2026-07-19T00:59:43.954009+00:00",
+  "deleted": false,
+  "images": [
+    "images/4485d134-533c-49da-9d0f-e75cba948586/4485d134-533c-49da-9d0f-e75cba948586.jpg"
+  ]
+}

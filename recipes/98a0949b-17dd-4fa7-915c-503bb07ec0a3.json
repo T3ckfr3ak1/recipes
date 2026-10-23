@@ -1,0 +1,89 @@
+{
+  "id": "98a0949b-17dd-4fa7-915c-503bb07ec0a3",
+  "title": "1 Pan Taco Mac",
+  "description": "A quick and kid-approved one-pan meal combining ground beef, pasta, and taco-inspired flavors.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "onion, chopped"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Taco seasonings (chili powder, cumin, garlic powder, salt, pepper)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "Rotel"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "tomato sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pasta"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chicken broth"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash of milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Nature's confetti (cilantro or parsley)"
+    }
+  ],
+  "steps": [
+    "Heat your pan over medium heat and throw in ground beef, chopped onion, and seasonings.",
+    "Once browned, add garlic, Rotel, tomato sauce, pasta, and chicken broth.",
+    "Once bubbling, cover, lower the heat, and cook on medium-low for about 12 minutes.",
+    "Stir in cheese and a splash of milk, sprinkle with nature's confetti, and serve."
+  ],
+  "tags": [
+    "American",
+    "Tex-Mex",
+    "taco mac",
+    "one pan",
+    "kid friendly",
+    "dinner",
+    "ground beef"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "A simple, one-pan dinner solution perfect for busy weeknights.\n\nSource: https://www.facebook.com/share/r/1BaH1JJBhm/\n\nNutrition: Serving 1 bowl · Calories 550 kcal · Fat 22g · Saturated fat 9g · Unsaturated fat 11g · Trans fat 0g · Cholesterol 85mg · Sodium 950mg · Carbs 45g · Fiber 3g · Sugar 6g · Protein 32g",
+  "created_at": "2026-07-27T03:43:39.4846+00:00",
+  "updated_at": "2026-07-27T03:43:39.4846+00:00",
+  "deleted": false,
+  "images": [
+    "images/98a0949b-17dd-4fa7-915c-503bb07ec0a3/98a0949b-17dd-4fa7-915c-503bb07ec0a3.jpg"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "034e0ec0-d7b7-42b6-b190-d45eba10db28",
+  "title": "Marry Me Salad",
+  "description": "A simple and life-changing iceberg lettuce salad that is quick to prepare and incredibly flavorful.",
+  "servings": 2,
+  "prep_minutes": 5,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Shredded iceberg lettuce"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "lemon, juiced"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Olive oil, to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt, about the size of a flat quarter in your hand"
+    },
+    {
+      "quantity": "1",
+      "unit": "clove",
+      "item": "garlic, grated"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper, to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash of white vinegar"
+    }
+  ],
+  "steps": [
+    "Place the shredded lettuce in a bowl.",
+    "Add the lemon juice, olive oil, salt, grated garlic, pepper, and a splash of white vinegar.",
+    "Mix everything together thoroughly until well incorporated."
+  ],
+  "tags": [
+    "American",
+    "salad",
+    "marry me salad",
+    "simple",
+    "quick",
+    "iceberg lettuce"
+  ],
+  "category": "Salad",
+  "source": "Flavorish",
+  "notes": "You can customize this salad by adding ingredients like peppers or feta cheese on top.\n\nSource: https://www.facebook.com/share/v/1aY7TxTBpy/\n\nNutrition: Serving 1 serving · Calories 120 kcal · Fat 10g · Saturated fat 1.5g · Unsaturated fat 8g · Trans fat 0g · Cholesterol 0mg · Sodium 350mg · Carbs 6g · Fiber 2g · Sugar 2g · Protein 1g",
+  "created_at": "2026-07-09T06:03:30.422259+00:00",
+  "updated_at": "2026-07-09T06:03:30.422259+00:00",
+  "deleted": false,
+  "images": [
+    "images/034e0ec0-d7b7-42b6-b190-d45eba10db28/034e0ec0-d7b7-42b6-b190-d45eba10db28.jpg"
+  ]
+}

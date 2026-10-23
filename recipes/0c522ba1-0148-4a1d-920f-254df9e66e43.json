@@ -1,0 +1,71 @@
+{
+  "id": "0c522ba1-0148-4a1d-920f-254df9e66e43",
+  "title": "Hawaiian Roll BBQ Chicken Pizza Sliders",
+  "description": "A unique and delicious twist on barbecue chicken pizza using King's Hawaiian rolls as the base.",
+  "servings": 12,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "package",
+      "item": "King's Hawaiian rolls"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Barbecue sauce (as desired)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Shredded mozzarella cheese (as desired)"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded chicken, cooked"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Red onions (optional)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bacon crumbles (optional)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Gouda cheese (to taste)"
+    }
+  ],
+  "steps": [
+    "Brush a layer of barbecue sauce onto the Hawaiian rolls.",
+    "Add a layer of shredded mozzarella cheese.",
+    "Mix the shredded chicken with some barbecue sauce, then spread it evenly over the cheese layer.",
+    "Add optional toppings like red onions and bacon crumbles.",
+    "Top with a sprinkle of Gouda cheese.",
+    "Bake in the oven at 350 degrees until the edges are toasty and the cheese is melted.",
+    "Remove from the oven, cut, and serve."
+  ],
+  "tags": [
+    "Appetizer",
+    "American",
+    "pizza",
+    "sliders",
+    "Hawaiian rolls",
+    "BBQ chicken"
+  ],
+  "category": "Main Dish",
+  "source": "Flavorish",
+  "notes": "The author notes that while the concept of using Hawaiian rolls for pizza seemed weird, the final result is delicious.\n\nSource: https://www.facebook.com/share/v/1NwN9NMGrk/\n\nNutrition: Serving 1 slider · Calories 210 · Fat 8g · Saturated fat 3g · Unsaturated fat 4g · Trans fat 0g · Cholesterol 45mg · Sodium 480mg · Carbs 22g · Fiber 1g · Sugar 7g · Protein 12g",
+  "created_at": "2026-08-01T04:55:28.616209+00:00",
+  "updated_at": "2026-08-01T04:55:28.616209+00:00",
+  "deleted": false,
+  "images": [
+    "images/0c522ba1-0148-4a1d-920f-254df9e66e43/0c522ba1-0148-4a1d-920f-254df9e66e43.jpg"
+  ]
+}

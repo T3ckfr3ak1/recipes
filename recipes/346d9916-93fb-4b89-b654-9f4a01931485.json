@@ -1,0 +1,79 @@
+{
+  "id": "346d9916-93fb-4b89-b654-9f4a01931485",
+  "title": "Butter Burger with Onion and Garlic Butter",
+  "description": "Have You Tried this Butter Burger? It's My New Favorite! 🍔🧈😋",
+  "servings": 2,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "ounces",
+      "item": "butter"
+    },
+    {
+      "quantity": "4",
+      "unit": "cloves",
+      "item": "garlic, chopped very fine"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "parsley, chopped"
+    },
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "chuck roast"
+    },
+    {
+      "quantity": "3-4",
+      "unit": "ounces",
+      "item": "bacon (optional)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheddar cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Buns"
+    }
+  ],
+  "steps": [
+    "Cook the whole onion until stewed.",
+    "Form the burger patties using 3-ounce portions, smash slightly with parchment paper.",
+    "Heat a skillet and add butter to it.",
+    "Cook the patties in the skillet, seasoning with salt and pepper, until caramelized.",
+    "Flip the patties and add cheddar cheese on top.",
+    "Add garlic butter to the skillet, including the chopped garlic and parsley, and cook gently to prevent burning.",
+    "Toast the buns in the garlic butter.",
+    "Assemble the burger by placing a patty on the bun, then adding the stewed onion, and topping with more garlic butter.",
+    "Serve and enjoy this delicious Butter Burger."
+  ],
+  "tags": [
+    "Burgers",
+    "American",
+    "butter burger",
+    "onion",
+    "garlic butter",
+    "cheeseburger",
+    "Wisconsin style"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Use 80-20 ground beef or chuck roast for best flavor. Bacon is optional but adds richness.\n\nSource: https://www.facebook.com/share/v/1GHYtAK5bs/\n\nNutrition: Serving 1 burger · Calories Approximately 700 kcal · Fat 50 g · Saturated fat 20 g · Unsaturated fat 30 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 800 mg · Carbs 50 g · Fiber 3 g · Sugar 8 g · Protein 40 g",
+  "created_at": "2025-10-13T02:25:38.633+00:00",
+  "updated_at": "2026-07-19T00:03:00.289829+00:00",
+  "deleted": false,
+  "images": [
+    "images/346d9916-93fb-4b89-b654-9f4a01931485/346d9916-93fb-4b89-b654-9f4a01931485.jpg"
+  ]
+}

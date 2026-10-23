@@ -1,0 +1,110 @@
+{
+  "id": "e2a984a1-db88-4539-a286-3a08f5f8715e",
+  "title": "Payday Buttered Noodles",
+  "description": "A comforting old-school buttered noodles recipe inspired by a social media post.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "1 1/2",
+      "unit": "pounds",
+      "item": "shaved beef steak"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "oil"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "shallot, diced"
+    },
+    {
+      "quantity": "6-7",
+      "unit": "cloves",
+      "item": "garlic, minced"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tablespoon",
+      "item": "dried parsley"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Red pepper flakes, to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Creole seasoning, to taste"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "stick",
+      "item": "butter"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt, to taste"
+    },
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "pasta"
+    },
+    {
+      "quantity": "2",
+      "unit": "ounces",
+      "item": "Parmesan cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "pasta water"
+    },
+    {
+      "quantity": "12",
+      "unit": "ounces",
+      "item": "evaporated milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional Parmesan cheese for topping"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash of hot sauce (optional, as per the post)"
+    }
+  ],
+  "steps": [
+    "Heat a hot skillet with a little oil. Add shaved beef steak and cook until browned, breaking it up as it cooks.",
+    "Add diced shallot, minced garlic, dried parsley, red pepper flakes, creole seasoning, and butter to the skillet. Continue cooking until the shallots are translucent and the beef is cooked through.",
+    "Meanwhile, boil water with a pinch of salt. Add pasta and cook for five minutes, ensuring it remains al dente. Drain and set aside, reserving some pasta water.",
+    "Add cooked pasta to the skillet with the beef and vegetables. Pour in Parmesan cheese, pasta water, and evaporated milk. Stir to combine everything thoroughly.",
+    "Bring the mixture to a simmer and cook for about eight minutes, allowing flavors to meld.",
+    "Remove from heat. Top with additional Parmesan cheese and a splash of hot sauce if desired. Serve immediately."
+  ],
+  "tags": [
+    "Pasta",
+    "American",
+    "buttered noodles",
+    "beef",
+    "comfort food",
+    "easy recipe"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Feel free to adjust the spice levels with more or less red pepper flakes and hot sauce to suit your taste.\n\nSource: https://www.facebook.com/share/r/1AAuxefb5U/\n\nNutrition: Serving 1 bowl · Calories Approximately 600 kcal · Fat 25g · Saturated fat 10g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 50mg · Sodium 800mg · Carbs 80g · Fiber 4g · Sugar 8g · Protein 30g",
+  "created_at": "2025-11-23T17:01:46.484+00:00",
+  "updated_at": "2026-07-19T09:54:57.139162+00:00",
+  "deleted": false,
+  "images": [
+    "images/e2a984a1-db88-4539-a286-3a08f5f8715e/e2a984a1-db88-4539-a286-3a08f5f8715e.jpg"
+  ]
+}

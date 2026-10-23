@@ -1,0 +1,72 @@
+{
+  "id": "c29e9b37-f9bc-4f35-b1de-8736fe433eb6",
+  "title": "Sparkling Tater",
+  "description": "A unique and surprisingly delicious dish featuring potatoes, onions, peppers, and bacon slow-cooked in a Dutch oven with Sprite.",
+  "servings": 4,
+  "prep_minutes": 75,
+  "cook_minutes": 60,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Potatoes, chopped and soaked"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Onion"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Green pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Serrano pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bacon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sprite (enough to cover ingredients)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper"
+    }
+  ],
+  "steps": [
+    "Chop the potatoes and soak them for about an hour.",
+    "Place the soaked potatoes into a Dutch oven.",
+    "Chop the onion, green pepper, and serrano pepper.",
+    "Cook the onions and peppers together, seasoning with salt and pepper.",
+    "Mix the cooked vegetables into the Dutch oven with the potatoes.",
+    "Add the bacon to the Dutch oven.",
+    "Pour enough Sprite into the Dutch oven to cover everything.",
+    "Bake in the Dutch oven for one hour."
+  ],
+  "tags": [
+    "American",
+    "potato",
+    "bacon",
+    "sprite",
+    "dutch oven",
+    "savory"
+  ],
+  "category": "Main Dish",
+  "source": "Flavorish",
+  "notes": "The dish has a unique sweetness from the Sprite and the onions cook down to a very pleasant texture.\n\nSource: https://www.facebook.com/share/v/14jA56tDz9H/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 18g · Saturated fat 6g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 30mg · Sodium 850mg · Carbs 65g · Fiber 4g · Sugar 25g · Protein 12g",
+  "created_at": "2026-07-18T17:45:45.322026+00:00",
+  "updated_at": "2026-07-18T17:45:45.322026+00:00",
+  "deleted": false,
+  "images": [
+    "images/c29e9b37-f9bc-4f35-b1de-8736fe433eb6/c29e9b37-f9bc-4f35-b1de-8736fe433eb6.jpg"
+  ]
+}

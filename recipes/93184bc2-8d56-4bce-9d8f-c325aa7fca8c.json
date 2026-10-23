@@ -1,0 +1,65 @@
+{
+  "id": "93184bc2-8d56-4bce-9d8f-c325aa7fca8c",
+  "title": "Easy Peanut Butter Pie",
+  "description": "A simple and delicious peanut butter pie with a chocolate graham cracker crust, inspired by Mamaw Gail's recipe.",
+  "servings": 8,
+  "prep_minutes": 10,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "boxes",
+      "item": "vanilla instant pudding"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "cold milk"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "big spoonfuls of peanut butter"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "big spoonfuls of Cool Whip"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Graham cracker pie crust (regular or chocolate)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional whipped cream for topping"
+    }
+  ],
+  "steps": [
+    "Put the vanilla pudding into a mixing bowl.",
+    "Add the cold milk to the pudding.",
+    "Mix for a couple of minutes until it thickens.",
+    "Add the peanut butter and mix well.",
+    "Fold in the Cool Whip.",
+    "Pour the mixture into the graham cracker pie crust.",
+    "Top with additional whipped cream.",
+    "Refrigerate for two hours before serving."
+  ],
+  "tags": [
+    "American",
+    "peanut butter pie",
+    "easy dessert",
+    "no-bake"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "For a richer flavor, use creamy peanut butter and add chocolate shavings on top before serving.\n\nSource: https://www.facebook.com/share/v/1A2miTCVvQ/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 12 g · Saturated fat 5 g · Unsaturated fat 7 g · Trans fat 0 g · Cholesterol 10 mg · Sodium 150 mg · Carbs 30 g · Fiber 2 g · Sugar 15 g · Protein 6 g",
+  "created_at": "2025-10-18T09:13:49.182+00:00",
+  "updated_at": "2026-07-19T05:29:07.877357+00:00",
+  "deleted": false,
+  "images": [
+    "images/93184bc2-8d56-4bce-9d8f-c325aa7fca8c/93184bc2-8d56-4bce-9d8f-c325aa7fca8c.jpg"
+  ]
+}

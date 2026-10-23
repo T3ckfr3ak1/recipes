@@ -1,0 +1,93 @@
+{
+  "id": "22c1e79e-d4bb-44d8-8daa-91f957a4a6a9",
+  "title": "Spicy Italian Sausage and Pepperoni Pizza Dip",
+  "description": "A cheesy, spicy dip perfect for game day or parties, served with garlic bread, Tostitos, or club crackers.",
+  "servings": 8,
+  "prep_minutes": 15,
+  "cook_minutes": 120,
+  "ingredients": [
+    {
+      "quantity": "16",
+      "unit": "oz",
+      "item": "whipped cream cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "lb",
+      "item": "hot Italian sausage"
+    },
+    {
+      "quantity": "5",
+      "unit": "oz",
+      "item": "pepperoni"
+    },
+    {
+      "quantity": "3",
+      "unit": "oz",
+      "item": "mozzarella"
+    },
+    {
+      "quantity": "3",
+      "unit": "oz",
+      "item": "cheddar"
+    },
+    {
+      "quantity": "15",
+      "unit": "oz",
+      "item": "Rao's marinara"
+    },
+    {
+      "quantity": "1",
+      "unit": "small",
+      "item": "diced sweet onion"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "pepperoncinis"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "garlic powder"
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "Italian seasoning"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "crushed red pepper"
+    }
+  ],
+  "steps": [
+    "Cook Italian sausage and onion with your seasoning blend.",
+    "Add that to a crock pot with the rest of your ingredients.",
+    "Cook on high for 1–2 hours, stirring every 15 minutes or so."
+  ],
+  "tags": [
+    "Italian",
+    "pizzadip",
+    "comfortfood",
+    "foodie",
+    "spicy",
+    "easyrecipe",
+    "appetizers",
+    "dipmedaddy",
+    "viralrecipes",
+    "cheesedip",
+    "footballfood",
+    "snacktime"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1APDqr4sFi/\n\nNutrition: Serving 1/8 of dip · Calories 250 kcal · Fat 20 g · Saturated fat 10 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 70 mg · Sodium 700 mg · Carbs 8 g · Fiber 1 g · Sugar 3 g · Protein 12 g",
+  "created_at": "2025-11-25T05:37:48.414+00:00",
+  "updated_at": "2026-07-18T23:01:08.871581+00:00",
+  "deleted": false,
+  "images": [
+    "images/22c1e79e-d4bb-44d8-8daa-91f957a4a6a9/22c1e79e-d4bb-44d8-8daa-91f957a4a6a9.jpg"
+  ]
+}

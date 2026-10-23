@@ -1,0 +1,103 @@
+{
+  "id": "fe9fa2dd-e3fb-491b-8257-0aea9300e9b0",
+  "title": "Cheeseburger Hamburger Helper from Scratch",
+  "description": "A homemade version of cheeseburger hamburger helper, quick and easy to prepare, inspired by a social media post.",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "2 1/2",
+      "unit": "pounds",
+      "item": "ground beef, chopped aggressively or as preferred"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "mustard"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "ketchup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A healthy splash of pickle juice"
+    },
+    {
+      "quantity": "1",
+      "unit": "small",
+      "item": "onion, diced and minced"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic salt, to taste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper, to taste"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "tomato paste"
+    },
+    {
+      "quantity": "4",
+      "unit": "cups",
+      "item": "beef broth"
+    },
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "egg noodles"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheese, various types, shredded"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Slices of cheddar cheese, as needed"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: bacon bits, for added flavor"
+    }
+  ],
+  "steps": [
+    "Cook ground beef until browned, crispy, and no longer gray. Drain excess grease.",
+    "Add mustard, ketchup, pickle juice, diced onion, garlic salt, pepper, and tomato paste to the beef. Stir well.",
+    "Pour in beef broth and bring to a simmer.",
+    "Add egg noodles, cover, and simmer on medium heat until noodles are cooked and liquid is absorbed.",
+    "Stir in shredded cheese and sliced cheddar cheese until melted and cheesy.",
+    "Optional: add bacon bits for extra flavor.",
+    "Serve hot and enjoy your homemade cheeseburger hamburger helper."
+  ],
+  "tags": [
+    "Burgers",
+    "American",
+    "homemade",
+    "cheeseburger",
+    "hamburger helper",
+    "quick",
+    "easy",
+    "comfort food"
+  ],
+  "category": "Dinner",
+  "source": "Flavorish",
+  "notes": "Feel free to customize with additional ingredients like bacon bits or different cheeses for variation.\n\nSource: https://www.facebook.com/share/v/19eRRW4vZs/\n\nNutrition: Serving 1 bowl · Calories Approximate, varies based on cheese and beef used · Fat Variable, depends on beef and cheese · Saturated fat Variable, depends on cheese and beef · Unsaturated fat Variable, depends on cheese and beef · Trans fat Negligible, unless processed ingredients are used · Cholesterol Variable, depends on beef and cheese · Sodium Variable, depends on broth and added seasonings · Carbs Approximate, varies based on noodles · Fiber Variable, depends on noodles and added vegetables · Sugar Minimal, unless added in ketchup or other ingredients · Protein Variable, depends on beef and cheese",
+  "created_at": "2025-10-18T05:50:09.54+00:00",
+  "updated_at": "2026-07-19T11:28:43.126698+00:00",
+  "deleted": false,
+  "images": [
+    "images/fe9fa2dd-e3fb-491b-8257-0aea9300e9b0/fe9fa2dd-e3fb-491b-8257-0aea9300e9b0.jpg"
+  ]
+}

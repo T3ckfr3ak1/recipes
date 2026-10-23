@@ -1,0 +1,90 @@
+{
+  "id": "9d0fcd0e-fada-4c4f-82c3-a31b218855fb",
+  "title": "Slow Cooker Tortellini and Cheese",
+  "description": "A creamy and cheesy tortellini dish cooked effortlessly in the slow cooker, perfect for Easter or any occasion.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 120,
+  "ingredients": [
+    {
+      "quantity": "24",
+      "unit": "ounces",
+      "item": "refrigerated tortellini (from the refrigerated section, e.g., Sam's Club or Costco)"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "cups",
+      "item": "whole milk"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "heavy cream"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "Dijon mustard"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "shredded sharp cheddar cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "smoked paprika"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "garlic powder"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "teaspoons",
+      "item": "black pepper"
+    },
+    {
+      "quantity": "4",
+      "unit": "ounces",
+      "item": "cream cheese (preferably whipped for easier blending)"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "unsalted butter"
+    },
+    {
+      "quantity": "12",
+      "unit": "",
+      "item": "slices Land of Lakes American cheese (or similar processed cheese)"
+    }
+  ],
+  "steps": [
+    "Place all ingredients into the slow cooker.",
+    "Set the slow cooker to low and stir periodically.",
+    "Check after 1.5 hours to see how tender the tortellini are.",
+    "Cook for about 2 hours total, then give it a final stir.",
+    "Serve and enjoy the creamy tortellini and cheese mixture."
+  ],
+  "tags": [
+    "Pasta",
+    "American",
+    "slow cooker",
+    "tortellini",
+    "cheese",
+    "easy",
+    "Easter"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Stir periodically to prevent sticking and ensure even heating. Adjust seasoning to taste.\n\nSource: https://www.facebook.com/share/v/1BRL7bXYnA/\n\nNutrition: Serving 1 bowl · Calories Approximately 600 kcal · Fat Approximately 35g · Saturated fat Approximately 15g · Unsaturated fat 20g · Trans fat 0g · Cholesterol Approximately 80mg · Sodium Approximately 800mg · Carbs Approximately 50g · Fiber Approximately 3g · Sugar Approximately 5g · Protein Approximately 25g",
+  "created_at": "2025-11-22T23:09:43.018+00:00",
+  "updated_at": "2026-07-19T06:04:12.262762+00:00",
+  "deleted": false,
+  "images": [
+    "images/9d0fcd0e-fada-4c4f-82c3-a31b218855fb/9d0fcd0e-fada-4c4f-82c3-a31b218855fb.jpg"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "f07122b4-f87f-4a3a-8547-c475e2174dc9",
+  "title": "Daily Breakfast Oats",
+  "description": "A fiber-packed, cholesterol-conscious breakfast bowl featuring cooked oats, chia seeds, protein powder, and fresh toppings.",
+  "servings": 1,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cooked oats"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "chia seeds"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Almond milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cinnamon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Vegan protein powder (e.g., Truvani)"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "honey"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Flaxseed"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Frozen raspberries"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Trader Joe's freeze dried strawberries (optional)"
+    }
+  ],
+  "steps": [
+    "Cook the oats beforehand to create resistant starch.",
+    "In a small cup, combine chia seeds with almond milk.",
+    "Mix the cooked oats with the chia seed mixture, cinnamon, vegan protein powder, and honey using a whisk.",
+    "Add flaxseed to the mixture.",
+    "Crush the frozen raspberries into the oats.",
+    "Top with optional freeze dried strawberries for crunch."
+  ],
+  "tags": [
+    "American",
+    "oats",
+    "breakfast",
+    "healthy",
+    "fiber",
+    "cholesterol-friendly"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Keep flaxseed in the fridge to preserve delicate omegas. You can also prepare this as overnight oats by keeping it cold.\n\nSource: https://www.facebook.com/share/v/19GtMX34pe/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 12g · Saturated fat 1g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 0mg · Sodium 150mg · Carbs 65g · Fiber 15g · Sugar 18g · Protein 25g",
+  "created_at": "2026-08-03T06:47:06.400957+00:00",
+  "updated_at": "2026-08-03T06:47:06.400957+00:00",
+  "deleted": false,
+  "images": [
+    "images/f07122b4-f87f-4a3a-8547-c475e2174dc9/f07122b4-f87f-4a3a-8547-c475e2174dc9.jpg"
+  ]
+}

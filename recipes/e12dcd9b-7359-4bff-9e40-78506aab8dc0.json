@@ -1,0 +1,78 @@
+{
+  "id": "e12dcd9b-7359-4bff-9e40-78506aab8dc0",
+  "title": "The Buster from 85",
+  "description": "A classic Dairy Queen-style ice cream cake featuring an Oreo foundation, salted peanuts, and a rich homemade fudge layer.",
+  "servings": 12,
+  "prep_minutes": 30,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "40",
+      "unit": "",
+      "item": "Oreos"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "melted butter"
+    },
+    {
+      "quantity": "2",
+      "unit": "quarts",
+      "item": "vanilla ice cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salted peanuts"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "evaporated milk"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "powdered sugar"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "chocolate chips"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Vanilla extract"
+    }
+  ],
+  "steps": [
+    "Crush the Oreos, keeping the fillings in, and mix with melted butter. Press into a 13x9 pan to create a foundation and place in the fridge.",
+    "Beat the ice cream until smooth and spread over the crust. Top with salted peanuts and place in the freezer.",
+    "In a saucepan, combine butter and evaporated milk. Once melted, whisk in powdered sugar and chocolate chips.",
+    "Bring to a boil and boil for eight minutes, scraping constantly. Remove from heat and beat in vanilla.",
+    "Let the fudge cool for five minutes, then pour over the cake. Freeze overnight."
+  ],
+  "tags": [
+    "American",
+    "ice cream cake",
+    "dessert",
+    "copycat",
+    "Baking Yesteryear"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "Recipe found on page 227 of Baking Yesteryear.\n\nSource: https://www.facebook.com/share/r/1EkLhEw5pq/\n\nNutrition: Serving 1 slice · Calories 550 kcal · Fat 30g · Saturated fat 15g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 45mg · Sodium 250mg · Carbs 65g · Fiber 2g · Sugar 50g · Protein 7g",
+  "created_at": "2026-07-05T03:55:09.406065+00:00",
+  "updated_at": "2026-07-05T03:55:09.406065+00:00",
+  "deleted": false,
+  "images": [
+    "images/e12dcd9b-7359-4bff-9e40-78506aab8dc0/e12dcd9b-7359-4bff-9e40-78506aab8dc0.jpg"
+  ]
+}

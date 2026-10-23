@@ -1,0 +1,101 @@
+{
+  "id": "43a53cf5-abc8-465c-9caa-ef2722d09db3",
+  "title": "One-Pot Enchilada Pasta",
+  "description": "A quick and easy one-pot pasta dish featuring ground beef, thin spaghetti, and a creamy, flavorful enchilada-inspired sauce.",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "lb",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "12",
+      "unit": "oz",
+      "item": "thin spaghetti"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "",
+      "item": "onion"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "garlic cloves"
+    },
+    {
+      "quantity": "2",
+      "unit": "tbsp",
+      "item": "tomato paste"
+    },
+    {
+      "quantity": "10",
+      "unit": "oz",
+      "item": "red enchilada sauce"
+    },
+    {
+      "quantity": "4",
+      "unit": "cups",
+      "item": "chicken broth"
+    },
+    {
+      "quantity": "4",
+      "unit": "oz",
+      "item": "cream cheese"
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "heavy cream"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "pepper jack"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash Worcestershire"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Smoked paprika, onion powder, Kinder's garlic salt, steak rub + Dash Southwestern chipotle seasoning"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Extra pepper jack + parsley (for topping)"
+    }
+  ],
+  "steps": [
+    "Brown beef + onion with seasonings.",
+    "Add garlic + tomato paste for 1 min.",
+    "Pour in enchilada sauce + broth, add thin spaghetti and simmer uncovered 10-12 min, stirring often.",
+    "Stir in Worcestershire, cream cheese, heavy cream + pepper jack.",
+    "Cook 2-3 min until creamy.",
+    "Top with extra pepper jack + parsley."
+  ],
+  "tags": [
+    "Pasta",
+    "Tex-Mex Fusion",
+    "easyrecipes",
+    "onepotdinner",
+    "pastatiktok",
+    "groundbeefrecipes",
+    "weeknightdinner"
+  ],
+  "category": "Dinner",
+  "source": "Flavorish",
+  "notes": "Ensure you stir often while simmering the pasta to prevent it from sticking to the bottom of the pot.\n\nSource: https://www.facebook.com/share/r/1D75nDzqxj/\n\nNutrition: Serving 1 bowl · Calories 650 kcal · Fat 38g · Saturated fat 18g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 120mg · Sodium 950mg · Carbs 45g · Fiber 3g · Sugar 6g · Protein 32g",
+  "created_at": "2026-10-12T14:28:09.551457+00:00",
+  "updated_at": "2026-10-12T14:28:09.551457+00:00",
+  "deleted": false,
+  "images": [
+    "images/43a53cf5-abc8-465c-9caa-ef2722d09db3/43a53cf5-abc8-465c-9caa-ef2722d09db3.jpg"
+  ]
+}

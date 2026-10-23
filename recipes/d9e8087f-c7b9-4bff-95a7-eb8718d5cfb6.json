@@ -1,0 +1,109 @@
+{
+  "id": "d9e8087f-c7b9-4bff-95a7-eb8718d5cfb6",
+  "title": "Million Dollar Spaghetti",
+  "description": "A rich and creamy baked spaghetti dish with Italian sausage, ground beef, and a blend of cheeses.",
+  "servings": 6,
+  "prep_minutes": 20,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "1/2",
+      "unit": "pound",
+      "item": "Italian sausage"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "pound",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper to taste"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "diced onion"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "minced garlic cloves"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "jar of your favorite marinara sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Spaghetti, cooked"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "block (8 ounces) softened cream cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "cottage cheese"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "sour cream"
+    },
+    {
+      "quantity": "8",
+      "unit": "",
+      "item": "-ounce block of mozzarella cheese, shredded"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Handful of Parmesan cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: Parsley for garnish"
+    }
+  ],
+  "steps": [
+    "Brown the meats and season",
+    "Add Italian sausage and ground beef to a hot oiled pan. Break it up, season it with salt and pepper, brown it, and then drain it.",
+    "Cook aromatics",
+    "Add one diced onion and three minced garlic cloves to the pan, and then just stir those up and cook them for a few minutes until those onions are nice and soft.",
+    "Add marinara sauce",
+    "Add one jar of your favorite marinara sauce. Stir that in until everything is coated, and then set the meat mixture aside.",
+    "Prepare the cheese mixture",
+    "In a mixing bowl, add one block of softened cream cheese, one cup of cottage cheese, and a quarter cup of sour cream. Mix all of this until it's beautifully combined.",
+    "Assemble the spaghetti",
+    "In a 9x13 baking dish, add half of the cooked spaghetti to the bottom. Spread the cream cheese mixture on top. Add the rest of the noodles on top. Spread the meat mixture on top of the noodles. Spread the shredded mozzarella cheese on top. Sprinkle Parmesan cheese on top as well.",
+    "Bake the spaghetti",
+    "Throw the whole thing in the oven at 350 for about 30 minutes.",
+    "Garnish and serve",
+    "If you have parsley, throw it on top. Let this cool down. Once it's cooled down, cut a piece out, put it on a plate, and serve."
+  ],
+  "tags": [
+    "Pasta",
+    "Italian-American",
+    "spaghetti",
+    "baked pasta",
+    "Italian",
+    "casserole",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Let the spaghetti cool down before serving.\n\nSource: https://www.facebook.com/share/v/1AdCKM2R1A/\n\nNutrition: Serving 1 serving · Calories 650 kcal · Fat 40g · Saturated fat 20g · Unsaturated fat 19g · Trans fat 1g · Cholesterol 150mg · Sodium 1200mg · Carbs 45g · Fiber 3g · Sugar 8g · Protein 30g",
+  "created_at": "2026-01-28T05:01:27.276+00:00",
+  "updated_at": "2026-07-19T09:25:41.336831+00:00",
+  "deleted": false,
+  "images": [
+    "images/d9e8087f-c7b9-4bff-95a7-eb8718d5cfb6/d9e8087f-c7b9-4bff-95a7-eb8718d5cfb6.jpg"
+  ]
+}

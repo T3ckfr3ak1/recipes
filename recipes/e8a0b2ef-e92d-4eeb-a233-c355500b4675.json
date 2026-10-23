@@ -1,0 +1,91 @@
+{
+  "id": "e8a0b2ef-e92d-4eeb-a233-c355500b4675",
+  "title": "Not-Spaghetti",
+  "description": "Egg noodles, lean ground beef, and a heavily herb-ed sauce finished together in cast iron and topped lightly with Italian cheese, it's spaghetti-adjacent, but it's not pretending to be.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 25,
+  "ingredients": [
+    {
+      "quantity": "12",
+      "unit": "oz",
+      "item": "No Yolk Extra Broad egg white noodles"
+    },
+    {
+      "quantity": "1",
+      "unit": "lb",
+      "item": "93% lean ground beef"
+    },
+    {
+      "quantity": "28",
+      "unit": "oz",
+      "item": "Hunt's crushed tomatoes"
+    },
+    {
+      "quantity": "6",
+      "unit": "oz",
+      "item": "Hunt's tomato paste"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Dried basil - decent amount"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Dried oregano - a lot"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Dried thyme - decent amount"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic powder - fair amount"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Onion powder - fair amount"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic salt - to taste (for beef)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Olive oil - about 1 tablespoon (for frying beef)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Kraft Italian Five Cheese Blend, shredded (used lightly as a topping)"
+    }
+  ],
+  "steps": [
+    "Start the sauce. Add the crushed tomatoes and tomato paste to a small saucepan. Season with basil, oregano, thyme, garlic powder, and onion powder. Cook over medium heat, stirring occasionally, until hot and well blended. Lower heat and let it simmer gently while everything else cooks.",
+    "Boil the noodles. Bring a medium pot of water to a boil. Cook egg noodles according to package directions. Drain and set aside.",
+    "Brown the beef. Heat olive oil in a 12-inch cast iron skillet over medium heat. Add ground beef and cook until fully browned. Season with garlic salt and cook while cooking.",
+    "Combine everything. Add the cooked noodles and tomato sauce directly into the skillet with the beef. Reduce heat to low and stir until evenly combined and heated through.",
+    "Serve. Spoon into bowls and finish with a light sprinkle of the Italian cheese blend on top."
+  ],
+  "tags": [
+    "Dinner",
+    "Italian",
+    "undefined"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Sauce is herb-forward, not sweet. Final texture is thick and pasta-heavy, not soupy. Cheese is a finishing touch, not mixed in.\n\nNutrition: Serving 1 serving · Calories 530 kcal · Fat 15 g · Saturated fat 5 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 115 mg · Sodium 1200 mg · Carbs 62 g · Fiber 6 g · Sugar 7 g · Protein 37 g",
+  "created_at": "2025-12-15T00:35:36.749+00:00",
+  "updated_at": "2026-07-19T10:15:03.832996+00:00",
+  "deleted": false,
+  "images": [
+    "images/e8a0b2ef-e92d-4eeb-a233-c355500b4675/e8a0b2ef-e92d-4eeb-a233-c355500b4675.jpg"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "f4878b23-d148-419e-bf5e-2951075aaeec",
+  "title": "Burger Buns with Burger Patty",
+  "description": "A unique recipe that combines burger ingredients within a homemade bun, baked to golden brown perfection.",
+  "servings": 1,
+  "prep_minutes": 60,
+  "cook_minutes": 25,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the Dough:"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "four cups of flour"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "one cup of lukewarm milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "a half cup of lukewarm water"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "one egg white"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "five grams of instant yeast"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "one tablespoon of sugar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "two tablespoons of butter"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the Burger Sauce:"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "four tablespoons of mayonnaise"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "two tablespoons of ketchup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "one tablespoon of mustard"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "finely chopped gherkin pickles"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the Filling:"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "burger meat"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "pickles"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "caramelized onion"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "bell pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "meat"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "more cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "For the Glaze:"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "egg yolk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "sesame seeds"
+    }
+  ],
+  "steps": [
+    "Mix flour, milk, water, egg white, yeast, sugar, and butter to form the dough.",
+    "Let the dough cover and rise for about an hour.",
+    "Flip the burger meat.",
+    "Prepare the burger sauce by mixing mayonnaise, ketchup, mustard, and finely chopped gherkin pickles.",
+    "Take a piece of dough and flatten it.",
+    "Place the dough over a bowl.",
+    "Add cheese.",
+    "Add the first patty.",
+    "Add the sauce.",
+    "Add the pickles.",
+    "Add the caramelized onion and bell pepper.",
+    "Add meat and more cheese.",
+    "Close the dough over the filling.",
+    "Pinch the bottom and flip.",
+    "Cover in egg yolk and sprinkle with sesame seeds.",
+    "Cook at 360 for about 25 minutes or until golden brown."
+  ],
+  "tags": [
+    "Baked Goods",
+    "American",
+    "burger",
+    "bun",
+    "recipe",
+    "unique",
+    "baked"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "The recipe author expressed great satisfaction with the final result, stating they would make burgers this way from now on.\n\nSource: https://www.facebook.com/share/r/18Ni9xohGs/\n\nNutrition: Serving 1 burger · Calories Estimated 800-1000 kcal · Fat Estimated 40-60g · Saturated fat Estimated 15-25g · Unsaturated fat Estimated 20-30g · Trans fat Estimated 0-1g · Cholesterol Estimated 100-150mg · Sodium Estimated 800-1200mg · Carbs Estimated 70-90g · Fiber Estimated 5-8g · Sugar Estimated 10-20g · Protein Estimated 30-40g",
+  "created_at": "2026-04-16T04:13:54.007+00:00",
+  "updated_at": "2026-07-19T10:54:48.152065+00:00",
+  "deleted": false,
+  "images": [
+    "images/f4878b23-d148-419e-bf5e-2951075aaeec/f4878b23-d148-419e-bf5e-2951075aaeec.jpg"
+  ]
+}

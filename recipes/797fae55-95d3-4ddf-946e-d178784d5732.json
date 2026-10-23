@@ -1,0 +1,53 @@
+{
+  "id": "797fae55-95d3-4ddf-946e-d178784d5732",
+  "title": "Watermelon and Olive Oil Drink",
+  "description": "A refreshing drink made by blending watermelon with olive oil, lemon juice, and water.",
+  "servings": 1,
+  "prep_minutes": 5,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "watermelon"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "extra virgin olive oil"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "Juice of lemon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half a glass of water"
+    }
+  ],
+  "steps": [
+    "Add watermelon, olive oil, lemon juice, and water to the blender.",
+    "Blend for one minute."
+  ],
+  "tags": [
+    "Fusion",
+    "watermelon",
+    "olive oil",
+    "detox",
+    "kidney health",
+    "liver cleanse",
+    "circulation",
+    "constipation"
+  ],
+  "category": "Beverages",
+  "source": "Flavorish",
+  "notes": "Consume immediately for best results.\n\nSource: https://www.facebook.com/share/r/1FLdKh39t6/\n\nNutrition: Serving 1 glass · Calories Approximately 100 kcal · Fat 7g · Saturated fat 1g · Unsaturated fat 6g · Trans fat 0g · Cholesterol 0mg · Sodium 10mg · Carbs 25g · Fiber 2g · Sugar 20g · Protein 1g",
+  "created_at": "2026-01-01T07:32:38.219+00:00",
+  "updated_at": "2026-07-19T04:02:11.859967+00:00",
+  "deleted": false,
+  "images": [
+    "images/797fae55-95d3-4ddf-946e-d178784d5732/797fae55-95d3-4ddf-946e-d178784d5732.jpg"
+  ]
+}

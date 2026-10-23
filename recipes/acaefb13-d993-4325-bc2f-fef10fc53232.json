@@ -1,0 +1,63 @@
+{
+  "id": "acaefb13-d993-4325-bc2f-fef10fc53232",
+  "title": "Easy 5 Ingredient Meat and Potato Casserole",
+  "description": "A simple casserole combining ground beef, potatoes, cream of mushroom soup, milk, and cheddar cheese.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 70,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "4",
+      "unit": "",
+      "item": "Yukon gold potatoes, peeled and thinly sliced"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "cream of mushroom soup"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "whole milk"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Shredded cheddar cheese (for topping)"
+    }
+  ],
+  "steps": [
+    "In a hot oiled pan, cook the ground beef until browned, then drain and set aside.",
+    "In a greased 9x13-inch baking dish, layer the sliced potatoes across the bottom.",
+    "Season the potatoes as desired.",
+    "Spread the cooked ground beef evenly over the potatoes.",
+    "In a mixing bowl, whisk together the cream of mushroom soup and milk until well combined.",
+    "Pour the soup mixture evenly over the meat layer.",
+    "Bake in a preheated oven at 350°F (175°C) for about 1 hour.",
+    "Sprinkle shredded cheddar cheese over the casserole and bake for an additional 5-10 minutes until melted and bubbly.",
+    "Optional: Top with chopped green onions before serving."
+  ],
+  "tags": [
+    "American",
+    "meat",
+    "potatoes",
+    "casserole",
+    "easy",
+    "cheesy"
+  ],
+  "category": "Main Dish",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/19vHBQ2D6g/\n\nNutrition: Serving 1 piece · Calories Approximately 400 kcal · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 700mg · Carbs 40g · Fiber 4g · Sugar 5g · Protein 25g",
+  "created_at": "2025-09-19T04:29:43.302+00:00",
+  "updated_at": "2026-07-19T06:55:34.602988+00:00",
+  "deleted": false,
+  "images": [
+    "images/acaefb13-d993-4325-bc2f-fef10fc53232/acaefb13-d993-4325-bc2f-fef10fc53232.jpg"
+  ]
+}

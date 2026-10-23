@@ -1,0 +1,60 @@
+{
+  "id": "99776df8-30c3-4300-9867-0d16f908c46c",
+  "title": "Bacon Cheeseburger Soup",
+  "description": "Bacon cheeseburger soup is thick, cheesy, and packed with ground beef and bacon, all swimming in a creamy base made from Campbell's cream of bacon and cheddar cheese soups. It's fast, it's filling, and it tastes like you actually tried.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 10,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ground beef, cooked and crumbled"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bacon, cooked and crumbled"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Campbell's cream of bacon soup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheddar cheese soup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Milk or heavy cream (optional, for thinning)"
+    }
+  ],
+  "steps": [
+    "Combine cooked ground beef and bacon in a large pot.",
+    "Add Campbell's cream of bacon soup and cheddar cheese soup to the meat mixture.",
+    "Stir until well combined and heated through.",
+    "If desired, add milk or heavy cream to reach your preferred consistency.",
+    "Serve hot, garnished with additional bacon or cheese if desired."
+  ],
+  "tags": [
+    "Burgers",
+    "American",
+    "bacon",
+    "cheeseburger",
+    "soup",
+    "quick",
+    "cheesy"
+  ],
+  "category": "soup",
+  "source": "Flavorish",
+  "notes": "For a thicker soup, simmer longer to reduce.\n\nSource: https://www.facebook.com/share/r/19uT1o4J2P/\n\nNutrition: Serving 1 bowl · Calories 350 kcal · Fat 25 g · Saturated fat 10 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 900 mg · Carbs 20 g · Fiber 2 g · Sugar 4 g · Protein 20 g",
+  "created_at": "2025-10-18T17:40:00.15+00:00",
+  "updated_at": "2026-07-19T05:50:33.344351+00:00",
+  "deleted": false,
+  "images": [
+    "images/99776df8-30c3-4300-9867-0d16f908c46c/99776df8-30c3-4300-9867-0d16f908c46c.jpg"
+  ]
+}

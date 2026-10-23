@@ -1,0 +1,65 @@
+{
+  "id": "ec6efd1e-e4af-45f1-8007-d3db9e56eb6a",
+  "title": "Garlic Cheese Stuffed Hawaiian Rolls",
+  "description": "A delicious and cheesy garlic bread made with King's Hawaiian rolls, stuffed with mozzarella cheese, and topped with a garlic butter mixture.",
+  "servings": 8,
+  "prep_minutes": 10,
+  "cook_minutes": 12,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "King's Hawaiian rolls"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mozzarella cheese, sliced or shredded"
+    },
+    {
+      "quantity": "1",
+      "unit": "stick",
+      "item": "salted butter, softened"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoons",
+      "item": "minced garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Parsley, chopped"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic salt"
+    }
+  ],
+  "steps": [
+    "Take the King's Hawaiian rolls and place them in a dish.",
+    "Cut two slits down the middle of each roll, being careful not to cut all the way through.",
+    "Stuff mozzarella cheese into the slits of each roll.",
+    "In a bowl, mix softened butter, minced garlic, chopped parsley, and garlic salt.",
+    "Spread the garlic butter mixture over the tops of the rolls.",
+    "Bake in a preheated oven at 400°F (200°C) for 12 minutes.",
+    "Let the rolls cool slightly before serving."
+  ],
+  "tags": [
+    "Side Dish",
+    "American",
+    "garlic cheese bread",
+    "Hawaiian rolls",
+    "cheesy garlic bread"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Optional: Add more garlic or parsley to taste.\n\nSource: https://www.facebook.com/share/v/17pNupxMDa/\n\nNutrition: Serving 1 roll · Calories 200 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 300 mg · Carbs 25 g · Fiber 1 g · Sugar 3 g · Protein 6 g",
+  "created_at": "2025-11-09T06:57:51.648+00:00",
+  "updated_at": "2026-07-19T10:27:55.685631+00:00",
+  "deleted": false,
+  "images": [
+    "images/ec6efd1e-e4af-45f1-8007-d3db9e56eb6a/ec6efd1e-e4af-45f1-8007-d3db9e56eb6a.jpg"
+  ]
+}

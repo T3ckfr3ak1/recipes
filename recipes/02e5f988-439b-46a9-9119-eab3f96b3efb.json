@@ -1,0 +1,70 @@
+{
+  "id": "02e5f988-439b-46a9-9119-eab3f96b3efb",
+  "title": "German Pancake",
+  "description": "A delicious and easy German pancake recipe perfect for celebrating Saturday or serving to guests.",
+  "servings": 4,
+  "prep_minutes": 5,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "5",
+      "unit": "tablespoons",
+      "item": "salted butter, cut into sections"
+    },
+    {
+      "quantity": "6",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "all-purpose flour"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "milk"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "vanilla extract"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A dash of salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Maple syrup for topping"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the butter sections into a 9x13-inch baking dish and put it in the oven to melt.",
+    "In a mixing bowl, combine the eggs, flour, milk, vanilla extract, and salt. Mix until well combined.",
+    "Once the butter is melted and the oven is preheated, pour the egg mixture into the baking dish over the melted butter.",
+    "Bake in the preheated oven for approximately 20 minutes, or until the pancake is puffed and golden.",
+    "Remove from the oven and serve immediately with maple syrup on top."
+  ],
+  "tags": [
+    "Brunch",
+    "German",
+    "German pancake",
+    "breakfast",
+    "easy",
+    "baked"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Serve immediately with maple syrup for best results.\n\nSource: https://www.facebook.com/share/v/1CcXc5pbTn/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 12 g · Saturated fat 6 g · Unsaturated fat 6 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 200 mg · Carbs 30 g · Fiber 1 g · Sugar 10 g · Protein 6 g",
+  "created_at": "2025-11-15T06:56:07.87+00:00",
+  "updated_at": "2026-07-18T21:08:38.107342+00:00",
+  "deleted": false,
+  "images": [
+    "images/02e5f988-439b-46a9-9119-eab3f96b3efb/02e5f988-439b-46a9-9119-eab3f96b3efb.jpg"
+  ]
+}

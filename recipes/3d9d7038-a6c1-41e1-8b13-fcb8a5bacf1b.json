@@ -1,0 +1,107 @@
+{
+  "id": "3d9d7038-a6c1-41e1-8b13-fcb8a5bacf1b",
+  "title": "Perfected Macaroni and Cheese",
+  "description": "A rich and indulgent macaroni and cheese recipe featuring a blend of cheeses, spices, and a crunchy Cheez-It topping.",
+  "servings": 6,
+  "prep_minutes": 20,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "tablespoons",
+      "item": "salted butter"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "crushed garlic cloves"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "smoked paprika"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "cayenne pepper"
+    },
+    {
+      "quantity": "4",
+      "unit": "tablespoons",
+      "item": "all-purpose flour"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half and half (to reach desired sauce consistency)"
+    },
+    {
+      "quantity": "4",
+      "unit": "ounces",
+      "item": "cream cheese"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "fresh grated American cheese"
+    },
+    {
+      "quantity": "8",
+      "unit": "ounces",
+      "item": "freshly grated mild cheddar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mozzarella cheese (for layering)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sharp cheddar (for topping)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Macaroni pasta"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pasta water"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Crushed Cheez-Its"
+    }
+  ],
+  "steps": [
+    "Melt the butter in a pan and add the crushed garlic, smoked paprika, and cayenne pepper.",
+    "Whisk in the all-purpose flour to create a roux.",
+    "Gradually add the half and half to the roux to create the sauce.",
+    "Stir in the cream cheese, American cheese, and mild cheddar until melted and smooth.",
+    "Cook the macaroni and add a splash of pasta water to the sauce.",
+    "Combine the cooked macaroni with the cheese sauce.",
+    "Layer the macaroni mixture in a tray with mozzarella cheese.",
+    "Top with sharp cheddar and crushed Cheez-Its.",
+    "Bake in an oven at 400 degrees for 20 minutes or air fry at 400 degrees for 10 minutes."
+  ],
+  "tags": [
+    "American",
+    "macaroni and cheese",
+    "comfort food",
+    "cheesy",
+    "baked pasta"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "The recipe uses a combination of cheeses and a unique crunchy topping made from crushed Cheez-Its.\n\nSource: https://www.facebook.com/share/v/1EUWyudLXM/\n\nNutrition: Serving 1 cup · Calories 650 · Fat 42g · Saturated fat 24g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 95mg · Sodium 1100mg · Carbs 45g · Fiber 2g · Sugar 5g · Protein 22g",
+  "created_at": "2026-07-08T02:12:13.726822+00:00",
+  "updated_at": "2026-07-08T02:12:13.726822+00:00",
+  "deleted": false,
+  "images": [
+    "images/3d9d7038-a6c1-41e1-8b13-fcb8a5bacf1b/3d9d7038-a6c1-41e1-8b13-fcb8a5bacf1b.jpg"
+  ]
+}

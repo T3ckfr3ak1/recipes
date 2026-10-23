@@ -1,0 +1,46 @@
+{
+  "id": "466fbc5d-f97b-4489-8ac8-9082722156c6",
+  "title": "Tacking the pipe down to the plate",
+  "description": "A simple process of securing a pipe to a plate.",
+  "servings": 1,
+  "prep_minutes": 10,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pipe"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Plate"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Tacking material (e.g., welding rod, solder, or adhesive)"
+    }
+  ],
+  "steps": [
+    "Secure the pipe to the plate using the tacking material.",
+    "Ensure the connection is stable and properly aligned."
+  ],
+  "tags": [
+    "Industrial",
+    "pipe",
+    "plate",
+    "tacking",
+    "welding",
+    "fabrication"
+  ],
+  "category": "Fabrication",
+  "source": "Flavorish",
+  "notes": "Ensure safety precautions are followed when welding or using adhesives.\n\nSource: https://www.facebook.com/share/r/1CEmZjt4dH/\n\nNutrition: Serving 1 connection · Calories 0 kcal · Fat 0 g · Saturated fat 0 g · Unsaturated fat 0 g · Trans fat 0 g · Cholesterol 0 mg · Sodium 0 mg · Carbs 0 g · Fiber 0 g · Sugar 0 g · Protein 0 g",
+  "created_at": "2025-10-30T03:21:44.222+00:00",
+  "updated_at": "2026-07-19T01:06:36.241319+00:00",
+  "deleted": false,
+  "images": [
+    "images/466fbc5d-f97b-4489-8ac8-9082722156c6/466fbc5d-f97b-4489-8ac8-9082722156c6.jpg"
+  ]
+}

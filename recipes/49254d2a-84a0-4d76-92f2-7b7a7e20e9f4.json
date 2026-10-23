@@ -1,0 +1,89 @@
+{
+  "id": "49254d2a-84a0-4d76-92f2-7b7a7e20e9f4",
+  "title": "Sushi Cucumber Salad",
+  "description": "A refreshing sushi-inspired cucumber salad with imitation crab, avocado, and flavorful toppings.",
+  "servings": 2,
+  "prep_minutes": 10,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "whole cucumber, sliced"
+    },
+    {
+      "quantity": "100",
+      "unit": "g",
+      "item": "imitation crab, chopped"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Half of an avocado, chopped"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "whipped cream cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "mayonnaise"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "soy sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sriracha, to taste"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "green onions, chopped"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sushi ginger, sliced"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "sesame seeds"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "MSG"
+    }
+  ],
+  "steps": [
+    "Combine all ingredients in a bowl.",
+    "Shake or mix thoroughly until well combined.",
+    "Serve with roasted seaweed snacks if desired."
+  ],
+  "tags": [
+    "Japanese",
+    "sushi",
+    "cucumber",
+    "salad",
+    "imitation crab",
+    "avocado",
+    "quick",
+    "easy"
+  ],
+  "category": "Salad",
+  "source": "Flavorish",
+  "notes": "For an extra flavor boost, add roasted seaweed snacks.\n\nSource: https://www.facebook.com/share/r/1ACXoBu4Pq/\n\nNutrition: Serving 1 bowl · Calories 200 kcal · Fat 12g · Saturated fat 2g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 30mg · Sodium 700mg · Carbs 15g · Fiber 3g · Sugar 4g · Protein 10g",
+  "created_at": "2025-11-23T07:10:22.898+00:00",
+  "updated_at": "2026-07-19T01:16:19.229827+00:00",
+  "deleted": false,
+  "images": [
+    "images/49254d2a-84a0-4d76-92f2-7b7a7e20e9f4/49254d2a-84a0-4d76-92f2-7b7a7e20e9f4.jpg"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "95cf2857-9ea8-4625-bec3-bc6da16a1685",
+  "title": "Homemade Ketchup",
+  "description": "A simple recipe for homemade ketchup, made without unwanted sugars and preservatives.",
+  "servings": 1,
+  "prep_minutes": 5,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Six ounces of tomato paste"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "100% pure raw unfiltered honey"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "sugar"
+    },
+    {
+      "quantity": "3-4",
+      "unit": "teaspoon",
+      "item": "salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Approximately 1/4 teaspoon of garlic powder"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "onion powder"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "white vinegar"
+    }
+  ],
+  "steps": [
+    "Combine tomato paste, honey, water, sugar, salt, garlic powder, onion powder, and white vinegar in a saucepan.",
+    "Stir everything together.",
+    "Bring the mixture to a boil.",
+    "Reduce heat to a simmer and cook for about 20 minutes, or until reduced.",
+    "Let the mixture cool.",
+    "Pour the cooled mixture into a container.",
+    "Refrigerate to thicken further."
+  ],
+  "tags": [
+    "Sauces",
+    "American",
+    "ketchup",
+    "homemade",
+    "condiment",
+    "sauce"
+  ],
+  "category": "Condiments",
+  "source": "Flavorish",
+  "notes": "The author states that refrigerating the ketchup will cause it to thicken more. They also mention that this recipe is made without unwanted sugars and preservatives found in store-bought ketchup. The author found this tasted better than store-bought ketchup.\n\nSource: https://www.facebook.com/share/v/1JDBwduT6S/\n\nNutrition: Serving 1 tablespoon · Calories 30 · Fat 0g · Saturated fat 0g · Unsaturated fat 0g · Trans fat 0g · Cholesterol 0mg · Sodium 200mg · Carbs 7g · Fiber 0g · Sugar 6g · Protein 1g",
+  "created_at": "2026-06-22T03:04:33.124659+00:00",
+  "updated_at": "2026-06-22T03:04:33.124659+00:00",
+  "deleted": false,
+  "images": [
+    "images/95cf2857-9ea8-4625-bec3-bc6da16a1685/95cf2857-9ea8-4625-bec3-bc6da16a1685.jpg"
+  ]
+}

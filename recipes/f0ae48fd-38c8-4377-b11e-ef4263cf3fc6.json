@@ -1,0 +1,98 @@
+{
+  "id": "f0ae48fd-38c8-4377-b11e-ef4263cf3fc6",
+  "title": "Birria Bomb RAMEN",
+  "description": "A flavorful fusion dish combining traditional birria with ramen noodles.",
+  "servings": 2,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "cooked ramen noodles"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded cooked beef (birria)"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "chopped onions"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "chopped cilantro"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "sliced jalapeños"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "beef broth"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "soy sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "garlic powder"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "chili powder"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "cumin"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "black pepper"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "vegetable oil"
+    }
+  ],
+  "steps": [
+    "Heat the vegetable oil in a pot over medium heat.",
+    "Add the chopped onions and sauté until translucent.",
+    "Stir in garlic powder, chili powder, cumin, and black pepper; cook for 1 minute.",
+    "Pour in the beef broth and soy sauce; bring to a simmer.",
+    "Add the shredded birria beef to the broth and cook for 10 minutes to combine flavors.",
+    "Meanwhile, cook the ramen noodles according to package instructions.",
+    "Divide the cooked noodles into bowls.",
+    "Ladle the hot broth with beef over the noodles.",
+    "Top with chopped cilantro and sliced jalapeños."
+  ],
+  "tags": [
+    "Mexican-American",
+    "birria",
+    "ramen",
+    "fusion",
+    "spicy",
+    "beef"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Feel free to add more jalapeños for extra spice.\n\nSource: https://www.facebook.com/share/r/1BftivDBdc/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 15 g · Saturated fat 5 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 70 mg · Sodium 1200 mg · Carbs 60 g · Fiber 4 g · Sugar 6 g · Protein 25 g",
+  "created_at": "2025-10-18T07:52:23.098+00:00",
+  "updated_at": "2026-07-19T10:41:59.523136+00:00",
+  "deleted": false,
+  "images": [
+    "images/f0ae48fd-38c8-4377-b11e-ef4263cf3fc6/f0ae48fd-38c8-4377-b11e-ef4263cf3fc6.jpg"
+  ]
+}

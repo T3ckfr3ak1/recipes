@@ -1,0 +1,64 @@
+{
+  "id": "f746b68b-94af-4987-968f-86688838b6fd",
+  "title": "Pepperoni & Bacon Wrapped Pounder Cheeseburger",
+  "description": "A massive burger wrapped in pepperoni and bacon, grilled to perfection, topped with cheddar cheese.",
+  "servings": 1,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ground beef (approximately 1 to 1.25 pounds)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Thinly sliced pepperoni slices"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Regular sliced bacon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheddar cheese (or your favorite cheese)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Burger sauce or your preferred sauce"
+    }
+  ],
+  "steps": [
+    "Keep the ground beef as it comes from the meat grinder without forming or compacting it.",
+    "Season the meat lightly.",
+    "Cover the seasoned meat with thin slices of pepperoni.",
+    "Lay slices of bacon over the pepperoni-covered meat, wrapping the loose ends underneath.",
+    "Place the wrapped burger on a grill set to indirect heat at approximately 300-325°F.",
+    "Cover and cook until the internal temperature reaches about 165°F.",
+    "During cooking, baste the burger with your preferred sauce.",
+    "Add cheddar cheese on top of the burger near the end of cooking to melt.",
+    "Remove from grill, slice, and serve."
+  ],
+  "tags": [
+    "Burgers",
+    "American",
+    "burger",
+    "pepperoni",
+    "bacon",
+    "cheeseburger",
+    "grilled"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/15DrWrxzZXs/\n\nNutrition: Serving 1 burger · Calories Approximately 800-1000 kcal · Fat Approximate · Saturated fat Approximate · Unsaturated fat Approximate · Trans fat Approximate · Cholesterol Approximate · Sodium Approximate · Carbs Approximate · Fiber Approximate · Sugar Approximate · Protein Approximate",
+  "created_at": "2025-09-28T00:12:13.072+00:00",
+  "updated_at": "2026-07-19T11:04:03.663177+00:00",
+  "deleted": false,
+  "images": [
+    "images/f746b68b-94af-4987-968f-86688838b6fd/f746b68b-94af-4987-968f-86688838b6fd.jpg"
+  ]
+}

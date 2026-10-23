@@ -1,0 +1,77 @@
+{
+  "id": "1ff34d2f-8e3d-4e20-8e44-47300b33f9fa",
+  "title": "First Responder Breakfast Bake",
+  "description": "A hearty breakfast casserole with eggs, sausage, bacon, potatoes, cheese, and crescent rolls.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "6",
+      "unit": "",
+      "item": "eggs, scrambled"
+    },
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "cooked sausage"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "pound",
+      "item": "cooked bacon, crumbled"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "bag",
+      "item": "Potatoes O'Brien"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "handful shredded sharp cheddar cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "tube crescent rolls"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "OG steak seasoning, to taste"
+    }
+  ],
+  "steps": [
+    "Add six scrambled eggs to a mixing bowl and whisk.",
+    "Add cooked sausage, crumbled bacon, and Potatoes O'Brien to the eggs and mix until well combined.",
+    "Drop a tube of crescent rolls into a greased baking dish, fitting it to cover the bottom.",
+    "Sprinkle a handful of shredded sharp cheddar cheese over the crescent rolls.",
+    "Spread the egg and meat mixture evenly over the cheese.",
+    "Sprinkle some OG steak seasoning on top of the mixture.",
+    "Add another handful of shredded sharp cheddar cheese over the mixture.",
+    "Cover with a second sheet of crescent rolls.",
+    "Bake in a preheated oven at 375°F (190°C) for 10 to 15 minutes, until golden and crispy.",
+    "Remove from oven, cut into pieces, and serve."
+  ],
+  "tags": [
+    "Casserole",
+    "American",
+    "breakfast",
+    "eggs",
+    "sausage",
+    "bacon",
+    "potatoes",
+    "cheese",
+    "crescent rolls"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1Bar4D55TJ/\n\nNutrition: Serving 1 piece · Calories 350 kcal · Fat 20 g · Saturated fat 8 g · Unsaturated fat 12 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 700 mg · Carbs 30 g · Fiber 3 g · Sugar 4 g · Protein 20 g",
+  "created_at": "2025-09-19T05:05:01.08+00:00",
+  "updated_at": "2026-07-18T22:50:19.255871+00:00",
+  "deleted": false,
+  "images": [
+    "images/1ff34d2f-8e3d-4e20-8e44-47300b33f9fa/1ff34d2f-8e3d-4e20-8e44-47300b33f9fa.jpg"
+  ]
+}

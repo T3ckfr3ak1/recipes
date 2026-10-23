@@ -1,0 +1,79 @@
+{
+  "id": "7e0c86b8-d918-49dc-b4e3-c65045bfdce7",
+  "title": "Tacos Casserole with Chicken Taquitos and Queso",
+  "description": "A hearty and cheesy casserole combining ground beef, enchilada sauce, chicken taquitos, and queso, topped with jalapeno cheddar cheese and chili cheese Fritos.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 60,
+  "ingredients": [
+    {
+      "quantity": "12",
+      "unit": "ounces",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Taco seasoning (quantity as per package instructions)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Approximately 20 ounces red enchilada sauce"
+    },
+    {
+      "quantity": "8",
+      "unit": "",
+      "item": "frozen chicken taquitos"
+    },
+    {
+      "quantity": "8",
+      "unit": "",
+      "item": "frozen chicken taquitos (additional, to fill the dish)"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "shredded jalapeno cheddar cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Entire bag of chili cheese Fritos"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Arbo's queso (approximately 12 ounces)"
+    }
+  ],
+  "steps": [
+    "Pound the ground beef and cook until it gets a little color on one side, then flip it. Add taco seasoning and cook until well combined.",
+    "Set aside the cooked beef and queso.",
+    "In a 9x13 inch deep dish Pyrex, spread about 20 ounces of red enchilada sauce on the bottom.",
+    "Place 8 chicken taquitos in the dish, gently sliding them in. Add another 8 taquitos on top if needed.",
+    "Add more enchilada sauce over the taquitos.",
+    "Spread the cooked taco meat and queso over the taquitos.",
+    "Sprinkle 2 cups of shredded jalapeno cheddar cheese evenly over the top.",
+    "Cover the dish and bake at 375°F (190°C) for about 1 hour.",
+    "After baking, if desired, remove excess grease from the top.",
+    "Top the casserole with the entire bag of chili cheese Fritos."
+  ],
+  "tags": [
+    "Tacos",
+    "American",
+    "casserole",
+    "easymeal",
+    "chicken taquitos",
+    "queso"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "This dish is a hearty, indulgent meal with no health claims. Adjust ingredients as desired.\n\nSource: https://www.facebook.com/share/v/1A8Pzhd3tr/\n\nNutrition: Serving 1 slice · Calories Approximately 600 kcal · Fat Approximately 35g · Saturated fat Approximately 15g · Unsaturated fat Approximately 20g · Trans fat 0g · Cholesterol Approximately 80mg · Sodium Approximately 900mg · Carbs Approximately 50g · Fiber Approximately 5g · Sugar Approximately 5g · Protein Approximately 30g",
+  "created_at": "2025-11-04T05:33:44.955+00:00",
+  "updated_at": "2026-07-19T04:17:38.205172+00:00",
+  "deleted": false,
+  "images": [
+    "images/7e0c86b8-d918-49dc-b4e3-c65045bfdce7/7e0c86b8-d918-49dc-b4e3-c65045bfdce7.jpg"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8111535f-29dd-452f-8a02-5330e6f719ea",
+  "title": "Chili Stuffed Fried Nachos",
+  "description": "Giant stuffed chili fried Cheez-It with homemade chili on top of pizza dough, cheddar cheese, and crispy fried exterior.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 10,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Homemade chili"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pizza dough"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheddar cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Egg wash"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Crushed Cheez-Its"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Vegetable oil for frying"
+    }
+  ],
+  "steps": [
+    "Spread a layer of homemade chili on the pizza dough.",
+    "Sprinkle cheddar cheese over the chili.",
+    "Fold the dough over to enclose the chili and cheese, forming a large pocket.",
+    "Brush the folded dough with egg wash.",
+    "Crush Cheez-Its and coat the folded dough with the crushed Cheez-Its.",
+    "Heat vegetable oil to 350°F (175°C) in a deep fryer or large pot.",
+    "Fry the stuffed dough until golden brown and crispy.",
+    "Remove from oil and drain on paper towels.",
+    "Serve hot, showcasing the melted cheese and chili inside."
+  ],
+  "tags": [
+    "Tacos",
+    "American",
+    "nachos",
+    "chili",
+    "fried",
+    "Cheez-It",
+    "appetizer"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/17DZJQZhgr/\n\nNutrition: Serving 1 stuffed nacho · Calories 350 kcal · Fat 20 g · Saturated fat 5 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 50 mg · Sodium 700 mg · Carbs 30 g · Fiber 3 g · Sugar 4 g · Protein 15 g",
+  "created_at": "2025-10-18T17:53:30.496+00:00",
+  "updated_at": "2026-07-19T04:27:49.874006+00:00",
+  "deleted": false,
+  "images": [
+    "images/8111535f-29dd-452f-8a02-5330e6f719ea/8111535f-29dd-452f-8a02-5330e6f719ea.jpg"
+  ]
+}

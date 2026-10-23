@@ -1,0 +1,84 @@
+{
+  "id": "4215d430-e71a-47d5-ba39-28d625bf88b7",
+  "title": "Breakfast Baked Potato with Egg, Sausage, and Cheese",
+  "description": "A creative breakfast dish featuring a hollowed baked potato filled with a mixture of eggs, sausage, and cheese, topped with a cheesy bacon, garlic butter, chives, and sour cream piped topping.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Baked potato"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bacon"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic butter"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chives"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sour cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Egg"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sausage"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional cheese for filling"
+    }
+  ],
+  "steps": [
+    "Hollow out the baked potato to create a blank canvas.",
+    "Mix the potato with cheese, bacon, garlic butter, chives, and sour cream.",
+    "Prepare the egg filling by whisking eggs with sausage and cheese, cooking until just under soft scrambled consistency.",
+    "Stuff the egg mixture inside the hollowed baked potato.",
+    "Optionally, bake the stuffed potato to achieve a crispy tip.",
+    "Pipe the potato mixture on top of the egg filling."
+  ],
+  "tags": [
+    "American",
+    "breakfast",
+    "baked potato",
+    "egg",
+    "sausage",
+    "cheese",
+    "bacon",
+    "garlic",
+    "chives",
+    "sour cream"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/17Kv5WA4RA/\n\nNutrition: Serving 1 stuffed baked potato · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 150mg · Sodium 600mg · Carbs 45g · Fiber 5g · Sugar 4g · Protein 20g",
+  "created_at": "2025-09-19T05:02:46.375+00:00",
+  "updated_at": "2026-07-19T00:50:33.125061+00:00",
+  "deleted": false,
+  "images": [
+    "images/4215d430-e71a-47d5-ba39-28d625bf88b7/4215d430-e71a-47d5-ba39-28d625bf88b7.jpg"
+  ]
+}

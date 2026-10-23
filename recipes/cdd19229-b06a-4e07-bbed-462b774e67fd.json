@@ -1,0 +1,72 @@
+{
+  "id": "cdd19229-b06a-4e07-bbed-462b774e67fd",
+  "title": "My Oh My Mississippi Meatballs",
+  "description": "A delicious and easy way to elevate frozen meatballs using a crock pot, pepperoncini, and savory seasoning packets.",
+  "servings": 8,
+  "prep_minutes": 10,
+  "cook_minutes": 180,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "big bag of frozen homestyle meatballs"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "pepperoncini juice"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "packet of au jus mix"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "packet of ranch seasoning"
+    },
+    {
+      "quantity": "1",
+      "unit": "stick",
+      "item": "unsalted butter"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepperoncinis (to taste)"
+    }
+  ],
+  "steps": [
+    "Drop a big bag of frozen homestyle meatballs in a crock pot.",
+    "In a separate container, whisk together water, pepperoncini juice, au jus mix, and ranch seasoning until beautifully combined.",
+    "Pour the mixture over the meatballs and give them a quick stir.",
+    "Cut the stick of unsalted butter into pats and place them on top of the meatballs.",
+    "Add as many pepperoncinis as you want to the crock pot.",
+    "Put the lid on and set the crock pot to low for three hours.",
+    "When the time is up, take the lid off and give it one more quick stir before serving."
+  ],
+  "tags": [
+    "Main Course",
+    "American",
+    "meatballs",
+    "crock pot",
+    "appetizer",
+    "easy dinner",
+    "Mississippi style"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "The author suggests serving these over pasta, in a hoagie roll, or as an appetizer. They also recommend stirring occasionally during the cooking process.\n\nSource: https://www.facebook.com/share/v/1NzMb8pey3/\n\nNutrition: Serving 1 serving · Calories 350 · Fat 28g · Saturated fat 12g · Unsaturated fat 14g · Trans fat 0g · Cholesterol 75mg · Sodium 950mg · Carbs 8g · Fiber 1g · Sugar 2g · Protein 18g",
+  "created_at": "2026-08-08T16:27:05.566158+00:00",
+  "updated_at": "2026-08-08T16:27:05.566158+00:00",
+  "deleted": false,
+  "images": [
+    "images/cdd19229-b06a-4e07-bbed-462b774e67fd/cdd19229-b06a-4e07-bbed-462b774e67fd.jpg"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "f18bbd10-a373-434a-942a-eaf27979381c",
+  "title": "Texas Trash Chicken Casserole",
+  "description": "A hearty and flavorful chicken casserole featuring refried beans, enchilada sauce, cream cheese, and green chilies.",
+  "servings": 6,
+  "prep_minutes": 15,
+  "cook_minutes": 40,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "enchilada sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Refried beans"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chicken pieces"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Taco seasoning"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "block softened cream cheese"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "diced green chilies"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded cheese"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "enchilada sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "taco seasoning"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Additional shredded cheese for topping"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chopped green onions"
+    }
+  ],
+  "steps": [
+    "Pour enough enchilada sauce to cover the bottom of a 9x13 baking dish.",
+    "Ploop scoops of refried beans into the enchilada sauce.",
+    "Place a piece of chicken on each pile of beans.",
+    "Season generously with taco seasoning.",
+    "Make the sauce by combining softened cream cheese, diced green chilies, shredded cheese, enchilada sauce, and taco seasoning in a mixing bowl.",
+    "Whisk the sauce mixture until beautifully combined.",
+    "Ploop a scoop of the mixture on top of each piece of chicken and spread it out.",
+    "Bake in the oven at 350 degrees for about 30 minutes.",
+    "Remove from the oven, cover with shredded cheese, and put back in the oven for five or ten minutes until the cheese is melted and the chicken is cooked through.",
+    "Sprinkle with chopped green onions before serving."
+  ],
+  "tags": [
+    "Tex-Mex",
+    "casserole",
+    "chicken",
+    "dinner"
+  ],
+  "category": "Main Dish",
+  "source": "Flavorish",
+  "notes": "You can serve this on top of rice, on a bed of lettuce, or inside a tortilla.\n\nSource: https://www.facebook.com/reel/27015152664842689/?sfnsn=mo&mibextid=6AJuK9\n\nNutrition: Serving 1 serving · Calories 450 kcal · Fat 28g · Saturated fat 14g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 110mg · Sodium 950mg · Carbs 18g · Fiber 4g · Sugar 3g · Protein 32g",
+  "created_at": "2026-07-30T01:02:53.400081+00:00",
+  "updated_at": "2026-07-30T01:02:53.400081+00:00",
+  "deleted": false,
+  "images": [
+    "images/f18bbd10-a373-434a-942a-eaf27979381c/f18bbd10-a373-434a-942a-eaf27979381c.jpg"
+  ]
+}

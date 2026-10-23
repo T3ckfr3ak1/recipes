@@ -1,0 +1,51 @@
+{
+  "id": "9116681c-9fc6-4853-9cb3-010d44605b70",
+  "title": "Strawberry Cloud Bread",
+  "description": "A giant, fluffy strawberry-flavoured cloud bread made with just 3 ingredients, perfect for a high-protein dessert.",
+  "servings": 1,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "300",
+      "unit": "g",
+      "item": "egg whites"
+    },
+    {
+      "quantity": "30",
+      "unit": "g",
+      "item": "strawberry protein powder (any flavour works)"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "item": "vanilla sweetener"
+    }
+  ],
+  "steps": [
+    "Add egg whites + sweetener into a bowl",
+    "Use an electric mixer and whip for around 8 minutes until thick and fluffy",
+    "Carefully fold through protein powder",
+    "Pour into a lined tray",
+    "Bake at 180°C for 15 mins"
+  ],
+  "tags": [
+    "Baking",
+    "Modern",
+    "cloud bread",
+    "strawberry",
+    "protein",
+    "low calorie",
+    "dessert",
+    "3 ingredient"
+  ],
+  "category": "Dessert",
+  "source": "Flavorish",
+  "notes": "This recipe comes out somewhere between a soufflé, cake and cloud bread. It's perfect for when you want dessert but still want to smash your protein for the day! You can eat the whole thing without guilt. The author also mentions that chocolate protein powder would be amazing in this recipe.\n\nSource: https://www.facebook.com/share/r/1DnqTQraSh/\n\nNutrition: Serving Whole recipe · Calories 250 calories · Fat 0g fat · Saturated fat 0g · Unsaturated fat 0g · Trans fat 0g · Cholesterol 0mg · Sodium 0mg · Carbs 3g carbs · Fiber 0g · Sugar 0g · Protein 58g protein",
+  "created_at": "2026-06-30T05:31:17.767485+00:00",
+  "updated_at": "2026-06-30T05:31:17.767485+00:00",
+  "deleted": false,
+  "images": [
+    "images/9116681c-9fc6-4853-9cb3-010d44605b70/9116681c-9fc6-4853-9cb3-010d44605b70.jpg"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "91151135-8d8d-41ee-af9d-42ac965652da",
+  "title": "Viral Omelette Toasted Sandwich",
+  "description": "A protein-packed, quick-to-make toasted sandwich featuring eggs, mozzarella, Parma ham, and fresh spinach.",
+  "servings": 1,
+  "prep_minutes": 2,
+  "cook_minutes": 3,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "slices of bread"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Parsley"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pepper"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "slices of mozzarella"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "slices of Parma ham"
+    },
+    {
+      "quantity": "",
+      "unit": "Small",
+      "item": "handful of spinach"
+    },
+    {
+      "quantity": "5",
+      "unit": "ml",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    "Add the olive oil to a non-stick pan on high heat",
+    "Cut both slices of bread in half diagonally and add to the pan",
+    "Whisk 3 eggs and fresh parsley before adding to pan in the gaps between the bread",
+    "Allow whisked eggs to cook, then flip over to toast the bread",
+    "At this point add the slices of cheese, Parma ham and spinach",
+    "Flip in half and cook for a further 2-3 mins",
+    "Cut in half and serve"
+  ],
+  "tags": [
+    "Sandwich",
+    "Fusion",
+    "breakfast",
+    "eggs",
+    "quickrecipes"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Original creator: @cook_with_tabu\n\nSource: https://www.facebook.com/share/r/14mgWnrq76Y/\n\nNutrition: Serving 1 sandwich · Calories 578 · Fat 30g · Saturated fat 12g · Unsaturated fat 18g · Trans fat 0g · Cholesterol 570mg · Sodium 950mg · Carbs 37g · Fiber 3g · Sugar 4g · Protein 40g",
+  "created_at": "2026-07-31T20:04:27.887353+00:00",
+  "updated_at": "2026-07-31T20:04:27.887353+00:00",
+  "deleted": false,
+  "images": [
+    "images/91151135-8d8d-41ee-af9d-42ac965652da/91151135-8d8d-41ee-af9d-42ac965652da.jpg"
+  ]
+}

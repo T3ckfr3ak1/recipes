@@ -1,0 +1,102 @@
+{
+  "id": "6c392cf6-6f98-4290-b181-23e913636ad9",
+  "title": "Sloppy Joe Grilled Cheese",
+  "description": "A delicious combination of sloppy joe filling and grilled cheese sandwich.",
+  "servings": 4,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "pounds",
+      "item": "hamburger meat"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Diced onions"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "heaping spoonfuls beef bouillon powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Minced garlic"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "tomato sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ketchup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mustard"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Black pepper"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "heaping spoonfuls brown sugar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Texas toast"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Mayonnaise"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Slices of cheese (e.g., American, cheddar)"
+    }
+  ],
+  "steps": [
+    "Brown the hamburger meat and diced onions in a skillet.",
+    "Add beef bouillon powder and mix with the meat, then let it finish browning.",
+    "Add minced garlic and cook for 30 to 45 seconds.",
+    "Drain off all grease.",
+    "Stir in tomato sauce, ketchup, mustard, salt, black pepper, and brown sugar. Cook on low heat.",
+    "In a separate hot skillet, toast the Texas toast with a little mayonnaise on each side.",
+    "Place slices of cheese on the toasted bread.",
+    "Add the sloppy joe meat on top of the cheese.",
+    "Finish cooking like a grilled cheese sandwich until the bread is toasted and the cheese is melted."
+  ],
+  "tags": [
+    "American",
+    "Sloppy Joe",
+    "Grilled Cheese",
+    "Sandwich",
+    "Easy Dinner"
+  ],
+  "category": "Sandwiches",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1BNkjKYpn4/\n\nNutrition: Serving 1 sandwich · Calories Approximate 500 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 60mg · Sodium 900mg · Carbs 50g · Fiber 4g · Sugar 12g · Protein 25g",
+  "created_at": "2025-10-18T17:54:13.871+00:00",
+  "updated_at": "2026-07-19T03:17:26.207118+00:00",
+  "deleted": false,
+  "images": [
+    "images/6c392cf6-6f98-4290-b181-23e913636ad9/6c392cf6-6f98-4290-b181-23e913636ad9.jpg"
+  ]
+}

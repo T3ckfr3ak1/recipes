@@ -1,0 +1,108 @@
+{
+  "id": "f26db248-cf1a-4165-a20a-8c0b1caaf115",
+  "title": "Crispy Tacos with Tomato Topping",
+  "description": "My FAVORITE way to make crispy tacos (just like my dad used to!) 🌮",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "white onion, diced"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "oil"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic, minced (as needed)"
+    },
+    {
+      "quantity": "2",
+      "unit": "cans",
+      "item": "stewed tomatoes, strained (reserve juice)"
+    },
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "ground beef"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "tomato bouillon"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "cumin"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "chili powder"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper (to taste)"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "beer (about half the can)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Corn tortillas (fresh or softened in microwave)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Oil for frying"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional toppings: shredded cheese, lettuce, salsa, etc."
+    }
+  ],
+  "steps": [
+    "Heat oil in a pan and sauté diced onion until soft.",
+    "Add minced garlic to the pan and cook until fragrant.",
+    "Add ground beef to the pan and cook until browned.",
+    "Stir in tomato bouillon, cumin, chili powder, salt, and pepper.",
+    "Pour in the reserved tomato juice and half a can of beer.",
+    "Cover and simmer for 30 minutes, then uncover and simmer until liquid reduces.",
+    "While the meat simmers, prepare tortillas: wrap older tortillas in a damp paper towel and microwave for 30 seconds.",
+    "Heat oil in a deep pan for frying.",
+    "Test oil temperature with a broken tortilla piece; if it sizzles and turns into a chip, oil is ready.",
+    "Stuff meat into tortillas, hold upright for 10 seconds, then fry each side until golden and crispy.",
+    "Drain on paper towels and keep warm in a low oven.",
+    "Serve tacos topped with stewed tomatoes and optional toppings."
+  ],
+  "tags": [
+    "Tacos",
+    "American",
+    "crispy tacos",
+    "homemade",
+    "beef",
+    "tomato",
+    "fried",
+    "easy"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Ensure tortillas are fresh or properly softened for best results. Fry in batches and keep warm in a low oven.\n\nSource: https://www.facebook.com/share/v/1PP2rP9Uad/\n\nNutrition: Serving 1 taco · Calories 250 kcal · Fat 12 g · Saturated fat 3 g · Unsaturated fat 9 g · Trans fat 0 g · Cholesterol 50 mg · Sodium 600 mg · Carbs 30 g · Fiber 3 g · Sugar 4 g · Protein 15 g",
+  "created_at": "2025-11-23T07:24:00.188+00:00",
+  "updated_at": "2026-07-19T10:47:45.965569+00:00",
+  "deleted": false,
+  "images": [
+    "images/f26db248-cf1a-4165-a20a-8c0b1caaf115/f26db248-cf1a-4165-a20a-8c0b1caaf115.jpg"
+  ]
+}

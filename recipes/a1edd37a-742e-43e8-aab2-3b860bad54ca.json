@@ -1,0 +1,54 @@
+{
+  "id": "a1edd37a-742e-43e8-aab2-3b860bad54ca",
+  "title": "Homemade Mayonnaise",
+  "description": "A simple and delicious homemade mayonnaise recipe that is quick to prepare.",
+  "servings": 4,
+  "prep_minutes": 5,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "egg"
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "avocado oil"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Splash of red wine vinegar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Squirt of Dijon mustard"
+    },
+    {
+      "quantity": "",
+      "unit": "Pinch",
+      "item": "salt"
+    }
+  ],
+  "steps": [
+    "Combine all ingredients in a blender.",
+    "Blend until the mixture emulsifies into mayonnaise."
+  ],
+  "tags": [
+    "American",
+    "mayo",
+    "homemade",
+    "kitchenhacks",
+    "cooking"
+  ],
+  "category": "Condiments",
+  "source": "Flavorish",
+  "notes": "Ensure all ingredients are at room temperature for the best emulsion.\n\nSource: https://www.facebook.com/share/r/193kAgBXoA/\n\nNutrition: Serving 2 tablespoons · Calories 270 · Fat 30g · Saturated fat 4g · Unsaturated fat 26g · Trans fat 0g · Cholesterol 45mg · Sodium 100mg · Carbs 0.5g · Fiber 0g · Sugar 0g · Protein 1g",
+  "created_at": "2026-08-15T00:02:31.976581+00:00",
+  "updated_at": "2026-08-15T00:02:31.976581+00:00",
+  "deleted": false,
+  "images": [
+    "images/a1edd37a-742e-43e8-aab2-3b860bad54ca/a1edd37a-742e-43e8-aab2-3b860bad54ca.jpg"
+  ]
+}

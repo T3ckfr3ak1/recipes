@@ -1,0 +1,88 @@
+{
+  "id": "cbcbf429-c67b-43e9-8487-7f5aaef4d12b",
+  "title": "Dr. Pepper Recipe",
+  "description": "A homemade syrup inspired by the flavors of Dr. Pepper.",
+  "servings": 1,
+  "prep_minutes": 10,
+  "cook_minutes": 13,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "coconut sugar"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "water"
+    },
+    {
+      "quantity": "3",
+      "unit": "",
+      "item": "cinnamon sticks"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "-inch piece each of lemon, lime, and orange peel"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "each: ground nutmeg, cloves, cardamom, ginger, star anise"
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "fresh ginger"
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "peppercorns"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "cherries"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "bitters"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "vanilla"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "almond extract"
+    }
+  ],
+  "steps": [
+    "Start by adding the coconut sugar to a saucepan over medium–low heat. The moment it starts to caramelize at the bottom of the pot, immediately but slowly pour in the water while stirring. Keep stirring and let the mixture come to a gentle simmer.",
+    "Add the citrus peels, cinnamon sticks, ground spices, fresh ginger, peppercorns, cherries, and bitters. Let everything simmer on low heat for about 10–13 minutes, until the syrup thickens slightly and the flavors come together. Near the end of simmering, use a potato masher to gently mash the cherries and release all their juices into the syrup.",
+    "Remove from heat, strain out the solids, and stir in the vanilla and almond extract. Transfer the finished syrup to a jar and store it in the fridge for up to two weeks.",
+    "To serve: Mix about 3 tablespoons (or your desired amount) of syrup with seltzer water, or simply top it off to taste. Stir gently, then serve."
+  ],
+  "tags": [
+    "Syrup",
+    "American",
+    "Dr. Pepper",
+    "homemade syrup",
+    "cocktail",
+    "drink"
+  ],
+  "category": "Beverage",
+  "source": "Flavorish",
+  "notes": "Nutrition: Serving 3 tablespoons · Calories unknown · Fat unknown · Saturated fat unknown · Unsaturated fat unknown · Trans fat unknown · Cholesterol unknown · Sodium unknown · Carbs unknown · Fiber unknown · Sugar unknown · Protein unknown",
+  "created_at": "2025-11-30T06:51:00.63+00:00",
+  "updated_at": "2026-07-19T08:38:07.524535+00:00",
+  "deleted": false,
+  "images": [
+    "images/cbcbf429-c67b-43e9-8487-7f5aaef4d12b/cbcbf429-c67b-43e9-8487-7f5aaef4d12b.jpg"
+  ]
+}

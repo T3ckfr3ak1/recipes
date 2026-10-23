@@ -1,0 +1,108 @@
+{
+  "id": "6f2281f3-f5ca-4202-9429-778aac0b9a78",
+  "title": "Weeknight Chicken Parm Casserole",
+  "description": "An easy weeknight chicken parm casserole.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 45,
+  "ingredients": [
+    {
+      "quantity": "1/2",
+      "unit": "",
+      "item": "a dice (assumed to be chicken or vegetable dice, approximately 1 cup)"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "whole bell pepper, any color"
+    },
+    {
+      "quantity": "2-3",
+      "unit": "",
+      "item": "minced garlic cloves"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "tomato sauce"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "diced tomatoes"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "chopped basil"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "oregano"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "red pepper flakes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chicken thighs, seasoned with salt and pepper"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "panko breadcrumbs"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "freshly shredded Parmesan cheese"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "oregano"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "basil"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "item": "olive oil"
+    }
+  ],
+  "steps": [
+    "Add half of a dice onto a hot oiled pan and cook until tender and golden.",
+    "Add the whole bell pepper, stir, and cook for a couple of minutes.",
+    "Add minced garlic cloves and cook for about a minute.",
+    "Make the sauce by adding tomato sauce, diced tomatoes, chopped basil, oregano, and red pepper flakes; stir and bring to a boil.",
+    "Reduce heat and simmer for about 10 minutes.",
+    "Pour the sauce into a 9x13 baking dish.",
+    "Place seasoned chicken thighs into the sauce.",
+    "In a small mixing bowl, combine panko breadcrumbs, Parmesan cheese, oregano, basil, and olive oil; stir until combined.",
+    "Spoon heaping piles of the breadcrumb mixture onto each chicken thigh.",
+    "Bake in the oven at 350°F (175°C) for about 45 minutes.",
+    "Serve the chicken thighs over pasta."
+  ],
+  "tags": [
+    "Italian",
+    "chicken",
+    "casserole",
+    "weeknight dinner"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Serve over cooked pasta for a complete meal.\n\nSource: https://www.facebook.com/share/r/1763xehiR9/\n\nNutrition: Serving 1 chicken thigh with sauce and breadcrumbs · Calories Approximately 500 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 120mg · Sodium 800mg · Carbs 50g · Fiber 5g · Sugar 8g · Protein 40g",
+  "created_at": "2025-09-20T04:12:52.078+00:00",
+  "updated_at": "2026-07-19T03:26:59.568561+00:00",
+  "deleted": false,
+  "images": [
+    "images/6f2281f3-f5ca-4202-9429-778aac0b9a78/6f2281f3-f5ca-4202-9429-778aac0b9a78.jpg"
+  ]
+}

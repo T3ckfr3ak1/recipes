@@ -1,0 +1,56 @@
+{
+  "id": "b7dcfcc3-6991-4746-a0a1-af3387874af7",
+  "title": "Cheesy Sausage & Pepper Breakfast Scramble",
+  "description": "A delicious and hearty breakfast scramble with sausage, peppers, eggs, and cheese.",
+  "servings": 4,
+  "prep_minutes": 5,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "pound",
+      "item": "Jimmy Dean's breakfast sausage"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "whole red bell pepper, diced"
+    },
+    {
+      "quantity": "6",
+      "unit": "large",
+      "item": "eggs"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "fiesta blend shredded cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Sriracha sauce (to taste)"
+    }
+  ],
+  "steps": [
+    "In a large skillet, brown the sausage over medium heat until it’s fully cooked and no longer pink.",
+    "Add the diced red bell pepper to the skillet and cook until the pepper is softened, about 3–4 minutes.",
+    "Crack the eggs directly into the skillet over the sausage and peppers. Stir everything together gently, scrambling the eggs until they’re fully cooked and everything is nicely combined.",
+    "Sprinkle the fiesta blend cheese over the top and let it melt in. Add a drizzle of Sriracha sauce (or more if you like a kick) and give it one last stir.",
+    "Serve hot and enjoy your cheesy, spicy breakfast scramble!"
+  ],
+  "tags": [
+    "main dish",
+    "American",
+    "undefined"
+  ],
+  "category": "breakfast",
+  "source": "Flavorish",
+  "notes": "Nutrition: Serving 1 serving · Calories 350 kcal · Fat 28g · Saturated fat 10g · Unsaturated fat 16g · Trans fat 0g · Cholesterol 280mg · Sodium 800mg · Carbs 5g · Fiber 1g · Sugar 3g · Protein 25g",
+  "created_at": "2025-11-27T16:13:36.421+00:00",
+  "updated_at": "2026-07-19T07:32:28.494506+00:00",
+  "deleted": false,
+  "images": [
+    "images/b7dcfcc3-6991-4746-a0a1-af3387874af7/b7dcfcc3-6991-4746-a0a1-af3387874af7.jpg"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "80f44277-8371-480c-9778-8f4a99d2eb1d",
+  "title": "Southern Caviar",
+  "description": "A simple and delicious dip made with black-eyed peas, corn, Rotel, red onion, and zesty Italian dressing.",
+  "servings": 4,
+  "prep_minutes": 5,
+  "cook_minutes": 0,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "black-eyed peas, drained"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "corn, drained"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "Rotel Original"
+    },
+    {
+      "quantity": "1",
+      "unit": "",
+      "item": "red onion, diced"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "About 1/4 bottle zesty Italian dressing"
+    }
+  ],
+  "steps": [
+    "Combine all ingredients in a bowl.",
+    "Stir well.",
+    "Serve with tortilla chips."
+  ],
+  "tags": [
+    "Dip",
+    "Southern",
+    "black-eyed peas",
+    "corn",
+    "easy",
+    "party food"
+  ],
+  "category": "Appetizer",
+  "source": "Flavorish",
+  "notes": "This recipe was created in a humorous, fictional setting and the ingredients were gathered in an airport. The author tried black-eyed peas for the first time while making this recipe.\n\nSource: https://www.facebook.com/share/v/1PQbnLsJ4k/\n\nNutrition: Serving 1/4 cup · Calories 150 · Fat 7g · Saturated fat 1g · Unsaturated fat 6g · Trans fat 0g · Cholesterol 0mg · Sodium 400mg · Carbs 20g · Fiber 3g · Sugar 5g · Protein 3g",
+  "created_at": "2026-06-14T05:29:43.024+00:00",
+  "updated_at": "2026-07-19T04:27:26.712563+00:00",
+  "deleted": false,
+  "images": [
+    "images/80f44277-8371-480c-9778-8f4a99d2eb1d/80f44277-8371-480c-9778-8f4a99d2eb1d.jpg"
+  ]
+}

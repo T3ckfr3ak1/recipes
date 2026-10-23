@@ -1,0 +1,82 @@
+{
+  "id": "e21bf856-2955-4d0a-ace9-1f3cc5ebdc7c",
+  "title": "School Pizza from 1988",
+  "description": "A nostalgic recipe for the iconic rectangular school pizza from 1988, based on the original USDA recipe.",
+  "servings": 10,
+  "prep_minutes": 25,
+  "cook_minutes": 10,
+  "ingredients": [
+    {
+      "quantity": "2 1/2",
+      "unit": "teaspoons",
+      "item": "or 7 grams of active dry yeast"
+    },
+    {
+      "quantity": "113",
+      "unit": "cups",
+      "item": "or 375 milliliters of warm water (110°F)"
+    },
+    {
+      "quantity": "2 1/2",
+      "unit": "cups",
+      "item": "or 3320 grams of all-purpose or bread flour"
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "or 55 grams of instant nonfat dry milk"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoons",
+      "item": "or 25 grams of sugar"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "salt"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "teaspoons",
+      "item": "vegetable oil, plus more for greasing the pan"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "tablespoons",
+      "item": "or 15 grams of cornmeal"
+    }
+  ],
+  "steps": [
+    "Dissolve the dry yeast into the warm water and let it sit for five minutes.",
+    "Add the flour, dry milk, sugar, and salt to a stand mixer and mix using the whisk attachment on low for four minutes.",
+    "Add the frothy yeast mixture and vegetable oil to the dough and continue to mix on medium speed for 10 minutes.",
+    "Prepare a half sheet pan by coating it with oil and sprinkling evenly with cornmeal.",
+    "Pour the batter into the prepared pan and spread it out to cover the base, allowing it to relax and spread.",
+    "Let the dough sit for 20 minutes while preheating the oven to 475°F (245°C) or 425°F (218°C) for convection.",
+    "Bake the pre-baked crust for 10 minutes (7 minutes for convection).",
+    "Prepare the sauce by mixing dried onions, garlic powder, black pepper, tomato paste, water, and seasonings in a saucepan, then simmer for 10 minutes.",
+    "Spread 1 1/2 cups of shredded mozzarella cheese over the partially baked crust.",
+    "Pour the simmered tomato sauce over the cheese, smoothing it out evenly.",
+    "Sprinkle the remaining cheese evenly over the top, reaching the edges of the pan.",
+    "Bake until the cheese is lightly browned, approximately 11 minutes.",
+    "Remove from oven, cut into slices, and serve."
+  ],
+  "tags": [
+    "American",
+    "school pizza",
+    "1988",
+    "rectangular pizza",
+    "nostalgic",
+    "USDA recipe"
+  ],
+  "category": "Lunch",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1Fd46cVeW1/\n\nNutrition: Serving 1 slice · Calories Approximate based on ingredients · Fat Estimate · Saturated fat Estimate · Unsaturated fat Estimate · Trans fat Estimate · Cholesterol Estimate · Sodium Estimate · Carbs Estimate · Fiber Estimate · Sugar Estimate · Protein Estimate",
+  "created_at": "2025-09-27T22:06:25.322+00:00",
+  "updated_at": "2026-07-19T09:53:08.395615+00:00",
+  "deleted": false,
+  "images": [
+    "images/e21bf856-2955-4d0a-ace9-1f3cc5ebdc7c/e21bf856-2955-4d0a-ace9-1f3cc5ebdc7c.jpg"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "c5f3ac10-0add-4a7d-9e6a-5601557d58e7",
+  "title": "Cowboy's Traditional Huevos Rancheros",
+  "description": "A classic recipe for Huevos Rancheros inspired by traditional flavors from Silver City, New Mexico, featuring a rich homemade sauce, fried corn tortillas in bacon grease, and perfectly cooked eggs.",
+  "servings": 4,
+  "prep_minutes": 20,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "jalapenos, stem removed, seeds and veins scraped out if heat sensitive"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "serranos, stem removed, seeds and veins scraped out if heat sensitive"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "medium-sized white onions, peeled and cut through the center of the root, root left on"
+    },
+    {
+      "quantity": "4",
+      "unit": "",
+      "item": "garlic cloves, boiled"
+    },
+    {
+      "quantity": "4",
+      "unit": "",
+      "item": "roma tomatoes, cored and boiled"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "dried guajillo or ancho chiles, stem and seeds removed, chopped"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bacon, enough to render about 1 tablespoon of bacon grease"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Corn tortillas, fried in bacon grease"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cheese, shredded (optional, for topping)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Eggs, cooked over easy"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper to taste"
+    }
+  ],
+  "steps": [
+    "Prepare the sauce by boiling jalapenos, serranos, onions, garlic, and tomatoes in water until the tomatoes are soft enough to peel, about 10-12 minutes.",
+    "Peel the tomatoes and set aside to cool. In a blender, combine the peppers, onions, garlic, tomatoes, and chopped dried chiles. Blend until smooth.",
+    "Pour the blended sauce into a saucepan, bring to a boil, then reduce heat and simmer for about 10 minutes.",
+    "While the sauce simmers, fry bacon in a skillet until crispy. Remove bacon and reserve the bacon grease.",
+    "Fry corn tortillas in the bacon grease until bubbly and slightly crispy. Keep tortillas warm.",
+    "In a cast iron skillet, heat some bacon grease and fry eggs over easy.",
+    "Assemble the huevos rancheros by placing a fried tortilla on a plate, topping with a fried egg, spooning hot sauce over the egg, and sprinkling with cheese if desired.",
+    "Serve immediately, garnished with additional toppings as preferred."
+  ],
+  "tags": [
+    "Mexican",
+    "Huevos Rancheros",
+    "Mexican Breakfast",
+    "Traditional",
+    "New Mexico",
+    "Eggs",
+    "Salsa"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Use fresh ingredients for the best flavor. Adjust the heat level by modifying the seeds in the peppers.\n\nSource: https://www.facebook.com/share/v/17EH1ZeVc3/\n\nNutrition: Serving 1 plate · Calories 350 kcal · Fat 15 g · Saturated fat 5 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 210 mg · Sodium 600 mg · Carbs 40 g · Fiber 5 g · Sugar 8 g · Protein 15 g",
+  "created_at": "2025-10-13T03:09:50.093+00:00",
+  "updated_at": "2026-07-19T08:18:30.784439+00:00",
+  "deleted": false,
+  "images": [
+    "images/c5f3ac10-0add-4a7d-9e6a-5601557d58e7/c5f3ac10-0add-4a7d-9e6a-5601557d58e7.jpg"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "fb62252c-a7ae-4129-b03e-3ff6b2a81011",
+  "title": "Overnight French Toast Breakfast Bake",
+  "description": "A delicious overnight French toast bake that's perfect for a weekend breakfast or brunch.",
+  "servings": 8,
+  "prep_minutes": 10,
+  "cook_minutes": 45,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Loaf of bread (without crust)"
+    },
+    {
+      "quantity": "6",
+      "unit": "",
+      "item": "eggs"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "milk"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "heavy whipping cream"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "vanilla extract"
+    },
+    {
+      "quantity": "1",
+      "unit": "stick",
+      "item": "butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "brown sugar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Cinnamon (to taste)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Saran wrap"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Aluminum foil"
+    }
+  ],
+  "steps": [
+    "Start with a loaf of bread and a sharp knife. Remove all the crust from the loaf and set aside. Save the crust for later.",
+    "In a mixing bowl, add six eggs, one cup of milk, half a cup of heavy whipping cream, and one teaspoon of vanilla extract. Whisk everything together.",
+    "Melt a stick of butter. Add one cup of brown sugar to the melted butter and stir well.",
+    "Pour the brown sugar and butter mixture into an 11x13-inch baking dish, spreading it evenly.",
+    "Lay the bread in a layer across the dish. For a neat layer, cut the bread into pieces if desired.",
+    "Pour half of the egg mixture over the bread layer. Sprinkle cinnamon on top.",
+    "Add another layer of bread, then pour the remaining egg mixture over it. Press down on dry spots to ensure everything is coated.",
+    "Sprinkle more cinnamon on top.",
+    "Cover the dish with saran wrap and refrigerate overnight.",
+    "In the morning, remove the saran wrap and cover with aluminum foil. Bake at 350°F (175°C) for 45 minutes, removing the foil for the last 15 minutes.",
+    "Remove from oven, let cool slightly, and serve. Optional toppings include powdered sugar, maple syrup, strawberries, or whipped cream."
+  ],
+  "tags": [
+    "American",
+    "French toast",
+    "breakfast",
+    "overnight",
+    "bake",
+    "brunch"
+  ],
+  "category": "Breakfast",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/1BVTiHnxwE/\n\nNutrition: Serving 1 slice · Calories Approximately 250 kcal per serving · Fat 10g · Saturated fat 5g · Unsaturated fat 5g · Trans fat 0g · Cholesterol 80mg · Sodium 150mg · Carbs 35g · Fiber 2g · Sugar 15g · Protein 8g",
+  "created_at": "2025-09-20T14:30:59.22+00:00",
+  "updated_at": "2026-07-19T11:17:56.804575+00:00",
+  "deleted": false,
+  "images": [
+    "images/fb62252c-a7ae-4129-b03e-3ff6b2a81011/fb62252c-a7ae-4129-b03e-3ff6b2a81011.jpg"
+  ]
+}

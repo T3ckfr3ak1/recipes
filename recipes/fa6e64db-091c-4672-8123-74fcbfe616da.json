@@ -1,0 +1,52 @@
+{
+  "id": "fa6e64db-091c-4672-8123-74fcbfe616da",
+  "title": "Pommes Anna",
+  "description": "A classic French potato dish featuring wafer-thin potato slices layered with clarified butter, thyme, and seasoning, baked until golden and crispy.",
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Potatoes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Butter (clarified)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Thyme leaves"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Black pepper"
+    }
+  ],
+  "steps": [
+    "Clarify the butter by melting it and skimming off the milk solids until only pure butter fat remains.",
+    "Slice the potatoes wafer-thin (about 1mm) using a mandolin. Do not wash the slices.",
+    "Prepare the pan by brushing the base with clarified butter.",
+    "Arrange the first layer of potatoes in a pretty flower or spiral shape, overlapping by about a centimeter.",
+    "Build the layers by repeating the process: butter, salt, thyme, pepper, and potato slices. Season every three layers.",
+    "Finish with a generous layer of butter on top, cover with a cartouche (baking paper circle), and place a weight on top.",
+    "Bake at 165°C for about an hour until a knife glides through with no resistance.",
+    "Increase the oven temperature to 220°C and bake for another 20 minutes to crisp up the exterior.",
+    "Turn the potato cake out onto a plate, brush with remaining butter, and finish with flaky salt and fresh"
+  ],
+  "tags": [],
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/v/19H3m99cmr/",
+  "created_at": "2026-08-03T08:08:51.558001+00:00",
+  "updated_at": "2026-08-03T08:08:51.558001+00:00",
+  "deleted": false,
+  "images": [
+    "images/fa6e64db-091c-4672-8123-74fcbfe616da/fa6e64db-091c-4672-8123-74fcbfe616da.jpg"
+  ]
+}

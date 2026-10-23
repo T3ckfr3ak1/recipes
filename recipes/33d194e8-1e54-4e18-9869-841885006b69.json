@@ -1,0 +1,94 @@
+{
+  "id": "33d194e8-1e54-4e18-9869-841885006b69",
+  "title": "Marry Me Chicken with Penne and Sun-Dried Tomatoes",
+  "description": "A flavorful chicken dish served over penne pasta with sun-dried tomatoes and a creamy Parmesan sauce.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "tablespoons",
+      "item": "olive oil"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "about half a stick of butter"
+    },
+    {
+      "quantity": "4",
+      "unit": "tablespoons",
+      "item": "garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "chicken stock"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "heavy cream"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Parmesan cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "chicken (amount as desired)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "sun-dried tomatoes (about a cup, chopped)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "pasta (penne, enough for serving)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "parsley (for garnish)"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "fresh broccoli (for serving)"
+    }
+  ],
+  "steps": [
+    "Brown the chicken on both sides until over 165°F internal temperature, getting a golden brown color.",
+    "Add garlic and cook briefly.",
+    "Pour in chicken stock and scrape up the flavor bits from the bottom of the pan.",
+    "Bring to a light boil, then lower heat.",
+    "Add heavy cream and Parmesan cheese, stirring until melted and combined.",
+    "Chop the sun-dried tomatoes and add to the sauce.",
+    "Cook the penne pasta separately until al dente.",
+    "Combine the cooked pasta with the sauce and chicken.",
+    "Garnish with parsley and serve with fresh broccoli."
+  ],
+  "tags": [
+    "American",
+    "chicken",
+    "pasta",
+    "sun-dried tomatoes",
+    "creamy",
+    "Parmesan",
+    "easy recipe"
+  ],
+  "category": "Dinner",
+  "source": "Flavorish",
+  "notes": "Use fresh parsley for garnish and adjust seasoning to taste.\n\nSource: https://www.facebook.com/share/v/1CEnuCAbVD/\n\nNutrition: Serving 1 plate · Calories Approximately 600 kcal · Fat 30g · Saturated fat 15g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 150mg · Sodium 800mg · Carbs 70g · Fiber 5g · Sugar 8g · Protein 35g",
+  "created_at": "2025-11-23T17:06:07.118+00:00",
+  "updated_at": "2026-07-19T00:00:52.886062+00:00",
+  "deleted": false,
+  "images": [
+    "images/33d194e8-1e54-4e18-9869-841885006b69/33d194e8-1e54-4e18-9869-841885006b69.jpg"
+  ]
+}

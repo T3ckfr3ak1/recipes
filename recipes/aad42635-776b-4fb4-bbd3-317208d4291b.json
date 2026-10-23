@@ -1,0 +1,89 @@
+{
+  "id": "aad42635-776b-4fb4-bbd3-317208d4291b",
+  "title": "General Tso's Chicken",
+  "description": "A flavorful Chinese-inspired dish with crispy chicken in a savory sauce.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 15,
+  "ingredients": [
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chicken thighs with skin and bones"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Corn starch"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Chinese Dark soy sauce"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ketchup"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Pineapple juice"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Vinegar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Brown sugar"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Red chili flakes"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Oil for frying"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Garlic"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Ginger"
+    }
+  ],
+  "steps": [
+    "Rub cornstarch all over the chicken thighs.",
+    "Pour oil into a skillet and heat it.",
+    "Using tongs, carefully drop the chicken into the hot oil and fry until crispy.",
+    "Add garlic and ginger to the pan and cook until fragrant.",
+    "Prepare the sauce by combining Chinese Dark soy sauce, ketchup, pineapple juice, vinegar, brown sugar, and red chili flakes.",
+    "Pour the sauce into the pan with the chicken and cook until heated through and coated."
+  ],
+  "tags": [
+    "Chinese",
+    "chicken",
+    "fried",
+    "sauce",
+    "spicy"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Adjust chili flakes to taste for spiciness.\n\nSource: https://www.facebook.com/share/r/17TjatWwyQ/\n\nNutrition: Serving 1 plate · Calories 350 kcal · Fat 15 g · Saturated fat 3 g · Unsaturated fat 12 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 700 mg · Carbs 40 g · Fiber 2 g · Sugar 12 g · Protein 25 g",
+  "created_at": "2025-10-24T03:12:19.199+00:00",
+  "updated_at": "2026-07-19T06:49:25.14608+00:00",
+  "deleted": false,
+  "images": [
+    "images/aad42635-776b-4fb4-bbd3-317208d4291b/aad42635-776b-4fb4-bbd3-317208d4291b.jpg"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "2c1848a7-39e1-469a-b784-151ea624a20d",
+  "title": "Grandma's Pot Roast",
+  "description": "Let's Make My Grandma's Pot Roast",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 480,
+  "ingredients": [
+    {
+      "quantity": "2-3",
+      "unit": "pounds",
+      "item": "chuck roast"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Salt and pepper"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Potatoes, peeled and quartered"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "A whole bag of baby carrots"
+    },
+    {
+      "quantity": "2",
+      "unit": "",
+      "item": "onions, peeled and halved"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Butter"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "cold water"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Powdered gravy pack"
+    }
+  ],
+  "steps": [
+    "Place the butter in the crock pot.",
+    "Add the chuck roast on top of the butter.",
+    "Season with salt and pepper.",
+    "Add the peeled and quartered potatoes.",
+    "Add the whole bag of baby carrots.",
+    "Add the halved onions.",
+    "In a separate bowl, mix the powdered gravy pack into the cold water until well combined.",
+    "Pour the gravy mixture over the ingredients in the crock pot.",
+    "Cover with the lid and set to cook on low for 8 hours.",
+    "After 8 hours, check the pot roast; it should be tender and pull apart easily."
+  ],
+  "tags": [
+    "American",
+    "pot roast",
+    "slow cooker",
+    "family recipe",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/1LC6sqSdDN/\n\nNutrition: Serving 1 slice or portion · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 100mg · Sodium 800mg · Carbs 50g · Fiber 5g · Sugar 8g · Protein 30g",
+  "created_at": "2025-09-20T04:00:15.623+00:00",
+  "updated_at": "2026-07-18T23:34:26.434695+00:00",
+  "deleted": false,
+  "images": [
+    "images/2c1848a7-39e1-469a-b784-151ea624a20d/2c1848a7-39e1-469a-b784-151ea624a20d.jpg"
+  ]
+}

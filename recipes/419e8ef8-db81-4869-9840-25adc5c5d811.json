@@ -1,0 +1,107 @@
+{
+  "id": "419e8ef8-db81-4869-9840-25adc5c5d811",
+  "title": "Chicken Pot Pie Tater Tot Casserole",
+  "description": "A comforting casserole combining chicken, vegetables, and tater tots, topped with optional cheese and parsley.",
+  "servings": 6,
+  "prep_minutes": 10,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "1/3",
+      "unit": "cup",
+      "item": "butter"
+    },
+    {
+      "quantity": "1/3",
+      "unit": "cup",
+      "item": "diced onions"
+    },
+    {
+      "quantity": "1/3",
+      "unit": "cup",
+      "item": "flour"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "teaspoon",
+      "item": "salt"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "teaspoon",
+      "item": "black pepper"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "whole milk"
+    },
+    {
+      "quantity": "1 3/4",
+      "unit": "cups",
+      "item": "chicken broth"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "item": "garlic powder"
+    },
+    {
+      "quantity": "2 1/2",
+      "unit": "cups",
+      "item": "shredded cooked chicken thighs"
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "mixed vegetables"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Bag of tater tots"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: shredded cheese"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: parsley"
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "Optional: hot sauce"
+    }
+  ],
+  "steps": [
+    "Add butter to a hot pan and sauté diced onions until tender and slightly colored.",
+    "Stir in flour, then add salt, black pepper, milk, chicken broth, and garlic powder.",
+    "Cook until the mixture becomes smooth and thick.",
+    "Add shredded chicken and mixed vegetables, stir until heated through.",
+    "Pour the mixture into a 9x9 baking dish.",
+    "Top with a bag of tater tots.",
+    "Optional: sprinkle shredded cheese on top.",
+    "Bake at 425°F for about 30 minutes until golden.",
+    "Optional: sprinkle parsley on top."
+  ],
+  "tags": [
+    "American",
+    "chicken",
+    "casserole",
+    "tater tots",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Flavorish",
+  "notes": "Source: https://www.facebook.com/share/r/18koqKZbGu/\n\nNutrition: Serving 1 slice · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 700mg · Carbs 50g · Fiber 5g · Sugar 5g · Protein 25g",
+  "created_at": "2025-09-20T04:18:58.388+00:00",
+  "updated_at": "2026-07-19T00:48:55.324999+00:00",
+  "deleted": false,
+  "images": [
+    "images/419e8ef8-db81-4869-9840-25adc5c5d811/419e8ef8-db81-4869-9840-25adc5c5d811.jpg"
+  ]
+}
