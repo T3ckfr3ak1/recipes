@@ -1,0 +1,29 @@
+# Joe's food preferences and brand rules
+
+**Sources:** Joe's messages to Thrifty (Oct 20, 2026), Thrifty's memory, and Meal Plan's bot profile.
+
+## Won't eat or limits
+- Won't eat: pickles, mushrooms, zucchini, asparagus, cantaloupe, cucumbers.
+- Not a fan of rice. Joe: "rice isnt out, but i dont cook with it myself much".
+- Keeps tomatoes light because of acid reflux. Joe: "i avoid tomatoes - acid reflux, i eat them, but not often".
+
+## Likes
+- Pizza (Red Baron personal pizzas), burgers, steak, hot wings.
+- Pulled or shredded pork and chicken from the Instant Pot.
+- Tyson BBQ chicken chunks, though they're pricey.
+- Deli sandwiches, for work lunches only, not dinner or at home. Joe: "lunch not dinner, i could eat those every day".
+- Snacks: Utz Pub Mix and Reese's.
+- Drinks: Baja Blast, and at least one non-diet Monster a day.
+- Candied jalapenos: "the jalepenos are good for lunch sandwiches".
+
+## Household
+- His girlfriend prefers lighter meals.
+- Thursday dinners with his kids are Jack's pizzas. Joe: "what the kids will and wont eat is such a pain in the ass".
+
+## Brand rules (Thrifty memory, Oct 20, 2026)
+> avoid Great Value when a name brand is cost-effective; Kodiak pancake mix only (made with whole milk and eggs, never water); Baja Blast as a 24-pack of cans, never 2-liters; Monster in 12-packs; pretzel or King's Hawaiian burger buns; Bunny bread; Mission XL burrito tortillas only; Marzetti blue cheese; ketchup with no corn syrup; no Frank's RedHot (he hates it); he uses real maple syrup.
+
+More from Thrifty's memory:
+- Hidden Valley ranch, Hillshire Farm lunch meat, and more than one kind of lunch meat for variety.
+- Wing sauce: Buffalo Wild Wings Honey BBQ.
+- Kodiak, Joe's words: "i only buy kodiak pancake mix, i need whole milk and eggs to make it, i do not use water, i do not care what the intructions say".
