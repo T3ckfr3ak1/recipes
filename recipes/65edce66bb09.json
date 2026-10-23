@@ -1,0 +1,54 @@
+{
+  "title": "Pulled Pork Nachos with Pepper Jack",
+  "description": "Sheet pan nachos with leftover pulled pork. Serves 1 to 2.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "about half a bag",
+      "unit": null,
+      "item": "Santitas tortilla chips",
+      "note": null
+    },
+    {
+      "quantity": "1 to 1.5",
+      "unit": "cups",
+      "item": "pulled pork",
+      "note": "thawed overnight if frozen"
+    },
+    {
+      "quantity": "1.5",
+      "unit": "cups",
+      "item": "shredded habanero jalapeno jack (pepper jack)",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "toppings: candied jalapenos, sour cream, BBQ sauce drizzle, ranch",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat oven on Air Fry mode to 375°F. Line a sheet pan with foil.",
+    "Warm the pork in the microwave, covered, with a splash of juice or water, 1 to 2 min.",
+    "Spread chips in a single, slightly overlapping layer. Scatter half the cheese, all the pork, then the rest of the cheese. (For more cheese in every bite, do 2 thinner layers.)",
+    "Bake 4 to 7 min until the cheese is melted and bubbly. Watch closely, chip edges burn fast in this mode.",
+    "Top with candied jalapenos, dollops of sour cream, and a drizzle of BBQ sauce. Eat right away."
+  ],
+  "tags": [
+    "pork",
+    "pulled pork",
+    "nachos",
+    "leftovers",
+    "samsung air fry mode"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R21",
+  "notes": "15 min.",
+  "deleted": false,
+  "id": "65edce66bb09",
+  "created_at": "2026-10-23T12:04:17-05:00",
+  "updated_at": "2026-10-23T12:04:17-05:00"
+}
