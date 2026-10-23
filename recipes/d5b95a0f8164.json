@@ -24,8 +24,8 @@
       "note": "peppers only, no juice"
     },
     {
-      "quantity": "2",
-      "unit": "tsp",
+      "quantity": "1",
+      "unit": "tbsp",
       "item": "El Yucateco XXXtra Hot",
       "note": "added at the 2-hour mark"
     }
@@ -33,7 +33,7 @@
   "steps": [
     "Coat the pork with the rub and jalapenos and set it in the pot.",
     "Slow cook on HIGH for 8 hours with the non-vented glass lid on.",
-    "At the 2-hour mark, pour the 2 tsp El Yucateco XXXtra Hot over the top of the meat.",
+    "At the 2-hour mark, pour the 1 tbsp El Yucateco XXXtra Hot over the top of the meat.",
     "When a fork slides in clean, shred, pull the bone, and serve."
   ],
   "tags": [
@@ -49,5 +49,5 @@
   "deleted": false,
   "id": "d5b95a0f8164",
   "created_at": "2026-10-23T12:04:23-05:00",
-  "updated_at": "2026-10-23T12:04:23-05:00"
+  "updated_at": "2026-10-23T13:14:18-05:00"
 }
