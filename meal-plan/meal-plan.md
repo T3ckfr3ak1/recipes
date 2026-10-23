@@ -1,0 +1,172 @@
+# Joe's Meal Plan: Tue Oct 20 to Wed Nov 4, 2026
+
+Copied from Joe's Meal Pack (`joe-meal-pack-oct20-nov4.pdf`, in this folder). Thrifty built the plan, and Meal Plan keeps it now. The plan below is Part 1 of the pack, unchanged. The recipes (Part 2, R1 to R24) are saved in `recipes/`. The table at the bottom gives the recipe id for each R number.
+
+Your gear: Instant Pot (pressure cook or slow cook), Samsung oven with Air Fry mode, microwave, a skillet, and a sheet pan. An instant-read thermometer makes every recipe here easier and is worth the few bucks if you don't have one.
+
+## The Meal Plan
+
+| Day | Breakfast | Lunch | Dinner | Recipes |
+|---|---|---|---|---|
+| Tue Oct 20 |  |  | Hot ready-to-eat deli from the Walmart order: ranch-seasoned jumbo wings, chicken spicy mustard wrap, pepperoni and cheese turnover | R1 |
+| Wed Oct 21 |  | Leftover deli hot chicken with oven hash browns | Instant Pot pulled pork over loaded hash browns with habanero jack and corn (start the pork today) | R1, R2, R3, R4 |
+| Thu Oct 22 |  | Pulled pork quesadillas | Jack's pizzas with the kids (2 Original Thin pepperoni + 1 sausage; 1 pepperoni left over). Cook IP shredded chicken today. | R5, R6, R7 |
+| Fri Oct 23 (gf over) |  | The extra Jack's pepperoni pizza | Cheese tortellini in homemade alfredo, cheesy garlic bread, seasoned chicken breast for gf | R6, R9, R10, R11 |
+| Sat Oct 24 (gf) | Scrambled eggs, hash browns, sausage links | Leftover tortellini alfredo and garlic bread | Baked potato bar: broccoli, cheese, butter, sour cream, a little shredded chicken on the side | R2, R12, R13, R15, R16 |
+| Sun Oct 25 (gf) | Kodiak pancakes and sausage links | Leftover baked potatoes | Cook all 5 thick pork chops medium rare. Eat 1 with corn. Cool and freeze 4 individually. | R13, R14, R16, R17 |
+| Mon Oct 26 (work) |  | Deli sandwich (packed ahead) | Pork chop reheated from frozen in microwave + hash browns | R19, R18, R2 |
+| Tue Oct 27 (work) |  | Deli sandwich | Pork chop reheated from frozen + broccoli | R19, R18, R16 |
+| Wed Oct 28 (work) |  | Deli sandwich | Pork chop reheated from frozen + corn | R19, R18, R16 |
+| Thu Oct 29 (work) |  | Deli sandwich | Pork chop reheated from frozen + hash browns (or any side) | R19, R18, R2 |
+| Fri Oct 30 (work) |  | Deli sandwich | Buffalo shredded chicken quesadillas with ranch | R19, R5, R8 |
+| Sat Oct 31 |  | Red Baron personal pizza (or another freezer pizza) | Oven-baked hot wings with ranch and blue cheese | R6, R20, R8 |
+| Sun Nov 1 |  | Pulled pork nachos with pepper jack | Burgers on pretzel buns with oven hash browns | R21, R22, R2 |
+| Mon Nov 2 (work) |  | Deli sandwich | 3-cheese chicken skillet bag meal (follow bag) | R19, R24 |
+| Tue Nov 3 (work) |  | Deli sandwich | BBQ pulled pork quesadillas | R19, R5 |
+| Wed Nov 4 (work, payday) |  | Deli sandwich | Buffalo shredded chicken over a baked potato | R19, R23, R8, R15 |
+
+Snacks and drinks: Utz Pub Mix, Reese's, Baja Blast, a Monster a day, Svedka.
+
+## Prep Timeline
+
+### Right away (Tue Oct 20, when the order is put away)
+- Freeze now: the 1 lb ground beef (needed Nov 1), the pretzel buns (needed Nov 1), and half the Bunny bread if it won't last to Nov 4.
+- Check dates: Tyson fresh chicken breasts are for Fri Oct 23. If the use-by date is before Friday, freeze them now and move to the fridge Wed night. Lunchmeat is for Oct 26 to Nov 4; open one pack at a time (opened packs last 3 to 5 days). If any unopened pack expires before you'll get to it, freeze it now.
+- Pork shoulder stays in the fridge for tomorrow. Pork chops, wings, frozen chicken breasts stay frozen.
+
+### Wed Oct 21: Pulled pork day (R3)
+- Start the pork by early afternoon (about 2.5 hours total with natural release; 8 to 10 hours if slow cooking, so start in the morning).
+- Portion when shredded: 1 fridge container for tonight and Thu lunch quesadillas. Then freezer bags labeled: "Nov 1 nachos" (about 1 to 1.5 cups) and "Nov 3 BBQ quesadillas" (about 1 to 1.5 cups). Bag any extra in 1 lb portions for later.
+
+### Thu Oct 22: Shredded chicken day (R7)
+- Cook the 2.5 lb frozen chicken breasts in the Instant Pot. No thawing needed.
+- Portion: small fridge container for Sat potato bar. Freezer bags labeled: "Oct 30 Buffalo quesadillas" (about 1.5 cups) and "Nov 4 Buffalo potato" (about 1 cup). Bag any extra.
+
+### Sun Oct 25: Pork chop day (R17)
+- Cook all 5 chops. Eat 1. Cool the other 4, wrap each one, bag, label, freeze.
+
+## Thaw-the-night-before reminders
+
+| Move to fridge on | What | For |
+|---|---|---|
+| Fri Oct 23 night (or Sat morning at the latest) | All 5 pork chops (thick chops need about 24 hours) | Sun Oct 25 dinner |
+| Sun Oct 25 to Wed Oct 28 nights (optional) | Next day's cooked pork chop. Not required, it reheats from frozen, but thawed reheats more evenly. | Mon to Thu dinners |
+| Thu Oct 29 night | Shredded chicken bag "Oct 30"; GV wing sections (4 lb needs about 24 to 36 hours) | Fri Oct 30 dinner; Sat Oct 31 dinner |
+| Sat Oct 31 night | Pulled pork bag "Nov 1"; ground beef; pretzel buns (counter) | Sun Nov 1 lunch and dinner |
+| Mon Nov 2 night | Pulled pork bag "Nov 3" | Tue Nov 3 dinner |
+| Tue Nov 3 night | Shredded chicken bag "Nov 4" | Wed Nov 4 dinner |
+
+Forgot to thaw a bag? Set the sealed bag in a bowl of cold water for 30 to 60 minutes, or microwave on defrost in short bursts.
+
+## Sandwich packing nights
+Sun Oct 25 night: pack Mon. Then each work night pack the next day (or pack 2 at a time; see R19).
+
+## Day by Day
+
+### Tue Oct 20
+Dinner: Walmart hot deli: wings, wrap, turnover. Reheat as needed (R1). Refrigerate leftover wings within 2 hours for tomorrow's lunch.
+
+### Wed Oct 21
+- Lunch: Leftover deli wings, reheated (R1), with oven hash browns (R2).
+- Dinner: Start pulled pork (R3). When it's close, bake hash browns and build loaded hash browns (R4). Portion and freeze pork bags after dinner.
+
+### Thu Oct 22
+- Lunch: Pulled pork quesadillas (R5).
+- Dinner: Jack's pizzas with the kids: 2 pepperoni + 1 sausage (R6). Keep 1 pepperoni in the freezer for tomorrow.
+- Also: Instant Pot shredded chicken (R7). Portion and freeze.
+
+### Fri Oct 23 (gf over)
+- Lunch: Extra Jack's pepperoni pizza (R6).
+- Dinner: Chicken breast in the oven first (R11), then alfredo and tortellini on the stove (R9), garlic bread goes in the oven while the chicken rests (R10). Save leftovers for Sat lunch.
+- Tonight: move the 5 pork chops to the fridge.
+
+### Sat Oct 24 (gf)
+- Breakfast: Scrambled eggs (R12), hash browns (R2), sausage links (R13).
+- Lunch: Reheat tortellini alfredo and garlic bread (see Storage table).
+- Dinner: Baked potato bar (R15) with broccoli (R16) and a little shredded chicken on the side. Bake 2 extra potatoes for Sunday lunch.
+
+### Sun Oct 25 (gf)
+- Breakfast: Kodiak pancakes (R14) and sausage links (R13).
+- Lunch: Leftover baked potatoes, reheated.
+- Dinner: All 5 pork chops medium rare (R17). Eat 1 with corn (R16). Freeze 4.
+- Tonight: pack Monday's sandwich (R19).
+
+### Mon Oct 26 to Thu Oct 29 (work)
+- Lunch: Deli sandwich (R19).
+- Dinner: 1 pork chop reheated gently in the microwave (R18). Sides rotate: Mon hash browns, Tue broccoli, Wed corn, Thu hash browns (R2, R16).
+- Thu night: move "Oct 30" chicken bag and the wings to the fridge.
+
+### Fri Oct 30 (work)
+- Lunch: Deli sandwich.
+- Dinner: Buffalo shredded chicken quesadillas with ranch (R5, R8).
+
+### Sat Oct 31
+- Lunch: Red Baron personal pizza, or another freezer pizza (R6).
+- Dinner: Oven hot wings, tossed in BWW Honey BBQ or homemade Buffalo, with ranch and blue cheese (R20, R8).
+- Tonight: move "Nov 1" pork bag and ground beef to the fridge; pretzel buns to the counter.
+
+### Sun Nov 1
+- Lunch: Pulled pork nachos with pepper jack (R21).
+- Dinner: Skillet burgers on pretzel buns (R22) with oven hash browns (R2).
+
+### Mon Nov 2 (work)
+- Lunch: Deli sandwich.
+- Dinner: 3-cheese chicken skillet bag, follow the bag (R24).
+- Tonight: move "Nov 3" pork bag to the fridge.
+
+### Tue Nov 3 (work)
+- Lunch: Deli sandwich.
+- Dinner: BBQ pulled pork quesadillas (R5).
+- Tonight: move "Nov 4" chicken bag to the fridge.
+
+### Wed Nov 4 (work, payday)
+- Lunch: Deli sandwich.
+- Dinner: Buffalo shredded chicken over a baked potato (R23).
+
+## Storage, Freezing, and Reheating
+
+| Food | Fridge | Freezer | Reheat |
+|---|---|---|---|
+| Pulled pork | 3 to 4 days | 2 to 3 months, flat bags with juice | Thaw overnight. Microwave covered with a splash of juice, 50% power, stir every minute. Or skillet with a splash of water. |
+| Shredded chicken | 3 to 4 days | 2 to 3 months | Same as pork; add a splash of broth (Better Than Bouillon + water) so it stays moist. |
+| Cooked pork chops | 3 to 4 days | Best within 1 month, wrapped individually | See R18. Low power, slow. |
+| Tortellini alfredo | 3 days | Not recommended (sauce separates) | Microwave at 50% power, 1 min at a time, stirring, with a splash of milk. Or skillet over low with milk. |
+| Cheesy garlic bread | 3 days, in foil | 1 month, in foil | Oven 350°F, in foil 8 min, then open the foil 2 to 3 min to re-crisp. Microwave makes it chewy. |
+| Baked potatoes | 3 to 4 days (cool, then fridge; don't leave wrapped in foil at room temp) | Not great | Microwave 1.5 to 3 min, cut open halfway. Or oven 375°F 15 to 20 min for crisp skin. |
+| Cooked wings (deli or homemade) | 3 to 4 days | 2 months | Air Fry mode 375°F, 8 to 12 min, flip once. |
+| Cooked chicken breast | 3 to 4 days | 2 to 3 months | Slice, microwave 50% power with a splash of broth, covered. |
+| Hot deli food from the store | Eat within 2 hours of pickup or refrigerate. Use leftovers within 3 to 4 days. | | |
+| Opened lunchmeat | 3 to 5 days | Unopened packs freeze 1 to 2 months | Thaw in the fridge. |
+| Raw ground beef | 1 to 2 days | 3 to 4 months | Thaw in fridge the night before. |
+| Raw chicken breasts (fresh) | 1 to 2 days (or by use-by date) | 9 months | Thaw in fridge 1 day. |
+
+General rules: get cooked food into the fridge within 2 hours. Freeze flat in labeled bags (what + date). Thaw in the fridge, not on the counter. When in doubt, throw it out.
+
+## Recipe ids
+
+| Pack # | Recipe | Recipe file |
+|---|---|---|
+| R1 | Reheating the Walmart Hot Deli Items | [`recipes/483cb5b9ab44.json`](../recipes/483cb5b9ab44.json) |
+| R2 | Oven Hash Browns | [`recipes/0fba731d0d13.json`](../recipes/0fba731d0d13.json) |
+| R3 | Instant Pot Pulled Pork | [`recipes/106a28a8f3c9.json`](../recipes/106a28a8f3c9.json) |
+| R4 | Loaded Pulled Pork Hash Browns | [`recipes/33a19be43be9.json`](../recipes/33a19be43be9.json) |
+| R5 | Skillet Quesadillas (Pulled Pork, BBQ Pulled Pork, Buffalo Chicken) | [`recipes/bd1f5345b81d.json`](../recipes/bd1f5345b81d.json) |
+| R6 | Frozen Pizzas (Jack's, Red Baron, or Any Freezer Pizza) | [`recipes/b416b7421eb9.json`](../recipes/b416b7421eb9.json) |
+| R7 | Instant Pot Shredded Chicken from Frozen | [`recipes/16671902db4d.json`](../recipes/16671902db4d.json) |
+| R8 | Homemade Buffalo Sauce | [`recipes/d8badcc89a46.json`](../recipes/d8badcc89a46.json) |
+| R9 | Cheese Tortellini in Homemade Alfredo | [`recipes/b40152562391.json`](../recipes/b40152562391.json) |
+| R10 | Cheesy Garlic Bread | [`recipes/bf3d607b8b9c.json`](../recipes/bf3d607b8b9c.json) |
+| R11 | Seasoned Chicken Breast | [`recipes/bdb4ed7a90b1.json`](../recipes/bdb4ed7a90b1.json) |
+| R12 | Scrambled Eggs | [`recipes/270c5592e007.json`](../recipes/270c5592e007.json) |
+| R13 | Sausage Links (GV Vermont Maple) | [`recipes/7d8bb6a5f6c6.json`](../recipes/7d8bb6a5f6c6.json) |
+| R14 | Kodiak Power Cakes (Joe's Way: Whole Milk and Eggs) | [`recipes/10d32d21dfb8.json`](../recipes/10d32d21dfb8.json) |
+| R15 | Baked Potatoes and the Potato Bar | [`recipes/17f58458ed82.json`](../recipes/17f58458ed82.json) |
+| R16 | Simple Sides: Broccoli and Corn | [`recipes/4b93e11e6405.json`](../recipes/4b93e11e6405.json) |
+| R17 | Thick Pork Chops, Medium Rare (Cook 5, Freeze 4) | [`recipes/52da64a62873.json`](../recipes/52da64a62873.json) |
+| R18 | Reheating a Frozen Pork Chop (Gentle, Stays Medium-ish) | [`recipes/72f6f54f728b.json`](../recipes/72f6f54f728b.json) |
+| R19 | Deli Sandwiches and Pack-Ahead Tips | [`recipes/d14bf6b127bb.json`](../recipes/d14bf6b127bb.json) |
+| R20 | Oven Hot Wings (GV Wing Sections) | [`recipes/28ea8212d04f.json`](../recipes/28ea8212d04f.json) |
+| R21 | Pulled Pork Nachos with Pepper Jack | [`recipes/65edce66bb09.json`](../recipes/65edce66bb09.json) |
+| R22 | Skillet Burgers on Pretzel Buns | [`recipes/ca1bb4cb4382.json`](../recipes/ca1bb4cb4382.json) |
+| R23 | Buffalo Shredded Chicken Baked Potato | [`recipes/852ec99a7356.json`](../recipes/852ec99a7356.json) |
+| R24 | 3-Cheese Chicken Skillet Bag Meal | [`recipes/560c548b1dd4.json`](../recipes/560c548b1dd4.json) |
