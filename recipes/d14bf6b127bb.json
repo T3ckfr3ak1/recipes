@@ -1,0 +1,83 @@
+{
+  "title": "Deli Sandwiches and Pack-Ahead Tips",
+  "description": "Work-lunch deli sandwich builds and tips for packing them ahead.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Bunny bread",
+      "note": "or a pretzel bun if extra"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Hillshire turkey",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "pepperoni",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "hard salami",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "habanero jack slices",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "provolone",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Duke's mayo",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "spicy brown mustard, honey mustard",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "candied jalapenos",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Pack the night before (or 2 days max ahead). Beyond that the bread gets soggy.",
+    "Spread Duke's edge to edge on both slices of bread. The mayo acts as a moisture barrier.",
+    "Cheese next to the bread on both sides, meat in the middle. Mustard goes between the meat and cheese, not right on the bread.",
+    "Candied jalapenos: pack in a small container and add at lunch, or blot them dry on a paper towel before adding.",
+    "Wrap tightly in plastic wrap or foil, then a bag. Keep cold: fridge at work, or an ice pack in a lunch bag."
+  ],
+  "tags": [
+    "sandwich",
+    "deli",
+    "work lunch",
+    "pack ahead"
+  ],
+  "category": "Lunch",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R19",
+  "notes": "Build ideas:\n- Spicy turkey: turkey, habanero jack slices, Duke's, spicy brown mustard, candied jalapenos.\n- Italian-ish: salami, pepperoni, provolone, Duke's, a little spicy brown mustard.\n- Turkey and provolone: turkey, provolone, Duke's, honey mustard.\n- The stack: turkey, salami, pepperoni, habanero jack, Duke's, spicy brown mustard, candied jalapenos.\n- Hot version (if there's a microwave at work): salami and pepperoni with provolone, 20 to 30 sec to melt.\nAdd a side: a handful of Utz Pub Mix or Santitas chips.\nOpen one lunchmeat pack at a time. Opened packs: 3 to 5 days. Smells off or slimy, toss it.\nDeli sandwiches are for work lunches only.",
+  "deleted": false,
+  "id": "d14bf6b127bb",
+  "created_at": "2026-10-23T12:04:15-05:00",
+  "updated_at": "2026-10-23T12:04:15-05:00"
+}
