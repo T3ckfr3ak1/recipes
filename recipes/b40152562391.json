@@ -1,0 +1,70 @@
+{
+  "title": "Cheese Tortellini in Homemade Alfredo",
+  "description": "One bag frozen cheese tortellini (about 19 to 25 oz) in a homemade alfredo. Serves 2 for dinner + 2 for lunch.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "bag",
+      "item": "frozen cheese tortellini",
+      "note": "about 19 to 25 oz"
+    },
+    {
+      "quantity": "6",
+      "unit": "Tbsp",
+      "item": "Land O Lakes butter",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "wet minced garlic",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "cups",
+      "item": "heavy cream",
+      "note": null
+    },
+    {
+      "quantity": "1.5",
+      "unit": "cups",
+      "item": "grated parmesan",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "salt, black pepper, pinch of garlic powder",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "whole milk",
+      "note": "as needed to thin"
+    }
+  ],
+  "steps": [
+    "Big pot of salted water to a boil. Cook tortellini per the bag (usually 3 to 5 min, they float when done). Save 1/2 cup pasta water, then drain.",
+    "While the water heats: in a large skillet or pot over medium-low, melt the butter. Add garlic, stir 1 min. Don't let it brown.",
+    "Add the cream. Bring to a gentle simmer (small bubbles, not a rolling boil), stir often, 4 to 5 min until slightly thicker.",
+    "Turn heat to low. Add parmesan a handful at a time, stirring until each handful melts. Season with pepper and a little salt (parm is salty, taste first).",
+    "Add the drained tortellini and stir to coat. Too thick? Add pasta water or milk a splash at a time."
+  ],
+  "tags": [
+    "pasta",
+    "alfredo",
+    "date night"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R9",
+  "notes": "20 min. Sauce grainy? Heat was too high when the cheese went in. Keep it low and stir in a splash of cream or milk.\nStorage: fridge 3 days; freezing not recommended (sauce separates). Reheat in microwave at 50% power, 1 min at a time, stirring, with a splash of milk. Or skillet over low with milk.",
+  "deleted": false,
+  "id": "b40152562391",
+  "created_at": "2026-10-23T12:04:00-05:00",
+  "updated_at": "2026-10-23T12:04:00-05:00"
+}
