@@ -1,0 +1,33 @@
+{
+  "title": "Frozen Pizzas (Jack's, Red Baron, or Any Freezer Pizza)",
+  "description": "How to bake frozen pizzas, including 3 Jack's at once.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "frozen pizza",
+      "note": "Jack's, Red Baron, or any freezer pizza"
+    }
+  ],
+  "steps": [
+    "Follow the box temperature and time. Use regular Bake mode for frozen pizza (Air Fry mode can burn the top before the crust is done).",
+    "Bake directly on the rack for a crisp crust, or on a sheet pan for a softer one.",
+    "3 Jack's at once: use 2 racks, swap racks and turn the pizzas halfway, and add 2 to 4 min. Or bake 2, then the third while you eat.",
+    "Done when cheese is bubbling and the crust edge is golden. Rest 2 min before cutting.",
+    "Red Baron personal pizza: follow the box (oven, or microwave with the crisping tray if the box has one). Don't have it? Any freezer pizza, follow its box."
+  ],
+  "tags": [
+    "pizza",
+    "frozen"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R6",
+  "notes": null,
+  "deleted": false,
+  "id": "b416b7421eb9",
+  "created_at": "2026-10-23T12:03:55-05:00",
+  "updated_at": "2026-10-23T12:03:55-05:00"
+}
