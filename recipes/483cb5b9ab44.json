@@ -1,0 +1,46 @@
+{
+  "title": "Reheating the Walmart Hot Deli Items",
+  "description": "How to eat and reheat the Walmart hot deli wings, wrap, and turnover.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Freshness Guaranteed hot ranch-seasoned jumbo wings",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Marketside chicken spicy mustard wrap",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Marketside pepperoni and cheese turnover",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Hot ranch wings: eat hot right away. Refrigerate leftovers within 2 hours.",
+    "To reheat wings: Air Fry mode 375°F preheated, wings on a rack over a sheet pan, 8 to 12 min, flip once. Done when sizzling and hot through (165°F). Microwave works in a pinch (1 to 2 min, covered) but the skin goes soft.",
+    "Chicken spicy mustard wrap: made to eat cold. Keep refrigerated until eating.",
+    "Pepperoni and cheese turnover: best in the oven. Air Fry mode 350°F preheated, 8 to 10 min, until the crust is crisp and the cheese is bubbling at the ends. If the top darkens fast, lay foil loosely over it. Microwave shortcut: 45 to 75 seconds (softer crust)."
+  ],
+  "tags": [
+    "reheat",
+    "deli",
+    "wings",
+    "samsung air fry mode"
+  ],
+  "category": "Reheating",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R1",
+  "notes": null,
+  "deleted": false,
+  "id": "483cb5b9ab44",
+  "created_at": "2026-10-23T12:03:45-05:00",
+  "updated_at": "2026-10-23T12:03:45-05:00"
+}
