@@ -1,0 +1,73 @@
+{
+  "title": "Buffalo Shredded Chicken Baked Potato",
+  "description": "Baked russet topped with Buffalo shredded chicken and cheese. Microwave potato = 15 min; oven potato = about 1 hour.",
+  "servings": 1,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "large",
+      "item": "russet potato",
+      "note": null
+    },
+    {
+      "quantity": "about 1",
+      "unit": "cup",
+      "item": "shredded chicken",
+      "note": "thawed overnight if frozen"
+    },
+    {
+      "quantity": "2 to 3",
+      "unit": "Tbsp",
+      "item": "Buffalo sauce",
+      "note": "R8"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "butter and salt",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "shredded mozzarella or habanero jack",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "sour cream; ranch or blue cheese",
+      "note": "for topping"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "broccoli",
+      "note": "optional, on the side (R16)"
+    }
+  ],
+  "steps": [
+    "Bake 1 large russet (R15). Microwave shortcut is fine for a work night.",
+    "Warm about 1 cup shredded chicken in the microwave, covered, 1 to 2 min. Toss with 2 to 3 Tbsp Buffalo sauce (R8).",
+    "Split the potato, fluff, add butter and salt.",
+    "Pile on the Buffalo chicken, top with shredded mozzarella or habanero jack.",
+    "Microwave 30 to 45 sec (or Air Fry mode 425°F for 3 to 5 min) to melt the cheese.",
+    "Top with sour cream and a drizzle of ranch or blue cheese. Optional: broccoli on the side (R16)."
+  ],
+  "tags": [
+    "chicken",
+    "buffalo",
+    "potatoes",
+    "work night",
+    "leftovers"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R23",
+  "notes": null,
+  "deleted": false,
+  "id": "852ec99a7356",
+  "created_at": "2026-10-23T12:04:20-05:00",
+  "updated_at": "2026-10-23T12:04:20-05:00"
+}
