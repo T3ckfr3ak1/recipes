@@ -1,0 +1,70 @@
+{
+  "title": "Seasoned Chicken Breast",
+  "description": "Tyson fresh chicken breasts, seasoned and cooked in the oven's Air Fry mode. 1 breast per serving.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1 to 2",
+      "unit": null,
+      "item": "Tyson fresh chicken breasts",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "olive oil",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "paprika",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "tsp",
+      "item": "pepper",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "Italian seasoning",
+      "note": "or a dry rub she likes in place of the seasonings"
+    }
+  ],
+  "steps": [
+    "Preheat oven on Air Fry mode to 400°F. Foil-lined sheet pan, rack on top if you have one.",
+    "If a breast is very thick on one end, pound it to an even 3/4 inch (in a bag, with a pan bottom), or slice it in half horizontally. Even thickness = juicy chicken.",
+    "Pat dry, rub with oil, season both sides.",
+    "Cook 16 to 22 min, flipping halfway.",
+    "Done when the thickest part reads 165°F and juices run clear. Rest 5 min before slicing."
+  ],
+  "tags": [
+    "chicken",
+    "light",
+    "samsung air fry mode"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R11",
+  "notes": "25 to 30 min. Made for Joe's girlfriend. Cook the whole pack if it's more than you need; extra sliced chicken works on a potato bar or in a sandwich.",
+  "deleted": false,
+  "id": "bdb4ed7a90b1",
+  "created_at": "2026-10-23T12:04:03-05:00",
+  "updated_at": "2026-10-23T12:04:03-05:00"
+}
