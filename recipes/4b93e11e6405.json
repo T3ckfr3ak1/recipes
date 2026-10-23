@@ -1,0 +1,70 @@
+{
+  "title": "Simple Sides: Broccoli and Corn",
+  "description": "Frozen broccoli and frozen corn, microwave, oven, or skillet.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1 to 2",
+      "unit": "cups",
+      "item": "frozen broccoli",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "water",
+      "note": "microwave broccoli"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "oil",
+      "note": "oven-roasted broccoli"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "butter, salt, garlic powder, optional parmesan",
+      "note": "for broccoli"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "frozen corn",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "butter",
+      "note": "microwave corn; 1 Tbsp for skillet"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "salt, pepper",
+      "note": "for corn"
+    }
+  ],
+  "steps": [
+    "Broccoli, microwave (fastest): 1 to 2 cups in a covered bowl with 2 Tbsp water, 4 to 6 min, stir halfway. Drain. Toss with butter, salt, garlic powder, optional parmesan.",
+    "Broccoli, oven roasted (crispier): Air Fry mode 425°F, toss frozen florets with 1 Tbsp oil, salt, garlic powder, single layer, 15 to 20 min, stir halfway. Done when edges are browned.",
+    "Corn, microwave: 1 cup corn, 1 tsp butter, pinch salt, covered, 2 to 3 min, stir.",
+    "Corn, skillet: 1 Tbsp butter over medium-high, corn, salt, pepper, 5 to 6 min until a few kernels brown."
+  ],
+  "tags": [
+    "side",
+    "vegetables",
+    "frozen",
+    "samsung air fry mode"
+  ],
+  "category": "Side",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R16",
+  "notes": null,
+  "deleted": false,
+  "id": "4b93e11e6405",
+  "created_at": "2026-10-23T12:04:10-05:00",
+  "updated_at": "2026-10-23T12:04:10-05:00"
+}
