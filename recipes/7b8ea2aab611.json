@@ -1,0 +1,33 @@
+{
+  "title": "Red Baron Personal Pan Pizza (box directions)",
+  "description": "Package directions for a frozen Red Baron Personal Pan Pizza, from the box.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "frozen Red Baron Personal Pan Pizza",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Conventional oven (recommended): Preheat oven to 375°F. Place oven rack in center position.",
+    "Remove pizza from clear plastic wrap. Discard plastic and silver cooking tray. Caution: do not use tray in oven.",
+    "When oven is preheated, place frozen pizza on a cookie sheet and then place on the center rack. Bake for 22-24 minutes or until cheese is melted and lightly browned.",
+    "Caution: product is hot!"
+  ],
+  "tags": [
+    "pizza",
+    "frozen",
+    "package directions"
+  ],
+  "category": "Main",
+  "source": "Red Baron box (photo Joe sent Oven Air Fry Chef, Oct 11, 2026)",
+  "notes": "Microwave oven (1100 watts), from the box: only cook 1 pizza at a time. Remove pizza from carton. Remove overwrap from silver tray and pizza. Place frozen pizza directly on the silver cooking surface, and then place on a microwave-safe plate. Cook on high (100% power) for 2 minutes 45 seconds to 3 minutes 45 seconds. Product is ready when cheese is completely melted. Carefully remove from microwave and let cool for 1 minute before serving.\nSamsung Air Fry: NOT verified. On Oct 11, 2026, Bake 375°F preheat, then Air Fry 375°F for 22 min directly on the center rack burned the top (crust only a little overdone). Joe said not to send corrected directions. See methods/lesson-red-baron-personal-pan-pizza-2026-10-11.md. The meal pack says to use regular Bake mode for frozen pizza.",
+  "deleted": false,
+  "id": "7b8ea2aab611",
+  "created_at": "2026-10-23T12:25:55-05:00",
+  "updated_at": "2026-10-23T12:25:55-05:00"
+}
