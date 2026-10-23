@@ -1,0 +1,46 @@
+{
+  "title": "Reheating a Frozen Pork Chop (Gentle, Stays Medium-ish)",
+  "description": "Low-power microwave reheat for a cooked, frozen pork chop. About 10 min. Low power is the whole trick.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "cooked frozen pork chop",
+      "note": "from R17"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "water or broth",
+      "note": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "salt",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Unwrap the chop. Put it on a microwave-safe plate with 1 Tbsp water or broth. Cover with a damp paper towel or a microwave cover.",
+    "From frozen: 30% power (or Defrost) for 4 min. Flip. 30% power 3 to 4 min more.",
+    "Check the center. Then 50% power in 1-minute bursts until warmed through, about 120 to 130°F in the center for medium-ish.",
+    "Let it sit covered 2 min. Season with a little salt."
+  ],
+  "tags": [
+    "pork",
+    "reheat",
+    "microwave",
+    "work night"
+  ],
+  "category": "Reheating",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R18",
+  "notes": "If thawed in the fridge overnight: skip the defrost step, 50% power 2 to 3 min, flip halfway. More even.\nEven quicker and more even: slice the chop thin while partly frozen, then warm the slices at 50% power 1 to 2 min.\nFood safety note: USDA recommends reheating leftovers to 165°F. Warming to about 120 to 130°F keeps it medium; that's your call.\nWant a crust back? After microwaving, 45 sec per side in a very hot skillet with butter.",
+  "deleted": false,
+  "id": "72f6f54f728b",
+  "created_at": "2026-10-23T12:04:13-05:00",
+  "updated_at": "2026-10-23T12:04:13-05:00"
+}
