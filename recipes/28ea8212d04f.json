@@ -1,0 +1,73 @@
+{
+  "title": "Oven Hot Wings (GV Wing Sections)",
+  "description": "GV frozen wing sections, thawed, crisped in the oven's Air Fry mode and tossed in sauce. Cook 2 lb (about 2 to 3 servings) or all 4 lb on 2 pans.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "lb",
+      "item": "GV wing sections",
+      "note": "thawed (fridge Thu night; 4 lb needs about 24 to 36 hours)"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "baking powder",
+      "note": "optional, for crispier skin; baking powder, NOT baking soda"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "pepper",
+      "note": "or a dry rub in place of the seasonings"
+    },
+    {
+      "quantity": "about 1/2",
+      "unit": "cup",
+      "item": "sauce",
+      "note": "Buffalo Wild Wings Honey BBQ, or homemade Buffalo (R8)"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "Hidden Valley ranch and Marzetti blue cheese",
+      "note": "for dipping"
+    }
+  ],
+  "steps": [
+    "Pat wings very dry with paper towels. Dry skin is what makes them crisp. (Extra credit: leave them uncovered on a rack in the fridge for a few hours.)",
+    "Toss with baking powder (if using), salt, garlic powder, pepper.",
+    "Preheat oven on Air Fry mode to 425°F. Wings on a rack over a foil-lined sheet pan, skin side up, not touching.",
+    "Cook 20 to 25 min. Flip.",
+    "Cook 15 to 25 min more until deep golden and the skin is crisp and crackly.",
+    "Internal temp at least 165°F; wings are best at 175 to 190°F (more tender).",
+    "Warm the sauce a little. Toss hot wings in a big bowl with sauce. Do half Honey BBQ, half Buffalo if you want both.",
+    "Serve with ranch and blue cheese."
+  ],
+  "tags": [
+    "wings",
+    "chicken",
+    "samsung air fry mode"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R20",
+  "notes": "About 50 min. Ingredients are per 2 lb.\nCooking from frozen (forgot to thaw): Air Fry mode 400°F for 15 min, drain any water, pat dry, season, then 425°F 25 to 35 min, flipping halfway. Not as crisp.\nLeftover cooked wings: fridge 3 to 4 days, freezer 2 months. Reheat Air Fry mode 375°F, 8 to 12 min, flip once.",
+  "deleted": false,
+  "id": "28ea8212d04f",
+  "created_at": "2026-10-23T12:04:16-05:00",
+  "updated_at": "2026-10-23T12:04:16-05:00"
+}
