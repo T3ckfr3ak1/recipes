@@ -1,4 +1,11 @@
 {
-  "generated_at": "2026-10-23T10:47:19-05:00",
-  "recipes": []
+  "generated_at": "2026-10-23T10:47:40-05:00",
+  "recipes": [
+    {
+      "id": "test-recipe",
+      "updated_at": "2026-10-23T10:47:40-05:00",
+      "deleted": false,
+      "path": "recipes/test-recipe.json"
+    }
+  ]
 }
