@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-23T12:03:45-05:00",
+  "generated_at": "2026-10-23T12:03:48-05:00",
   "recipes": [
     {
       "id": "483cb5b9ab44",
       "updated_at": "2026-10-23T12:03:45-05:00",
       "deleted": false,
       "path": "recipes/483cb5b9ab44.json"
+    },
+    {
+      "id": "0fba731d0d13",
+      "updated_at": "2026-10-23T12:03:48-05:00",
+      "deleted": false,
+      "path": "recipes/0fba731d0d13.json"
     }
   ]
 }

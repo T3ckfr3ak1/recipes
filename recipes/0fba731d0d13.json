@@ -1,0 +1,46 @@
+{
+  "title": "Oven Hash Browns",
+  "description": "Crispy frozen hash browns on a sheet pan in the Samsung oven's Air Fry mode.",
+  "servings": 2,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "about 2",
+      "unit": "cups",
+      "item": "frozen hash browns, shredded",
+      "note": "or 4 to 6 patties"
+    },
+    {
+      "quantity": "1 to 2",
+      "unit": "Tbsp",
+      "item": "vegetable or olive oil",
+      "note": "or melted butter"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "salt, pepper, garlic powder, or your favorite seasoning",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Preheat oven on Air Fry mode to 425°F. Line a sheet pan with foil and oil it.",
+    "Shredded: spread in a thin, even layer, no thicker than 1/2 inch. Drizzle oil and season. Patties: single layer, brush or spray both sides with oil.",
+    "Cook 10 to 12 min. Flip with a spatula (shredded: flip in sections).",
+    "Cook another 8 to 12 min. Done when deep golden and crisp at the edges."
+  ],
+  "tags": [
+    "side",
+    "potatoes",
+    "frozen",
+    "samsung air fry mode"
+  ],
+  "category": "Side",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R2",
+  "notes": "Serves 2 per half sheet pan. 20 to 30 min total. Cooking for 1 on a work night: make a half batch, same temp, check a few minutes early.",
+  "deleted": false,
+  "id": "0fba731d0d13",
+  "created_at": "2026-10-23T12:03:48-05:00",
+  "updated_at": "2026-10-23T12:03:48-05:00"
+}
