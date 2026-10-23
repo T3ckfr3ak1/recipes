@@ -1,0 +1,74 @@
+{
+  "title": "Instant Pot Shredded Chicken from Frozen",
+  "description": "2.5 lb frozen chicken breasts pressure cooked and shredded. Makes about 5 to 6 cups. No thawing.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "2.5",
+      "unit": "lb",
+      "item": "frozen chicken breasts",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "water",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "Better Than Bouillon chicken base",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "dried minced onion",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "pepper",
+      "note": "or a dry rub you like in place of the seasonings"
+    }
+  ],
+  "steps": [
+    "Stir the bouillon into the water in the pot. Put in the trivet if you have it.",
+    "Add the frozen breasts in a single layer as much as possible. If they're frozen together in a block, try to break them apart (run under warm water for a minute).",
+    "Sprinkle seasoning on top.",
+    "Pressure cook on High: 12 to 15 min for separate breasts, 20 to 25 min if frozen in a solid block.",
+    "Natural release 10 min, then release the rest.",
+    "Check the thickest piece: 165°F, no pink. If not there, pressure cook 3 to 5 more min.",
+    "Shred with 2 forks (or a hand mixer on low, fast). Stir in a few spoons of the cooking liquid."
+  ],
+  "tags": [
+    "instant pot",
+    "chicken",
+    "shredded chicken",
+    "meal prep",
+    "from frozen"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R7",
+  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.",
+  "deleted": false,
+  "id": "16671902db4d",
+  "created_at": "2026-10-23T12:03:56-05:00",
+  "updated_at": "2026-10-23T12:03:56-05:00"
+}
