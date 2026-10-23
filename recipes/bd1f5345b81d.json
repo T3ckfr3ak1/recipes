@@ -1,0 +1,54 @@
+{
+  "title": "Skillet Quesadillas (Pulled Pork, BBQ Pulled Pork, Buffalo Chicken)",
+  "description": "Burrito-size skillet quesadillas with three filling versions. 1 per person, 2 if hungry.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "Mission burrito-size flour tortilla",
+      "note": "per quesadilla"
+    },
+    {
+      "quantity": "1/2 to 3/4",
+      "unit": "cup",
+      "item": "warm filling",
+      "note": "per quesadilla, see versions"
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "shredded cheese",
+      "note": "per quesadilla"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "butter or oil",
+      "note": "per quesadilla"
+    }
+  ],
+  "steps": [
+    "Warm the filling in the microwave, covered, 1 to 2 min (add a splash of water or juice to pork or chicken so it doesn't dry out).",
+    "Heat a skillet over medium. Add the butter.",
+    "Lay the tortilla flat. Sprinkle half the cheese over one half, add filling, then the rest of the cheese. Fold over.",
+    "Cook 2 to 3 min until golden. Flip with a wide spatula, cook 2 to 3 min more until the cheese is fully melted.",
+    "Rest 1 min, cut into wedges. Chips on the side if you want."
+  ],
+  "tags": [
+    "quesadilla",
+    "pork",
+    "chicken",
+    "skillet",
+    "leftovers"
+  ],
+  "category": "Main",
+  "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R5",
+  "notes": "10 min.\nVersions:\n- Pulled pork: plain pulled pork, habanero jack, a few chopped candied jalapenos. Dip: BBQ sauce or sour cream.\n- BBQ pulled pork: toss the pork with 2 to 3 Tbsp BBQ sauce. Habanero jack or provolone. Dip: ranch or extra BBQ.\n- Buffalo chicken: toss shredded chicken with 2 to 3 Tbsp Buffalo sauce (R8). Half mozzarella, half habanero jack. Dip: ranch (blue cheese also good).\nToo dark outside, cheese not melted? Turn heat down to medium-low and cover the pan for a minute.",
+  "deleted": false,
+  "id": "bd1f5345b81d",
+  "created_at": "2026-10-23T12:03:52-05:00",
+  "updated_at": "2026-10-23T12:03:52-05:00"
+}
