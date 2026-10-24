@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:55:09-05:00",
+  "generated_at": "2026-10-24T13:57:24-05:00",
   "recipes": [
     {
       "id": "466fbc5d-f97b-4489-8ac8-9082722156c6",
@@ -819,7 +819,7 @@
     },
     {
       "id": "e8a0b2ef-e92d-4eeb-a233-c355500b4675",
-      "updated_at": "2026-10-24T13:55:09-05:00",
+      "updated_at": "2026-10-24T13:57:24-05:00",
       "deleted": false,
       "path": "recipes/e8a0b2ef-e92d-4eeb-a233-c355500b4675.json"
     }
