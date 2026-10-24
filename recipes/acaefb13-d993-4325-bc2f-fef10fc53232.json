@@ -54,10 +54,21 @@
   "category": "Main Dish",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/19vHBQ2D6g/\n\nNutrition: Serving 1 piece · Calories Approximately 400 kcal · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 700mg · Carbs 40g · Fiber 4g · Sugar 5g · Protein 25g",
-  "created_at": "2025-09-19T04:29:43.302+00:00",
-  "updated_at": "2026-07-19T06:55:34.602988+00:00",
   "deleted": false,
   "images": [
     "images/acaefb13-d993-4325-bc2f-fef10fc53232/acaefb13-d993-4325-bc2f-fef10fc53232.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Yukon gold potatoes give potassium."
+    ],
+    "not_healthy": [
+      "Canned cream of mushroom soup is high in sodium.",
+      "Cheddar and ground beef add saturated fat.",
+      "No green vegetables."
+    ]
+  },
+  "created_at": "2025-09-19T04:29:43.302+00:00",
+  "updated_at": "2026-10-24T00:37:54-05:00"
 }
