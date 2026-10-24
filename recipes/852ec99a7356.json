@@ -1,15 +1,21 @@
 {
-  "title": "Buffalo Shredded Chicken Baked Potato",
-  "description": "Baked russet topped with Buffalo shredded chicken and cheese. Microwave potato = 15 min; oven potato = about 1 hour.",
+  "title": "Buffalo Shredded Chicken Bowl",
+  "description": "Buffalo shredded chicken and cheese over roasted diced russets or oven hash browns.",
   "servings": 1,
   "prep_minutes": null,
   "cook_minutes": null,
   "ingredients": [
     {
-      "quantity": "1",
-      "unit": "large",
-      "item": "russet potato",
-      "note": null
+      "quantity": "about 1",
+      "unit": "lb",
+      "item": "russet potatoes, diced 3/4 inch",
+      "note": "or oven hash browns instead (R2, Oven Hash Browns, recipes/0fba731d0d13.json)"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "oil and seasoning",
+      "note": "for the potatoes, plus a little oil for the pan"
     },
     {
       "quantity": "about 1",
@@ -22,12 +28,6 @@
       "unit": "Tbsp",
       "item": "Buffalo sauce",
       "note": "R8"
-    },
-    {
-      "quantity": null,
-      "unit": null,
-      "item": "butter and salt",
-      "note": null
     },
     {
       "quantity": null,
@@ -49,10 +49,13 @@
     }
   ],
   "steps": [
-    "Bake 1 large russet (R15). Microwave shortcut is fine for a work night.",
+    "Potatoes (from Oven Air Fry Chef, not yet tested by Joe): dice the russets 3/4 inch and pat them dry. Toss with oil and seasoning.",
+    "Spread on a lightly oiled half sheet pan, max 2 lb per batch. Rack position 3.",
+    "Preheat with Bake 425F. When preheated, cancel Bake.",
+    "Air Fry 425F for 25 min, flipping and stirring at 12 min. Done when fork-tender with golden edges. Add 3 min if needed.",
+    "Hash brown option instead of the potatoes: make Oven Hash Browns (R2, recipe 0fba731d0d13) as that recipe says.",
     "Warm about 1 cup shredded chicken in the microwave, covered, 1 to 2 min. Toss with 2 to 3 Tbsp Buffalo sauce (R8).",
-    "Split the potato, fluff, add butter and salt.",
-    "Pile on the Buffalo chicken, top with shredded mozzarella or habanero jack.",
+    "Put the potatoes or hash browns in a bowl. Pile on the Buffalo chicken, top with shredded mozzarella or habanero jack.",
     "Microwave 30 to 45 sec (or Air Fry mode 425°F for 3 to 5 min) to melt the cheese.",
     "Top with sour cream and a drizzle of ranch or blue cheese. Optional: broccoli on the side (R16)."
   ],
@@ -60,25 +63,33 @@
     "chicken",
     "buffalo",
     "potatoes",
+    "bowl",
     "work night",
     "leftovers"
   ],
   "category": "Main",
   "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R23",
-  "notes": null,
+  "notes": "Changed Oct 24, 2026 from baked potato to a bowl, per Joe (doesn't eat baked potatoes).",
   "deleted": false,
   "id": "852ec99a7356",
   "nutrition": {
     "healthy": [
-      "Potato gives potassium and fiber, especially with the skin.",
+      "Potatoes give potassium and fiber.",
       "Shredded chicken gives lean protein.",
       "Broccoli adds vegetables."
     ],
     "not_healthy": [
-      "Buffalo sauce and salt add sodium.",
-      "Butter, cheese, sour cream and ranch or blue cheese add saturated fat."
+      "Buffalo sauce and seasoning add sodium.",
+      "Roasting oil or hash browns add fat.",
+      "Cheese, sour cream and ranch or blue cheese add saturated fat."
     ]
   },
+  "air_fry": {
+    "rack": 3,
+    "preheat": "Bake 425F, then cancel",
+    "temp_f": 425,
+    "minutes": 25
+  },
   "created_at": "2026-10-23T12:04:20-05:00",
-  "updated_at": "2026-10-24T00:37:14-05:00"
+  "updated_at": "2026-10-24T15:17:49-05:00"
 }
