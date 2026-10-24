@@ -20,6 +20,7 @@
 - Loves grilled cheese.
 - Quesadillas without meat.
 - Often told to eat what everyone's having.
+- Joe keeps microwave mac and cheese cups and cans or cups of Chef Boyardee on hand so Augustus can make his own dinner on nights Joe doesn't want to fight about it and the rest want real food.
 
 ## Lincoln (L), 12
 - Not very picky. No spicy food.
@@ -39,3 +40,6 @@
 - Rarely buys hot dogs.
 - No cereal (goes stale).
 - Base meals mild; spicy added per plate.
+
+## Tags
+- Recipes the boys approve get the tag `kid-approved` (all three), or `kid-approved:W`, `kid-approved:A`, or `kid-approved:L` when only some of them approve.
