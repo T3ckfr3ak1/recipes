@@ -94,10 +94,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/1FuDjsVYb8/\n\nNutrition: Serving 1 slice · Calories 450 kcal · Fat 30 g · Saturated fat 12 g · Unsaturated fat 17 g · Trans fat 1 g · Cholesterol 80 mg · Sodium 800 mg · Carbs 30 g · Fiber 3 g · Sugar 5 g · Protein 25 g",
-  "created_at": "2025-09-19T04:58:00.221+00:00",
-  "updated_at": "2026-07-19T09:47:02.691982+00:00",
   "deleted": false,
   "images": [
     "images/e046f3f8-151c-4eed-9178-a046610c9717/e046f3f8-151c-4eed-9178-a046610c9717.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion, bell pepper and Rotel add vegetables."
+    ],
+    "not_healthy": [
+      "Mayo, sour cream, two cheeses and two pounds of beef make it very high in saturated fat.",
+      "Bisquick, taco seasoning, Rotel and cheese add a lot of sodium.",
+      "Bisquick is refined flour."
+    ]
+  },
+  "created_at": "2025-09-19T04:58:00.221+00:00",
+  "updated_at": "2026-10-24T00:38:40-05:00"
 }
