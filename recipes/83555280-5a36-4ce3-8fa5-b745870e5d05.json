@@ -80,10 +80,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "For added flavor, sprinkle with breadcrumbs and smoked paprika before baking.\n\nSource: https://www.facebook.com/share/v/16MbPRn2yG/\n\nNutrition: Serving 1 cup · Calories 350 kcal · Fat 15 g · Saturated fat 8 g · Unsaturated fat 7 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 600 mg · Carbs 45 g · Fiber 3 g · Sugar 6 g · Protein 12 g",
-  "created_at": "2025-11-24T01:04:38.408+00:00",
-  "updated_at": "2026-07-19T04:35:24.140269+00:00",
   "deleted": false,
   "images": [
     "images/83555280-5a36-4ce3-8fa5-b745870e5d05/83555280-5a36-4ce3-8fa5-b745870e5d05.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Evaporated milk and Parmesan give protein and calcium.",
+      "Simple recipe without processed cheese."
+    ],
+    "not_healthy": [
+      "Butter and Parmesan add saturated fat.",
+      "Parmesan and salt add sodium.",
+      "A pound of white pasta is mostly refined carbs."
+    ]
+  },
+  "created_at": "2025-11-24T01:04:38.408+00:00",
+  "updated_at": "2026-10-24T00:37:11-05:00"
 }
