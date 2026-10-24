@@ -67,10 +67,22 @@
   "category": "appetizer",
   "source": "Flavorish",
   "notes": "These egg rolls are perfect for weight loss and muscle gain.\n\nSource: https://www.facebook.com/share/r/1GMMJnx6tp/\n\nNutrition: Serving 1 egg roll · Calories 165 · Fat 6g · Saturated fat estimated 2g · Unsaturated fat estimated 4g · Trans fat 0g · Cholesterol estimated 30mg · Sodium estimated 300mg · Carbs 11g · Fiber estimated 1g · Sugar estimated 2g · Protein 14g",
-  "created_at": "2026-06-18T21:43:29.081444+00:00",
-  "updated_at": "2026-06-18T21:43:29.081444+00:00",
   "deleted": false,
   "images": [
     "images/12fbab32-599d-4286-9490-a561b72880bd/12fbab32-599d-4286-9490-a561b72880bd.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Rotisserie chicken gives plenty of protein.",
+      "Uses light cream cheese and center cut bacon to trim fat.",
+      "Cooking spray instead of deep frying."
+    ],
+    "not_healthy": [
+      "Ranch packet, hot sauce, bacon and rotisserie chicken make it high in sodium.",
+      "Egg roll wrappers are refined flour.",
+      "Still has saturated fat from cream cheese and bacon."
+    ]
+  },
+  "created_at": "2026-06-18T21:43:29.081444+00:00",
+  "updated_at": "2026-10-24T00:35:26-05:00"
 }
