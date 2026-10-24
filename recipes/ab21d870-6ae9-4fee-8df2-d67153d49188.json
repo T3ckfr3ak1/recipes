@@ -98,10 +98,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "For best results, marinate the chicken overnight.\n\nSource: https://www.facebook.com/share/r/1BStPwDqxa/\n\nNutrition: Serving 1 chicken thigh · Calories Approximately 250 kcal per serving · Fat 15g · Saturated fat 3g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 70mg · Sodium 500mg · Carbs 15g · Fiber 2g · Sugar 10g · Protein 20g",
-  "created_at": "2025-10-17T18:20:09.868+00:00",
-  "updated_at": "2026-07-19T06:50:25.734682+00:00",
   "deleted": false,
   "images": [
     "images/ab21d870-6ae9-4fee-8df2-d67153d49188/ab21d870-6ae9-4fee-8df2-d67153d49188.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken thighs give protein.",
+      "Fresh lemon, garlic, ginger, green onion, peppers and warm spices give big flavor."
+    ],
+    "not_healthy": [
+      "Soy sauce and salt make the marinade high in sodium.",
+      "Brown sugar and maple syrup add sugar.",
+      "Thighs and oil add fat."
+    ]
+  },
+  "created_at": "2025-10-17T18:20:09.868+00:00",
+  "updated_at": "2026-10-24T00:37:50-05:00"
 }
