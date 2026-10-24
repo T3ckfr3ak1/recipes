@@ -75,10 +75,20 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/17Kv5WA4RA/\n\nNutrition: Serving 1 stuffed baked potato · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 150mg · Sodium 600mg · Carbs 45g · Fiber 5g · Sugar 4g · Protein 20g",
-  "created_at": "2025-09-19T05:02:46.375+00:00",
-  "updated_at": "2026-07-19T00:50:33.125061+00:00",
   "deleted": false,
   "images": [
     "images/4215d430-e71a-47d5-ba39-28d625bf88b7/4215d430-e71a-47d5-ba39-28d625bf88b7.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Egg and sausage give protein.",
+      "Potato gives potassium and fiber, especially with the skin."
+    ],
+    "not_healthy": [
+      "Bacon and sausage are processed meats high in sodium and saturated fat.",
+      "Cheese, garlic butter and sour cream add more saturated fat."
+    ]
+  },
+  "created_at": "2025-09-19T05:02:46.375+00:00",
+  "updated_at": "2026-10-24T00:36:11-05:00"
 }
