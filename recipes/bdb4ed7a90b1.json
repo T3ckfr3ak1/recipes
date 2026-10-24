@@ -65,6 +65,17 @@
   "notes": "25 to 30 min. Made for Joe's girlfriend. Cook the whole pack if it's more than you need; extra sliced chicken works on a potato bar or in a sandwich.",
   "deleted": false,
   "id": "bdb4ed7a90b1",
+  "nutrition": {
+    "healthy": [
+      "Chicken breast is lean, high protein meat.",
+      "Only 1 Tbsp olive oil.",
+      "Simple spices with no sugar."
+    ],
+    "not_healthy": [
+      "Salt adds some sodium.",
+      "No vegetables or fiber on its own."
+    ]
+  },
   "created_at": "2026-10-23T12:04:03-05:00",
-  "updated_at": "2026-10-23T12:04:03-05:00"
+  "updated_at": "2026-10-24T00:38:09-05:00"
 }
