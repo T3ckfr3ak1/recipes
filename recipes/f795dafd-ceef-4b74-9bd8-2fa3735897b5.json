@@ -46,10 +46,19 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "Ensure the oven is fully preheated for optimal crispiness.\n\nNutrition: Serving 1 serving · Calories estimated · Fat estimated · Saturated fat estimated · Unsaturated fat estimated · Trans fat estimated · Cholesterol estimated · Sodium estimated · Carbs estimated · Fiber estimated · Sugar estimated · Protein estimated",
-  "created_at": "2025-11-30T23:38:31.916+00:00",
-  "updated_at": "2026-07-19T11:05:06.779257+00:00",
   "deleted": false,
   "images": [
     "images/f795dafd-ceef-4b74-9bd8-2fa3735897b5/f795dafd-ceef-4b74-9bd8-2fa3735897b5.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Cheese gives some protein and calcium."
+    ],
+    "not_healthy": [
+      "Fast food fries are deep fried and salty.",
+      "Mozzarella and habanero jack add saturated fat and sodium."
+    ]
+  },
+  "created_at": "2025-11-30T23:38:31.916+00:00",
+  "updated_at": "2026-10-24T00:39:16-05:00"
 }
