@@ -56,10 +56,20 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "For a richer flavor, use creamy peanut butter and add chocolate shavings on top before serving.\n\nSource: https://www.facebook.com/share/v/1A2miTCVvQ/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 12 g · Saturated fat 5 g · Unsaturated fat 7 g · Trans fat 0 g · Cholesterol 10 mg · Sodium 150 mg · Carbs 30 g · Fiber 2 g · Sugar 15 g · Protein 6 g",
-  "created_at": "2025-10-18T09:13:49.182+00:00",
-  "updated_at": "2026-07-19T05:29:07.877357+00:00",
   "deleted": false,
   "images": [
     "images/93184bc2-8d56-4bce-9d8f-c325aa7fca8c/93184bc2-8d56-4bce-9d8f-c325aa7fca8c.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Peanut butter and milk add a little protein."
+    ],
+    "not_healthy": [
+      "Two boxes of instant pudding, Cool Whip and graham crust are high in added sugar.",
+      "Graham crust and whipped topping add saturated fat.",
+      "Highly processed with little fiber."
+    ]
+  },
+  "created_at": "2025-10-18T09:13:49.182+00:00",
+  "updated_at": "2026-10-24T00:37:30-05:00"
 }
