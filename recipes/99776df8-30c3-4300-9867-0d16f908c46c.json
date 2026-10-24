@@ -51,10 +51,20 @@
   "category": "soup",
   "source": "Flavorish",
   "notes": "For a thicker soup, simmer longer to reduce.\n\nSource: https://www.facebook.com/share/r/19uT1o4J2P/\n\nNutrition: Serving 1 bowl · Calories 350 kcal · Fat 25 g · Saturated fat 10 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 900 mg · Carbs 20 g · Fiber 2 g · Sugar 4 g · Protein 20 g",
-  "created_at": "2025-10-18T17:40:00.15+00:00",
-  "updated_at": "2026-07-19T05:50:33.344351+00:00",
   "deleted": false,
   "images": [
     "images/99776df8-30c3-4300-9867-0d16f908c46c/99776df8-30c3-4300-9867-0d16f908c46c.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef and bacon give protein."
+    ],
+    "not_healthy": [
+      "Condensed canned soups are very high in sodium.",
+      "Bacon is processed meat, and cheese soup and cream add saturated fat.",
+      "No vegetables."
+    ]
+  },
+  "created_at": "2025-10-18T17:40:00.15+00:00",
+  "updated_at": "2026-10-24T00:37:37-05:00"
 }
