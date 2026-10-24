@@ -1,9 +1,9 @@
 {
   "title": "Joe's Slow Cooker Pulled Pork (Instant Pot slow cook)",
-  "description": "Joe's own pulled pork: bone-in pork butt with a Yellowstone/Weber rub, candied jalapenos, and El Yucateco XXXtra Hot, slow cooked at 212F for 10 hours in his Emeril Lagasse Instant Pot.",
+  "description": "Joe's own pulled pork: bone-in pork butt with a Yellowstone/Weber rub, candied jalapenos, and El Yucateco XXXtra Hot, slow cooked at 212F for 8 hours in his Emeril Lagasse Instant Pot.",
   "servings": null,
   "prep_minutes": null,
-  "cook_minutes": 600,
+  "cook_minutes": 480,
   "ingredients": [
     {
       "quantity": "8.2",
@@ -32,9 +32,9 @@
   ],
   "steps": [
     "Coat the pork with the rub and jalapenos and set it in the pot. No added liquid.",
-    "Put the non-vented glass lid on. Set slow cook mode to 212F for 10 hours. The timer starts once the pot reaches 212F.",
+    "Put the non-vented glass lid on. Set slow cook mode to 212F for 8 hours. The timer starts once the pot reaches 212F.",
     "At the 2-hour mark, pour the 1 tbsp El Yucateco XXXtra Hot over the top of the meat.",
-    "When the 10 hours are up, shred, pull the bone, and toss the pork with some of the pot juices."
+    "When the 8 hours are up, shred, pull the bone, and toss the pork with some of the pot juices."
   ],
   "tags": [
     "instant pot",
@@ -49,5 +49,5 @@
   "deleted": false,
   "id": "d5b95a0f8164",
   "created_at": "2026-10-23T12:04:23-05:00",
-  "updated_at": "2026-10-23T19:37:16-05:00"
+  "updated_at": "2026-10-23T21:34:53-05:00"
 }
