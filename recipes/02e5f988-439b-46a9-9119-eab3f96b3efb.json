@@ -61,10 +61,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Serve immediately with maple syrup for best results.\n\nSource: https://www.facebook.com/share/v/1CcXc5pbTn/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 12 g · Saturated fat 6 g · Unsaturated fat 6 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 200 mg · Carbs 30 g · Fiber 1 g · Sugar 10 g · Protein 6 g",
-  "created_at": "2025-11-15T06:56:07.87+00:00",
-  "updated_at": "2026-07-18T21:08:38.107342+00:00",
   "deleted": false,
   "images": [
     "images/02e5f988-439b-46a9-9119-eab3f96b3efb/02e5f988-439b-46a9-9119-eab3f96b3efb.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Six eggs give it a good amount of protein.",
+      "Milk adds calcium."
+    ],
+    "not_healthy": [
+      "Refined white flour with little fiber.",
+      "Salted butter adds saturated fat.",
+      "Maple syrup topping adds sugar."
+    ]
+  },
+  "created_at": "2025-11-15T06:56:07.87+00:00",
+  "updated_at": "2026-10-24T00:35:05-05:00"
 }
