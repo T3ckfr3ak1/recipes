@@ -28,6 +28,17 @@
   "notes": null,
   "deleted": false,
   "id": "b416b7421eb9",
+  "nutrition": {
+    "healthy": [
+      "Quick and portion controlled if you stick to a serving.",
+      "Cheese gives some protein and calcium."
+    ],
+    "not_healthy": [
+      "Frozen pizzas are high in sodium.",
+      "Refined flour crust.",
+      "Cheese and processed meat toppings add saturated fat."
+    ]
+  },
   "created_at": "2026-10-23T12:03:55-05:00",
-  "updated_at": "2026-10-23T12:03:55-05:00"
+  "updated_at": "2026-10-24T00:38:01-05:00"
 }
