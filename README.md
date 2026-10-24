@@ -1,6 +1,6 @@
 # Recipes
 
-Maintained by Recipe Keeper. The Windows recipe app reads this repo and publishes every recipe here, including Flavorish imports.
+Maintained by Recipe Keeper. The Windows and Android apps are the same Flutter project in `app/`. They read this repo and publish every recipe here, including Flavorish imports. The app source has no account keys. A GitHub token is entered in the app and stays on that device.
 
 - `index.json`: `generated_at` plus one entry per recipe: `id`, `updated_at`, `deleted`, `path`.
 - `recipes/<id>.json`: id, title, description, servings, prep_minutes, cook_minutes, ingredients [{quantity, unit, item, note}], steps [string], tags [string], category, source, notes, air_fry {rack, preheat, temp_f, minutes} (optional), created_at, updated_at, deleted.
