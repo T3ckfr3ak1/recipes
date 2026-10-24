@@ -67,10 +67,20 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/17PAtsNiEZ/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 0 mg · Sodium 150 mg · Carbs 40 g · Fiber 2 g · Sugar 30 g · Protein 2 g",
-  "created_at": "2025-11-09T07:20:53.09+00:00",
-  "updated_at": "2026-07-19T04:38:45.301873+00:00",
   "deleted": false,
   "images": [
     "images/8458c0e6-101f-43f4-a67a-bfb80f6a6fec/8458c0e6-101f-43f4-a67a-bfb80f6a6fec.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Small amount of lemon juice; otherwise it's a dessert."
+    ],
+    "not_healthy": [
+      "A full cup of sugar makes it very high in added sugar.",
+      "Pie crust and butter add saturated fat.",
+      "Refined flour with little fiber."
+    ]
+  },
+  "created_at": "2025-11-09T07:20:53.09+00:00",
+  "updated_at": "2026-10-24T00:37:12-05:00"
 }
