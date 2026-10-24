@@ -79,10 +79,20 @@
   "category": "Beverage",
   "source": "Flavorish",
   "notes": "Nutrition: Serving 3 tablespoons · Calories unknown · Fat unknown · Saturated fat unknown · Unsaturated fat unknown · Trans fat unknown · Cholesterol unknown · Sodium unknown · Carbs unknown · Fiber unknown · Sugar unknown · Protein unknown",
-  "created_at": "2025-11-30T06:51:00.63+00:00",
-  "updated_at": "2026-07-19T08:38:07.524535+00:00",
   "deleted": false,
   "images": [
     "images/cbcbf429-c67b-43e9-8487-7f5aaef4d12b/cbcbf429-c67b-43e9-8487-7f5aaef4d12b.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Real spices, citrus peel and cherries instead of artificial flavors.",
+      "No artificial colors."
+    ],
+    "not_healthy": [
+      "A full cup of coconut sugar makes the syrup high in added sugar.",
+      "Little nutritional value beyond flavor."
+    ]
+  },
+  "created_at": "2025-11-30T06:51:00.63+00:00",
+  "updated_at": "2026-10-24T00:38:20-05:00"
 }
