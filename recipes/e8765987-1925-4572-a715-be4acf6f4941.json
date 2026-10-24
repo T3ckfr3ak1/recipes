@@ -95,10 +95,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/1PyT8ADdXR/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 20 g · Saturated fat 5 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 100 mg · Sodium 800 mg · Carbs 40 g · Fiber 5 g · Sugar 8 g · Protein 35 g",
-  "created_at": "2025-09-19T04:24:57.101+00:00",
-  "updated_at": "2026-07-19T10:14:32.154072+00:00",
   "deleted": false,
   "images": [
     "images/e8765987-1925-4572-a715-be4acf6f4941/e8765987-1925-4572-a715-be4acf6f4941.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Stew meat gives lots of protein.",
+      "Carrots, celery, onions and garlic add vegetables.",
+      "Slow simmered rather than fried."
+    ],
+    "not_healthy": [
+      "Bacon adds saturated fat and sodium.",
+      "Chicken broth adds sodium.",
+      "Guinness adds alcohol calories, though some cooks off."
+    ]
+  },
+  "created_at": "2025-09-19T04:24:57.101+00:00",
+  "updated_at": "2026-10-24T00:38:50-05:00"
 }
