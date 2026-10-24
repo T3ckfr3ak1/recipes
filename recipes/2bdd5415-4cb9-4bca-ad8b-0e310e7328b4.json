@@ -80,10 +80,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "The feta adds a luxurious sophistication.\n\nSource: https://www.facebook.com/share/r/1MseoxM3sK/\n\nNutrition: Serving 1 serving · Calories 618 · Fat 26g · Saturated fat 10g · Unsaturated fat 16g · Trans fat 0g · Cholesterol 120mg · Sodium 850mg · Carbs 44g · Fiber 3g · Sugar 5g · Protein 52g",
-  "created_at": "2026-08-03T06:05:29.205969+00:00",
-  "updated_at": "2026-08-03T06:05:29.205969+00:00",
   "deleted": false,
   "images": [
     "images/2bdd5415-4cb9-4bca-ad8b-0e310e7328b4/2bdd5415-4cb9-4bca-ad8b-0e310e7328b4.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken breast makes it high in protein.",
+      "Lots of cherry tomatoes and garlic.",
+      "Olive oil is mostly unsaturated fat."
+    ],
+    "not_healthy": [
+      "Feta and Parmesan are high in sodium and saturated fat.",
+      "White pasta is refined carbs."
+    ]
+  },
+  "created_at": "2026-08-03T06:05:29.205969+00:00",
+  "updated_at": "2026-10-24T00:35:47-05:00"
 }
