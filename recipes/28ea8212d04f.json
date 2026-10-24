@@ -68,6 +68,17 @@
   "notes": "About 50 min. Ingredients are per 2 lb.\nCooking from frozen (forgot to thaw): Air Fry mode 400°F for 15 min, drain any water, pat dry, season, then 425°F 25 to 35 min, flipping halfway. Not as crisp.\nLeftover cooked wings: fridge 3 to 4 days, freezer 2 months. Reheat Air Fry mode 375°F, 8 to 12 min, flip once.",
   "deleted": false,
   "id": "28ea8212d04f",
+  "nutrition": {
+    "healthy": [
+      "Baked in the oven instead of deep fried.",
+      "Chicken gives plenty of protein."
+    ],
+    "not_healthy": [
+      "Wings with skin are high in fat.",
+      "Salt, sauce and dressings add sodium.",
+      "Ranch and blue cheese dips add saturated fat."
+    ]
+  },
   "created_at": "2026-10-23T12:04:16-05:00",
-  "updated_at": "2026-10-23T12:04:16-05:00"
+  "updated_at": "2026-10-24T00:35:45-05:00"
 }
