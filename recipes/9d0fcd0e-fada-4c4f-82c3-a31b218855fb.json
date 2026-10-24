@@ -81,10 +81,20 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Stir periodically to prevent sticking and ensure even heating. Adjust seasoning to taste.\n\nSource: https://www.facebook.com/share/v/1BRL7bXYnA/\n\nNutrition: Serving 1 bowl · Calories Approximately 600 kcal · Fat Approximately 35g · Saturated fat Approximately 15g · Unsaturated fat 20g · Trans fat 0g · Cholesterol Approximately 80mg · Sodium Approximately 800mg · Carbs Approximately 50g · Fiber Approximately 3g · Sugar Approximately 5g · Protein Approximately 25g",
-  "created_at": "2025-11-22T23:09:43.018+00:00",
-  "updated_at": "2026-07-19T06:04:12.262762+00:00",
   "deleted": false,
   "images": [
     "images/9d0fcd0e-fada-4c4f-82c3-a31b218855fb/9d0fcd0e-fada-4c4f-82c3-a31b218855fb.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Cheese and milk give protein and calcium."
+    ],
+    "not_healthy": [
+      "Heavy cream, cream cheese, butter, cheddar and American cheese make it very high in saturated fat.",
+      "Processed American cheese and cheddar add a lot of sodium.",
+      "Cheese tortellini is refined pasta with no vegetables."
+    ]
+  },
+  "created_at": "2025-11-22T23:09:43.018+00:00",
+  "updated_at": "2026-10-24T00:37:41-05:00"
 }
