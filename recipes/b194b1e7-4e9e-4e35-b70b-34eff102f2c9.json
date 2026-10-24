@@ -109,10 +109,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/19Suq3s9WJ/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 70mg · Sodium 900mg · Carbs 60g · Fiber 5g · Sugar 8g · Protein 30g",
-  "created_at": "2025-09-19T04:19:40.974+00:00",
-  "updated_at": "2026-07-19T07:11:42.636247+00:00",
   "deleted": false,
   "images": [
     "images/b194b1e7-4e9e-4e35-b70b-34eff102f2c9/b194b1e7-4e9e-4e35-b70b-34eff102f2c9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Made from scratch with fresh onion and garlic instead of a boxed mix.",
+      "Ground beef gives protein.",
+      "Tomato sauce adds some vegetable."
+    ],
+    "not_healthy": [
+      "Cheddar, whole milk, butter and beef add saturated fat.",
+      "Broth and salt add sodium.",
+      "Pasta and breadcrumbs are refined carbs."
+    ]
+  },
+  "created_at": "2025-09-19T04:19:40.974+00:00",
+  "updated_at": "2026-10-24T00:37:58-05:00"
 }
