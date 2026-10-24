@@ -98,10 +98,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/18koqKZbGu/\n\nNutrition: Serving 1 slice · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 700mg · Carbs 50g · Fiber 5g · Sugar 5g · Protein 25g",
-  "created_at": "2025-09-20T04:18:58.388+00:00",
-  "updated_at": "2026-07-19T00:48:55.324999+00:00",
   "deleted": false,
   "images": [
     "images/419e8ef8-db81-4869-9840-25adc5c5d811/419e8ef8-db81-4869-9840-25adc5c5d811.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken thighs give protein.",
+      "Two cups of mixed vegetables and onion add fiber and vitamins."
+    ],
+    "not_healthy": [
+      "Butter-and-flour sauce adds saturated fat and refined carbs.",
+      "Tater tots are fried, processed potatoes.",
+      "Chicken broth and salt add sodium."
+    ]
+  },
+  "created_at": "2025-09-20T04:18:58.388+00:00",
+  "updated_at": "2026-10-24T00:36:09-05:00"
 }
