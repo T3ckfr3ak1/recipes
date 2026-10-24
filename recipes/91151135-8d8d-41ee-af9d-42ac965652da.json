@@ -71,10 +71,22 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Original creator: @cook_with_tabu\n\nSource: https://www.facebook.com/share/r/14mgWnrq76Y/\n\nNutrition: Serving 1 sandwich · Calories 578 · Fat 30g · Saturated fat 12g · Unsaturated fat 18g · Trans fat 0g · Cholesterol 570mg · Sodium 950mg · Carbs 37g · Fiber 3g · Sugar 4g · Protein 40g",
-  "created_at": "2026-07-31T20:04:27.887353+00:00",
-  "updated_at": "2026-07-31T20:04:27.887353+00:00",
   "deleted": false,
   "images": [
     "images/91151135-8d8d-41ee-af9d-42ac965652da/91151135-8d8d-41ee-af9d-42ac965652da.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Eggs give protein.",
+      "Spinach and parsley add some greens.",
+      "Only 5 ml olive oil."
+    ],
+    "not_healthy": [
+      "Parma ham is cured meat high in sodium.",
+      "Mozzarella adds saturated fat.",
+      "Bread is refined carbs unless whole grain."
+    ]
+  },
+  "created_at": "2026-07-31T20:04:27.887353+00:00",
+  "updated_at": "2026-10-24T00:37:20-05:00"
 }
