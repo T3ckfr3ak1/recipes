@@ -49,6 +49,16 @@
   "notes": "10 min.\nVersions:\n- Pulled pork: plain pulled pork, habanero jack, a few chopped candied jalapenos. Dip: BBQ sauce or sour cream.\n- BBQ pulled pork: toss the pork with 2 to 3 Tbsp BBQ sauce. Habanero jack or provolone. Dip: ranch or extra BBQ.\n- Buffalo chicken: toss shredded chicken with 2 to 3 Tbsp Buffalo sauce (R8). Half mozzarella, half habanero jack. Dip: ranch (blue cheese also good).\nToo dark outside, cheese not melted? Turn heat down to medium-low and cover the pan for a minute.",
   "deleted": false,
   "id": "bd1f5345b81d",
+  "nutrition": {
+    "healthy": [
+      "Pulled pork or chicken filling gives protein."
+    ],
+    "not_healthy": [
+      "Large flour tortilla is refined carbs.",
+      "3/4 cup shredded cheese adds saturated fat and sodium.",
+      "BBQ or Buffalo sauce fillings add sugar or sodium."
+    ]
+  },
   "created_at": "2026-10-23T12:03:52-05:00",
-  "updated_at": "2026-10-23T12:03:52-05:00"
+  "updated_at": "2026-10-24T00:38:07-05:00"
 }
