@@ -69,10 +69,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1LC6sqSdDN/\n\nNutrition: Serving 1 slice or portion · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 100mg · Sodium 800mg · Carbs 50g · Fiber 5g · Sugar 8g · Protein 30g",
-  "created_at": "2025-09-20T04:00:15.623+00:00",
-  "updated_at": "2026-07-18T23:34:26.434695+00:00",
   "deleted": false,
   "images": [
     "images/2c1848a7-39e1-469a-b784-151ea624a20d/2c1848a7-39e1-469a-b784-151ea624a20d.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chuck roast gives plenty of protein.",
+      "Potatoes, a whole bag of carrots and onions add vegetables and fiber."
+    ],
+    "not_healthy": [
+      "Chuck roast is a fattier cut with saturated fat.",
+      "Butter adds saturated fat.",
+      "Powdered gravy pack is high in sodium."
+    ]
+  },
+  "created_at": "2025-09-20T04:00:15.623+00:00",
+  "updated_at": "2026-10-24T00:35:48-05:00"
 }
