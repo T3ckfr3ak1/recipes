@@ -105,10 +105,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "The author found this recipe to be surprisingly delicious and healthy, a flavor explosion that they would make again.\n\nSource: https://www.facebook.com/share/v/1BQhzSW9MG/\n\nNutrition: Serving 1 serving · Calories 550 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 0mg · Sodium 600mg · Carbs 80g · Fiber 10g · Sugar 15g · Protein 15g",
-  "created_at": "2026-06-28T09:21:16.396429+00:00",
-  "updated_at": "2026-06-28T09:21:16.396429+00:00",
   "deleted": false,
   "images": [
     "images/91716a9a-470d-4d22-a1ad-fc9c1d62ca5a/91716a9a-470d-4d22-a1ad-fc9c1d62ca5a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Lots of onions plus sun-dried tomatoes, garlic and herbs.",
+      "No cheese, cream or butter.",
+      "Olive oil adds unsaturated fat."
+    ],
+    "not_healthy": [
+      "White pasta is refined carbs.",
+      "Coconut milk is high in saturated fat.",
+      "Low in protein."
+    ]
+  },
+  "created_at": "2026-06-28T09:21:16.396429+00:00",
+  "updated_at": "2026-10-24T00:37:24-05:00"
 }
