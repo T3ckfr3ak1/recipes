@@ -66,6 +66,16 @@
   "notes": "15 min. Leftovers: wrap in foil, fridge (3 days; freezer 1 month in foil). Reheat in the oven at 350°F in foil 8 min, then open the foil 2 to 3 min to re-crisp. Microwave makes it chewy.",
   "deleted": false,
   "id": "bf3d607b8b9c",
+  "nutrition": {
+    "healthy": [
+      "Mozzarella gives some protein and calcium."
+    ],
+    "not_healthy": [
+      "French bread is refined white flour.",
+      "6 Tbsp butter and cheese add saturated fat.",
+      "Bread, cheese and salt add sodium."
+    ]
+  },
   "created_at": "2026-10-23T12:04:02-05:00",
-  "updated_at": "2026-10-23T12:04:02-05:00"
+  "updated_at": "2026-10-24T00:38:13-05:00"
 }
