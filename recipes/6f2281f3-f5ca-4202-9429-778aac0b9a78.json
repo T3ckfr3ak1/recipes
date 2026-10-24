@@ -99,10 +99,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Serve over cooked pasta for a complete meal.\n\nSource: https://www.facebook.com/share/r/1763xehiR9/\n\nNutrition: Serving 1 chicken thigh with sauce and breadcrumbs · Calories Approximately 500 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 120mg · Sodium 800mg · Carbs 50g · Fiber 5g · Sugar 8g · Protein 40g",
-  "created_at": "2025-09-20T04:12:52.078+00:00",
-  "updated_at": "2026-07-19T03:26:59.568561+00:00",
   "deleted": false,
   "images": [
     "images/6f2281f3-f5ca-4202-9429-778aac0b9a78/6f2281f3-f5ca-4202-9429-778aac0b9a78.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken thighs give protein.",
+      "Bell pepper, tomatoes, garlic and basil add vegetables.",
+      "Only 1 Tbsp olive oil."
+    ],
+    "not_healthy": [
+      "Parmesan adds sodium and saturated fat.",
+      "Canned tomato sauce adds sodium.",
+      "Panko is refined white bread crumbs."
+    ]
+  },
+  "created_at": "2025-09-20T04:12:52.078+00:00",
+  "updated_at": "2026-10-24T00:36:51-05:00"
 }
