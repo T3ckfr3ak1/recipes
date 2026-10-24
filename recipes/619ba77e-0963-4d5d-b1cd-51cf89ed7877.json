@@ -85,10 +85,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1JSXiqDifb/\n\nNutrition: Serving 1 sandwich · Calories 650 kcal · Fat 35 g · Saturated fat 15 g · Unsaturated fat 19 g · Trans fat 1 g · Cholesterol 180 mg · Sodium 900 mg · Carbs 60 g · Fiber 3 g · Sugar 12 g · Protein 30 g",
-  "created_at": "2025-11-05T02:56:54.426+00:00",
-  "updated_at": "2026-07-19T02:41:10.248443+00:00",
   "deleted": false,
   "images": [
     "images/619ba77e-0963-4d5d-b1cd-51cf89ed7877/619ba77e-0963-4d5d-b1cd-51cf89ed7877.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Eggs give protein.",
+      "Poblano peppers and onion add some vegetables."
+    ],
+    "not_healthy": [
+      "Sausage and bacon are processed meats high in sodium and saturated fat.",
+      "Brioche buns and maple syrup add refined carbs and sugar.",
+      "American cheese and bacon fat add more saturated fat."
+    ]
+  },
+  "created_at": "2025-11-05T02:56:54.426+00:00",
+  "updated_at": "2026-10-24T00:36:38-05:00"
 }
