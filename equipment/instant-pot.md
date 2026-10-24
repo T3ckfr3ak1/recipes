@@ -1,6 +1,9 @@
 # Instant Pot
 
 - **Model:** Emeril Lagasse brand pressure cooker / multicooker (Joe, Oct 23, 2026). Exact model number and quart size not yet recorded.
+- **Functions (Joe, Oct 23, 2026):** pressure cook, sous vide, steam, saute, slow cook, air fry, canning, yogurt.
+- **Lids Joe owns (Joe, Oct 23, 2026):** pressure cooker lid, air fryer lid, and a non-vented glass lid.
+- **Air frying (Joe, Oct 23, 2026):** Joe does NOT air fry in this pot even though he has the air fryer lid. He air fries in his Samsung oven's Air Fry mode instead (see `equipment/samsung-oven-air-fry.md`). Don't plan Instant Pot air fry steps.
 - **Functions Joe uses (Joe, to Thrifty, Oct 20, 2026):** "my insta pot can pressure or crok". That means pressure cook or slow cook.
 - **Lid:** Joe slow cooks with a **non-vented glass lid** (his own pulled pork recipe, Oct 23, 2026).
 - **Slow cook temperature control (Joe, Oct 23, 2026):** slow cook mode takes a set temperature in Fahrenheit. He has used 195F and 212F. The timer only starts counting once the pot reaches the set point.
