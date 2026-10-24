@@ -11,5 +11,5 @@ All times are ISO 8601 with offset. Deleted recipes stay with `deleted: true` an
 - `meal-plan/`: dated meal plans (`<start>_to_<end>.md`) plus the original meal pack PDF. Not read as recipes.
 - `equipment/`: one markdown file per cooking tool or appliance Joe owns, with model and known settings or quirks.
 - `methods/`: one markdown file per cooking method, conversion rule, or lesson learned, citing which bot and date it came from.
-- `preferences/`: Joe's food likes, dislikes and brand rules.
+- `preferences/`: Joe's food likes, dislikes and brand rules (`food-preferences.md`), and the kids' food profile (`kids-profile.md`).
 - `appliance-manuals/`: owner's manuals for appliances in `equipment/`. The app does not load this folder.
