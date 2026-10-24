@@ -63,10 +63,19 @@
   "category": "Main Dish",
   "source": "Flavorish",
   "notes": "The dish has a unique sweetness from the Sprite and the onions cook down to a very pleasant texture.\n\nSource: https://www.facebook.com/share/v/14jA56tDz9H/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 18g · Saturated fat 6g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 30mg · Sodium 850mg · Carbs 65g · Fiber 4g · Sugar 25g · Protein 12g",
-  "created_at": "2026-07-18T17:45:45.322026+00:00",
-  "updated_at": "2026-07-18T17:45:45.322026+00:00",
   "deleted": false,
   "images": [
     "images/c29e9b37-f9bc-4f35-b1de-8736fe433eb6/c29e9b37-f9bc-4f35-b1de-8736fe433eb6.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Potatoes, onion, green pepper and serrano add vegetables."
+    ],
+    "not_healthy": [
+      "Sprite adds sugar.",
+      "Bacon is processed meat high in sodium and saturated fat."
+    ]
+  },
+  "created_at": "2026-07-18T17:45:45.322026+00:00",
+  "updated_at": "2026-10-24T00:38:15-05:00"
 }
