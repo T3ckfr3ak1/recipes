@@ -58,10 +58,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/16Fz5itfv1/\n\nNutrition: Serving 1 muffin · Calories 150 kcal · Fat 10 g · Saturated fat 4 g · Unsaturated fat 6 g · Trans fat 0 g · Cholesterol 70 mg · Sodium 300 mg · Carbs 10 g · Fiber 1 g · Sugar 1 g · Protein 8 g",
-  "created_at": "2025-09-19T04:52:49.87+00:00",
-  "updated_at": "2026-07-19T00:59:43.954009+00:00",
   "deleted": false,
   "images": [
     "images/4485d134-533c-49da-9d0f-e75cba948586/4485d134-533c-49da-9d0f-e75cba948586.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ten eggs make it high in protein.",
+      "Baked in muffin portions, which helps control serving size."
+    ],
+    "not_healthy": [
+      "Sausage crumbles are processed meat high in sodium and saturated fat.",
+      "Cheddar adds saturated fat.",
+      "Frozen hash browns are processed potato."
+    ]
+  },
+  "created_at": "2025-09-19T04:52:49.87+00:00",
+  "updated_at": "2026-10-24T00:36:15-05:00"
 }
