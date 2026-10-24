@@ -104,10 +104,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/1CppajzQSH/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 80mg · Sodium 900mg · Carbs 60g · Fiber 5g · Sugar 8g · Protein 30g",
-  "created_at": "2025-09-20T19:19:46.065+00:00",
-  "updated_at": "2026-07-19T05:00:33.376863+00:00",
   "deleted": false,
   "images": [
     "images/8ae91308-185e-4704-a0e9-83985a1de58f/8ae91308-185e-4704-a0e9-83985a1de58f.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Lots of vegetables: bell peppers, onion and tomatoes.",
+      "Ground beef gives protein.",
+      "Spices give flavor without sugar."
+    ],
+    "not_healthy": [
+      "2 tsp salt, tomato paste, canned tomatoes and broth add sodium.",
+      "White rice is refined carbs.",
+      "Ground beef and pepper jack add saturated fat."
+    ]
+  },
+  "created_at": "2025-09-20T19:19:46.065+00:00",
+  "updated_at": "2026-10-24T00:37:16-05:00"
 }
