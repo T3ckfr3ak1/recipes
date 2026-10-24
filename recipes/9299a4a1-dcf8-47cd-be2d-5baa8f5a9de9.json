@@ -83,10 +83,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1DQMLPG33y/\n\nNutrition: Serving 1 taco · Calories 450 · Fat 25g · Saturated fat 10g · Unsaturated fat 14g · Trans fat 1g · Cholesterol 120mg · Sodium 600mg · Carbs 30g · Fiber 2g · Sugar 5g · Protein 25g",
-  "created_at": "2026-06-15T03:30:26.13+00:00",
-  "updated_at": "2026-07-19T05:26:27.635332+00:00",
   "deleted": false,
   "images": [
     "images/9299a4a1-dcf8-47cd-be2d-5baa8f5a9de9/9299a4a1-dcf8-47cd-be2d-5baa8f5a9de9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef and egg give protein.",
+      "Masa is whole grain corn."
+    ],
+    "not_healthy": [
+      "Taco seasoning, cheese and Bisquick add a lot of sodium.",
+      "Mozzarella, butter and beef add saturated fat.",
+      "Bisquick is refined flour."
+    ]
+  },
+  "created_at": "2026-06-15T03:30:26.13+00:00",
+  "updated_at": "2026-10-24T00:37:26-05:00"
 }
