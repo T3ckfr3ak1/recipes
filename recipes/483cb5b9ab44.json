@@ -41,6 +41,16 @@
   "notes": null,
   "deleted": false,
   "id": "483cb5b9ab44",
+  "nutrition": {
+    "healthy": [
+      "Wings and wrap give protein."
+    ],
+    "not_healthy": [
+      "Store deli fried and seasoned foods are high in sodium.",
+      "Wings with skin, pepperoni and cheese add saturated fat.",
+      "Pepperoni is processed meat, and the turnover is refined flour."
+    ]
+  },
   "created_at": "2026-10-23T12:03:45-05:00",
-  "updated_at": "2026-10-23T12:03:45-05:00"
+  "updated_at": "2026-10-24T00:36:21-05:00"
 }
