@@ -92,10 +92,21 @@
   "category": "Dinner",
   "source": "Flavorish",
   "notes": "Ensure you stir often while simmering the pasta to prevent it from sticking to the bottom of the pot.\n\nSource: https://www.facebook.com/share/r/1D75nDzqxj/\n\nNutrition: Serving 1 bowl · Calories 650 kcal · Fat 38g · Saturated fat 18g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 120mg · Sodium 950mg · Carbs 45g · Fiber 3g · Sugar 6g · Protein 32g",
-  "created_at": "2026-10-12T14:28:09.551457+00:00",
-  "updated_at": "2026-10-12T14:28:09.551457+00:00",
   "deleted": false,
   "images": [
     "images/43a53cf5-abc8-465c-9caa-ef2722d09db3/43a53cf5-abc8-465c-9caa-ef2722d09db3.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion, garlic and tomato paste add some vegetables."
+    ],
+    "not_healthy": [
+      "Cream cheese, heavy cream and pepper jack add saturated fat.",
+      "Broth, enchilada sauce, garlic salt and seasoning blends make it high in sodium.",
+      "White spaghetti is refined carbs."
+    ]
+  },
+  "created_at": "2026-10-12T14:28:09.551457+00:00",
+  "updated_at": "2026-10-24T00:36:13-05:00"
 }
