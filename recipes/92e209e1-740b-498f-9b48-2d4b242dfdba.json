@@ -70,10 +70,21 @@
   "category": "Side Dish",
   "source": "Flavorish",
   "notes": "Feel free to add cooked sausage, cranberries, or nuts for extra flavor.\n\nSource: https://www.facebook.com/share/r/1HLbXLKmyJ/\n\nNutrition: Serving 1 cup · Calories 200 kcal · Fat 8 g · Saturated fat 3 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 300 mg · Carbs 30 g · Fiber 3 g · Sugar 5 g · Protein 4 g",
-  "created_at": "2025-11-23T15:25:55.774+00:00",
-  "updated_at": "2026-07-19T05:27:24.956139+00:00",
   "deleted": false,
   "images": [
     "images/92e209e1-740b-498f-9b48-2d4b242dfdba/92e209e1-740b-498f-9b48-2d4b242dfdba.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Onion, celery and fresh herbs add vegetables.",
+      "Easy to add nuts or cranberries for more fiber."
+    ],
+    "not_healthy": [
+      "About 10 cups of bread cubes, usually white bread, makes it mostly refined carbs.",
+      "Half a cup of butter adds saturated fat.",
+      "Broth and salt add sodium."
+    ]
+  },
+  "created_at": "2025-11-23T15:25:55.774+00:00",
+  "updated_at": "2026-10-24T00:37:28-05:00"
 }
