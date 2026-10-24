@@ -57,6 +57,16 @@
   "notes": "5 min. Breakfast timing: start hash browns (R2) and sausage (R13) in the oven first; eggs go last.",
   "deleted": false,
   "id": "270c5592e007",
+  "nutrition": {
+    "healthy": [
+      "Eggs are a good source of protein.",
+      "Small portion with a short ingredient list."
+    ],
+    "not_healthy": [
+      "Butter and cheese add saturated fat.",
+      "Cheese and salt add sodium."
+    ]
+  },
   "created_at": "2026-10-23T12:04:05-05:00",
-  "updated_at": "2026-10-23T12:04:05-05:00"
+  "updated_at": "2026-10-24T00:35:41-05:00"
 }
