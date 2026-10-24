@@ -32,7 +32,7 @@
     {
       "quantity": null,
       "unit": null,
-      "item": "shredded mozzarella or habanero jack",
+      "item": "shredded mozzarella",
       "note": null
     },
     {
@@ -55,7 +55,7 @@
     "Air Fry 425F for 25 min, flipping and stirring at 12 min. Done when fork-tender with golden edges. Add 3 min if needed.",
     "Hash brown option instead of the potatoes: make Oven Hash Browns (R2, recipe 0fba731d0d13) as that recipe says.",
     "Warm about 1 cup shredded chicken in the microwave, covered, 1 to 2 min. Toss with 2 to 3 Tbsp Buffalo sauce (R8).",
-    "Put the potatoes or hash browns in a bowl. Pile on the Buffalo chicken, top with shredded mozzarella or habanero jack.",
+    "Put the potatoes or hash browns in a bowl. Pile on the Buffalo chicken, top with shredded mozzarella.",
     "Microwave 30 to 45 sec (or Air Fry mode 425°F for 3 to 5 min) to melt the cheese.",
     "Top with sour cream and a drizzle of ranch or blue cheese. Optional: broccoli on the side (R16)."
   ],
@@ -91,5 +91,5 @@
     "minutes": 25
   },
   "created_at": "2026-10-23T12:04:20-05:00",
-  "updated_at": "2026-10-24T15:18:38-05:00"
+  "updated_at": "2026-10-24T15:24:56-05:00"
 }
