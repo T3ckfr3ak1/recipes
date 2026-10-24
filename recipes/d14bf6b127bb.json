@@ -78,6 +78,17 @@
   "notes": "Build ideas:\n- Spicy turkey: turkey, habanero jack slices, Duke's, spicy brown mustard, candied jalapenos.\n- Italian-ish: salami, pepperoni, provolone, Duke's, a little spicy brown mustard.\n- Turkey and provolone: turkey, provolone, Duke's, honey mustard.\n- The stack: turkey, salami, pepperoni, habanero jack, Duke's, spicy brown mustard, candied jalapenos.\n- Hot version (if there's a microwave at work): salami and pepperoni with provolone, 20 to 30 sec to melt.\nAdd a side: a handful of Utz Pub Mix or Santitas chips.\nOpen one lunchmeat pack at a time. Opened packs: 3 to 5 days. Smells off or slimy, toss it.\nDeli sandwiches are for work lunches only.",
   "deleted": false,
   "id": "d14bf6b127bb",
+  "nutrition": {
+    "healthy": [
+      "Turkey is a lean protein.",
+      "Easy to pack ahead for a portion-sized lunch."
+    ],
+    "not_healthy": [
+      "Deli meats, pepperoni and salami are processed and high in sodium.",
+      "Salami, pepperoni, cheese and mayo add saturated fat.",
+      "White bread is refined carbs."
+    ]
+  },
   "created_at": "2026-10-23T12:04:15-05:00",
-  "updated_at": "2026-10-23T12:04:15-05:00"
+  "updated_at": "2026-10-24T00:38:28-05:00"
 }
