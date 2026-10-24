@@ -7,10 +7,19 @@
   "tags": [],
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/18zeZL2yfj/",
-  "created_at": "2026-06-30T19:06:54.074934+00:00",
-  "updated_at": "2026-06-30T19:06:54.074934+00:00",
   "deleted": false,
   "images": [
     "images/216a7065-4b7a-48a2-8c6a-e9d343899d5d/216a7065-4b7a-48a2-8c6a-e9d343899d5d.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Eye of round is one of the leanest beef cuts and high in protein."
+    ],
+    "not_healthy": [
+      "Red meat; general advice is to limit how often you eat it.",
+      "No ingredients or steps are listed yet, so added salt and fat can't be judged."
+    ]
+  },
+  "created_at": "2026-06-30T19:06:54.074934+00:00",
+  "updated_at": "2026-10-24T00:35:37-05:00"
 }
