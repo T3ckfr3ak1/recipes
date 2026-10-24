@@ -98,10 +98,20 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "The author mentions this is a hack and that they would be making it more often if it's good. The final result was described as 'Best mac and cheese ever I had'.\n\nSource: https://www.facebook.com/share/v/1D6bx8Nejh/\n\nNutrition: Serving 1 serving · Calories 600 kcal · Fat 40g · Saturated fat 25g · Unsaturated fat 14g · Trans fat 1g · Cholesterol 150mg · Sodium 1200mg · Carbs 45g · Fiber 2g · Sugar 5g · Protein 20g",
-  "created_at": "2026-06-14T02:28:12.338+00:00",
-  "updated_at": "2026-07-19T07:29:08.020584+00:00",
   "deleted": false,
   "images": [
     "images/b6ddc2e1-b573-4a37-9f60-75c1b6d3449a/b6ddc2e1-b573-4a37-9f60-75c1b6d3449a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Cheese gives protein and calcium."
+    ],
+    "not_healthy": [
+      "32 oz Velveeta and four cups of heavy cream make it extremely high in saturated fat.",
+      "Processed cheese and several other cheeses make it very high in sodium.",
+      "Two pounds of white macaroni is mostly refined carbs."
+    ]
+  },
+  "created_at": "2026-06-14T02:28:12.338+00:00",
+  "updated_at": "2026-10-24T00:38:03-05:00"
 }
