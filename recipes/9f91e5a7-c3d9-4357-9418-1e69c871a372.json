@@ -85,10 +85,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/16cVaAzDbK/\n\nNutrition: Serving 1 plate · Calories Approximate based on ingredients · Fat Approximate · Saturated fat Approximate · Unsaturated fat Approximate · Trans fat Approximate · Cholesterol Approximate · Sodium Approximate · Carbs Approximate · Fiber Approximate · Sugar Approximate · Protein Approximate",
-  "created_at": "2025-09-20T04:06:14.3+00:00",
-  "updated_at": "2026-07-19T06:12:25.235648+00:00",
   "deleted": false,
   "images": [
     "images/9f91e5a7-c3d9-4357-9418-1e69c871a372/9f91e5a7-c3d9-4357-9418-1e69c871a372.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Three bell peppers, onion and garlic add lots of vegetables.",
+      "Sausage gives protein."
+    ],
+    "not_healthy": [
+      "Sausage is processed meat high in sodium and saturated fat.",
+      "Jarred marinara adds sodium.",
+      "Pasta is usually refined carbs."
+    ]
+  },
+  "created_at": "2025-09-20T04:06:14.3+00:00",
+  "updated_at": "2026-10-24T00:37:43-05:00"
 }
