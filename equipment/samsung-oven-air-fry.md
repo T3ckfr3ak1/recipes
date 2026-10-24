@@ -1,6 +1,8 @@
 # Samsung oven with Air Fry mode
 
-- **Model:** unknown. Joe hasn't given the model to any bot yet.
+- **Model:** unknown. The sticker has not been read.
+- **What Joe described (Oct 24, 2026):** Samsung stainless, all gas, matching the ME21M706BAS microwave. Five-burner cooktop with a center oval burner. Oven modes include Air Fry, Dehydrate, Bake, Convection Bake, and Broil. This file is that range. There is no separate stove.
+- **Closest published match, still unconfirmed:** Samsung's kitchen set pairs the ME21M706BAS microwave with the fingerprint-resistant stainless slide-in gas range NX60T8511SS (6.0 cu. ft., five burners, center oval burner, Air Fry, Dehydrate, Bake, Convection Bake, Broil). NX60T8711SS and the freestanding NX60A6711SS list the same oven modes. Do not treat any of those as Joe's model until the sticker is read. The sticker is on the frame behind the oven door, or inside the storage drawer.
 - **What it is (Joe, to Thrifty, Oct 20, 2026):** "i dont have an air fryer, i have a samsung oven with an air fry feature but its somewhere between air frying and baking"
 - **Modes used in Joe's recipes:** Bake and Air Fry. The meal pack uses regular Bake mode for frozen pizza, potatoes (Air Fry also works) and the pork chop reverse sear, and Air Fry mode for most other oven steps.
 
