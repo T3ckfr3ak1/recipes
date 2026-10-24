@@ -42,10 +42,21 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "The recipe is quite rich, so serving it over ice cream helps to balance the sweetness.\n\nSource: https://www.facebook.com/share/r/1HF6LFPPsb/\n\nNutrition: Serving 1 slice · Calories 280 kcal · Fat 6g · Saturated fat 3g · Unsaturated fat 2g · Trans fat 0g · Cholesterol 15mg · Sodium 150mg · Carbs 55g · Fiber 1g · Sugar 40g · Protein 2g",
-  "created_at": "2026-08-30T22:25:53.772106+00:00",
-  "updated_at": "2026-08-30T22:25:53.772106+00:00",
   "deleted": false,
   "images": [
     "images/0a4c76c7-2ec4-42f6-87ac-0bbbb864f8c5/0a4c76c7-2ec4-42f6-87ac-0bbbb864f8c5.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Includes some fruit from the fruit cocktail.",
+      "Small ingredient list with no frosting."
+    ],
+    "not_healthy": [
+      "A full cup of sugar makes it high in added sugar.",
+      "Self-raising white flour is refined with little fiber.",
+      "Butter adds saturated fat."
+    ]
+  },
+  "created_at": "2026-08-30T22:25:53.772106+00:00",
+  "updated_at": "2026-10-24T00:35:16-05:00"
 }
