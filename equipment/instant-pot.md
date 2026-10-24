@@ -1,8 +1,12 @@
 # Instant Pot
 
-- **Model:** unknown.
+- **Model:** Emeril Lagasse brand pressure cooker / multicooker (Joe, Oct 23, 2026). Exact model number and quart size not yet recorded.
 - **Functions Joe uses (Joe, to Thrifty, Oct 20, 2026):** "my insta pot can pressure or crok". That means pressure cook or slow cook.
 - **Lid:** Joe slow cooks with a **non-vented glass lid** (his own pulled pork recipe, Oct 23, 2026).
+- **Slow cook temperature control (Joe, Oct 23, 2026):** slow cook mode takes a set temperature in Fahrenheit. He has used 195F and 212F. The timer only starts counting once the pot reaches the set point.
+- **How Joe wants recipes written for this pot (Joe, Oct 23, 2026):** exactly one cook time and one Fahrenheit temperature for the whole cook. No Low/Medium/High wording, no temperature ranges, no doneness ranges in the recipe.
+- **Heating behavior (Head Chef research, Oct 23, 2026):** multicookers heat only from the bottom through a thin pot, so slow cooking comes up to temp slower than a ceramic crock. America's Test Kitchen found most multicookers slow cook too cool (https://www.americastestkitchen.com/equipment_reviews/2242-multicookers). Instant Pot's own guide: https://www.instantpot.be/en/blog-en/informationen-en/how-the-slow-cooker-function-works-on-instant-pot-multicookers-model-guide/
+- **Known results:** see `methods/lesson-instant-pot-pulled-pork-2026-10-23.md`.
 - **Modes used in the meal pack recipes:** Saute (searing), Pressure Cook on High with natural release, and Slow Cook (Low or High). Recipes R3 and R7.
 - **Meal pack tips:**
   - "Don't fill past the 2/3 line."
