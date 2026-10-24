@@ -1,6 +1,6 @@
 # Instant Pot
 
-- **Model:** Emeril Lagasse brand pressure cooker / multicooker (Joe, Oct 23, 2026). Exact model number and quart size not yet recorded.
+- **Model:** Emeril Lagasse 8-quart pressure cooker / multicooker (Joe). Exact model number is not recorded.
 - **Functions (Joe, Oct 23, 2026):** pressure cook, sous vide, steam, saute, slow cook, air fry, canning, yogurt.
 - **Lids Joe owns (Joe, Oct 23, 2026):** pressure cooker lid, air fryer lid, and a KitchenAid metal-rimmed glass pot lid. The glass lid Joe slow cooks with is not the official Instant Pot glass lid. It's a KitchenAid metal-rimmed glass pot lid that fits the pot snugly. It has no vent, so it holds heat and moisture like a standard crock-pot lid but doesn't hold pressure (Joe, Oct 23, 2026).
 - **Inner pot (Joe, Oct 23, 2026):** Joe replaced the original nonstick (Teflon) pot with an OEM stainless steel inner pot that has a thick plate on the bottom. All of his cooks from Oct 23 on use the stainless pot.
