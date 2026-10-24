@@ -90,10 +90,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Feel free to adjust seasonings to taste and add more cheese if desired.\n\nSource: https://www.facebook.com/share/r/14JYYqMAFip/\n\nNutrition: Serving 1 plate · Calories Approximate 600 kcal · Fat Approximate 30g · Saturated fat Approximate 15g · Unsaturated fat Approximate 15g · Trans fat 0g · Cholesterol Approximate 80mg · Sodium Approximate 900mg · Carbs Approximate 70g · Fiber Approximate 5g · Sugar Approximate 8g · Protein Approximate 35g",
-  "created_at": "2025-10-18T17:27:32.292+00:00",
-  "updated_at": "2026-07-19T09:37:10.670105+00:00",
   "deleted": false,
   "images": [
     "images/dd505ca3-d7d7-449e-acb6-c4f8eaef4720/dd505ca3-d7d7-449e-acb6-c4f8eaef4720.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken breast gives lean protein.",
+      "Onions and peppers add vegetables."
+    ],
+    "not_healthy": [
+      "Cajun seasoning, sausage and broth make it high in sodium.",
+      "Sausage, butter and mozzarella add saturated fat.",
+      "Cheese tortellini is refined pasta."
+    ]
+  },
+  "created_at": "2025-10-18T17:27:32.292+00:00",
+  "updated_at": "2026-10-24T00:38:37-05:00"
 }
