@@ -15,6 +15,7 @@
 - Snacks: Utz Pub Mix and Reese's.
 - Drinks: Baja Blast, and at least one non-diet Monster a day.
 - Candied jalapenos: "the jalepenos are good for lunch sandwiches".
+- Peppers: Joe finds a blend of peppers makes the flavor flow better than a single pepper type (example: candied jalapenos plus El Yucateco XXXtra Hot habanero in the Oct 23, 2026 pulled pork). He plans to start making his own seasoning blends again.
 
 ## Household
 - His girlfriend prefers lighter meals.
