@@ -80,10 +80,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "A simple, one-pan dinner solution perfect for busy weeknights.\n\nSource: https://www.facebook.com/share/r/1BaH1JJBhm/\n\nNutrition: Serving 1 bowl · Calories 550 kcal · Fat 22g · Saturated fat 9g · Unsaturated fat 11g · Trans fat 0g · Cholesterol 85mg · Sodium 950mg · Carbs 45g · Fiber 3g · Sugar 6g · Protein 32g",
-  "created_at": "2026-07-27T03:43:39.4846+00:00",
-  "updated_at": "2026-07-27T03:43:39.4846+00:00",
   "deleted": false,
   "images": [
     "images/98a0949b-17dd-4fa7-915c-503bb07ec0a3/98a0949b-17dd-4fa7-915c-503bb07ec0a3.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion, Rotel and tomato sauce add vegetables.",
+      "Homemade taco seasoning lets you control the salt."
+    ],
+    "not_healthy": [
+      "Pasta is refined carbs.",
+      "Cheese and beef add saturated fat.",
+      "Canned tomatoes and broth add sodium."
+    ]
+  },
+  "created_at": "2026-07-27T03:43:39.4846+00:00",
+  "updated_at": "2026-10-24T00:37:35-05:00"
 }
