@@ -92,10 +92,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Use any protein you like; the sauce recipe is available on the author's website.\n\nSource: https://www.facebook.com/share/r/16XSGMDXNu/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal · Fat 25g · Saturated fat 10g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 50mg · Sodium 900mg · Carbs 60g · Fiber 3g · Sugar 8g · Protein 20g",
-  "created_at": "2025-10-18T17:31:06.791+00:00",
-  "updated_at": "2026-07-19T06:52:05.169076+00:00",
   "deleted": false,
   "images": [
     "images/aba0e2be-9999-497c-856b-66d837a19af9/aba0e2be-9999-497c-856b-66d837a19af9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Turkey sausage is leaner than pork sausage.",
+      "Green onions and parsley add a little greenery."
+    ],
+    "not_healthy": [
+      "Heavy cream, butter and Parmesan add saturated fat.",
+      "Soy sauce, hoisin, gochujang and sausage make it very high in sodium.",
+      "Ramen noodles are refined and often fried."
+    ]
+  },
+  "created_at": "2025-10-18T17:31:06.791+00:00",
+  "updated_at": "2026-10-24T00:37:52-05:00"
 }
