@@ -47,10 +47,20 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/1CsLQSQRfK/\n\nNutrition: Serving 1 bar · Calories 200 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 150 mg · Carbs 30 g · Fiber 1 g · Sugar 15 g · Protein 2 g",
-  "created_at": "2025-09-20T03:55:45.275+00:00",
-  "updated_at": "2026-07-19T10:24:09.649272+00:00",
   "deleted": false,
   "images": [
     "images/eb54366d-8b5e-4a0a-ab58-826502299d5a/eb54366d-8b5e-4a0a-ab58-826502299d5a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Eggs add a little protein."
+    ],
+    "not_healthy": [
+      "Cake mix and a 12 oz bag of chocolate chips make it very high in added sugar.",
+      "Butter and chocolate add saturated fat.",
+      "Refined flour with little fiber."
+    ]
+  },
+  "created_at": "2025-09-20T03:55:45.275+00:00",
+  "updated_at": "2026-10-24T00:38:54-05:00"
 }
