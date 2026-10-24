@@ -41,6 +41,16 @@
   "notes": "Serves 2 per half sheet pan. 20 to 30 min total. Cooking for 1 on a work night: make a half batch, same temp, check a few minutes early.",
   "deleted": false,
   "id": "0fba731d0d13",
+  "nutrition": {
+    "healthy": [
+      "Potatoes give potassium and some fiber.",
+      "Oven baked with only 1 to 2 Tbsp oil instead of deep frying."
+    ],
+    "not_healthy": [
+      "Mostly starch with little protein.",
+      "Salt and seasoning blends add sodium."
+    ]
+  },
   "created_at": "2026-10-23T12:03:48-05:00",
-  "updated_at": "2026-10-23T12:03:48-05:00"
+  "updated_at": "2026-10-24T00:35:20-05:00"
 }
