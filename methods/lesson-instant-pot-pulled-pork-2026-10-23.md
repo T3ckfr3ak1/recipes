@@ -15,7 +15,13 @@ Source: Head Chef, from Joe's cook on Oct 23, 2026.
 
 ## Rule going forward
 - Large cuts in this pot on slow cook: set 212F. Pulled pork recipe (id d5b95a0f8164) now says 212F for 10 hours. The 10 hours is Head Chef's estimate; confirm or adjust from Joe's next result.
-- Final result of the Oct 23 cook: pending (Joe to report).
+- Final result of the Oct 23 cook: see "Final result" below.
 
 ## Applies to shredded chicken next
 - Same pot, same slow cook behavior: use one set temperature, timer starts at set point. Chicken cooks much faster than pork butt and needs a fresh plan; Head Chef pulls this file before planning it.
+
+## Final result (Oct 23, 2026)
+- Total cook: 8 h at 195F, about 40 min to climb from 195F to 212F (liquid bubbled before the pot beeped at temperature), then 2 h at 212F. KitchenAid glass lid, OEM stainless pot, no added liquid.
+- At the end it shredded easily and left a lot of hot juice in the pot.
+- Storage: cooled in the juice until it could be handled, then finished shredding, packed, and refrigerated within 2 h of turning the pot off. About half goes to the freezer.
+- Recipe d5b95a0f8164 stays at 212F for 10 hours for now. That's still an estimate until we've done a cook at 212F from the start.
