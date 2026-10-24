@@ -54,6 +54,16 @@
   "notes": "Ingredients are per 1 cup mix. Double for two hungry people. Never water.",
   "deleted": false,
   "id": "10d32d21dfb8",
+  "nutrition": {
+    "healthy": [
+      "Kodiak mix is whole grain and higher in protein than regular pancake mix.",
+      "Egg and whole milk add more protein and calcium."
+    ],
+    "not_healthy": [
+      "Butter and whole milk add saturated fat.",
+      "Maple syrup adds sugar."
+    ]
+  },
   "created_at": "2026-10-23T12:04:07-05:00",
-  "updated_at": "2026-10-23T12:04:07-05:00"
+  "updated_at": "2026-10-24T00:35:24-05:00"
 }
