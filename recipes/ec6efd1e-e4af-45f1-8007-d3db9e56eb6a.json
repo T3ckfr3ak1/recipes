@@ -56,10 +56,20 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "Optional: Add more garlic or parsley to taste.\n\nSource: https://www.facebook.com/share/v/17pNupxMDa/\n\nNutrition: Serving 1 roll · Calories 200 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 20 mg · Sodium 300 mg · Carbs 25 g · Fiber 1 g · Sugar 3 g · Protein 6 g",
-  "created_at": "2025-11-09T06:57:51.648+00:00",
-  "updated_at": "2026-07-19T10:27:55.685631+00:00",
   "deleted": false,
   "images": [
     "images/ec6efd1e-e4af-45f1-8007-d3db9e56eb6a/ec6efd1e-e4af-45f1-8007-d3db9e56eb6a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Mozzarella gives some protein and calcium."
+    ],
+    "not_healthy": [
+      "Sweet Hawaiian rolls are refined carbs with added sugar.",
+      "A stick of butter plus cheese adds a lot of saturated fat.",
+      "Garlic salt and salted butter add sodium."
+    ]
+  },
+  "created_at": "2025-11-09T06:57:51.648+00:00",
+  "updated_at": "2026-10-24T00:38:57-05:00"
 }
