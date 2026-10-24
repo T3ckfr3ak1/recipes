@@ -60,10 +60,20 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/17DZJQZhgr/\n\nNutrition: Serving 1 stuffed nacho · Calories 350 kcal · Fat 20 g · Saturated fat 5 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 50 mg · Sodium 700 mg · Carbs 30 g · Fiber 3 g · Sugar 4 g · Protein 15 g",
-  "created_at": "2025-10-18T17:53:30.496+00:00",
-  "updated_at": "2026-07-19T04:27:49.874006+00:00",
   "deleted": false,
   "images": [
     "images/8111535f-29dd-452f-8a02-5330e6f719ea/8111535f-29dd-452f-8a02-5330e6f719ea.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chili gives protein, and fiber if it has beans."
+    ],
+    "not_healthy": [
+      "Deep fried in vegetable oil.",
+      "Pizza dough and Cheez-Its add refined carbs and sodium.",
+      "Cheddar adds saturated fat."
+    ]
+  },
+  "created_at": "2025-10-18T17:53:30.496+00:00",
+  "updated_at": "2026-10-24T00:37:09-05:00"
 }
