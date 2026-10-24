@@ -21,7 +21,7 @@ Source: Head Chef, from Joe's cook on Oct 23, 2026.
 - Same pot, same slow cook behavior: use one set temperature, timer starts at set point. Chicken cooks much faster than pork butt and needs a fresh plan; Head Chef pulls this file before planning it.
 
 ## Final result (Oct 23, 2026)
-- Total cook: 8 h at 195F, about 40 min to climb from 195F to 212F (liquid bubbled before the pot beeped at temperature), then 2 h at 212F. Glass lid from his stainless pots and pans, OEM stainless pot, no added liquid.
+- Total cook: 8 h at 195F, about 40 min to climb from 195F to 212F (liquid bubbled before the pot beeped at temperature), then 2 h at 212F. KitchenAid glass lid from his stainless set, OEM stainless pot, no added liquid.
 - At the end it shredded easily and left a lot of hot juice in the pot.
 - Storage: cooled in the juice until it could be handled, then finished shredding, packed, and refrigerated within 2 h of turning the pot off. About half goes to the freezer.
 - Recipe revised to 212F for 8 hours (estimate). 10 hours was judged too long because the meat finished quickly at 212F after 8 h at 195F. Confirm on the next cook done at 212F from the start.
