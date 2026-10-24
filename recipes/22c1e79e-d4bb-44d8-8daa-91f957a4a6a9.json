@@ -84,10 +84,21 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1APDqr4sFi/\n\nNutrition: Serving 1/8 of dip · Calories 250 kcal · Fat 20 g · Saturated fat 10 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 70 mg · Sodium 700 mg · Carbs 8 g · Fiber 1 g · Sugar 3 g · Protein 12 g",
-  "created_at": "2025-11-25T05:37:48.414+00:00",
-  "updated_at": "2026-07-18T23:01:08.871581+00:00",
   "deleted": false,
   "images": [
     "images/22c1e79e-d4bb-44d8-8daa-91f957a4a6a9/22c1e79e-d4bb-44d8-8daa-91f957a4a6a9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Onion and pepperoncinis add a little vegetable.",
+      "Marinara adds tomato."
+    ],
+    "not_healthy": [
+      "Italian sausage and pepperoni are processed meats high in saturated fat and sodium.",
+      "Cream cheese, mozzarella and cheddar add more saturated fat.",
+      "Usually served with chips or bread."
+    ]
+  },
+  "created_at": "2025-11-25T05:37:48.414+00:00",
+  "updated_at": "2026-10-24T00:35:39-05:00"
 }
