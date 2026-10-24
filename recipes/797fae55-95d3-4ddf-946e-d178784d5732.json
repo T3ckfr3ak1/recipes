@@ -44,10 +44,21 @@
   "category": "Beverages",
   "source": "Flavorish",
   "notes": "Consume immediately for best results.\n\nSource: https://www.facebook.com/share/r/1FLdKh39t6/\n\nNutrition: Serving 1 glass · Calories Approximately 100 kcal · Fat 7g · Saturated fat 1g · Unsaturated fat 6g · Trans fat 0g · Cholesterol 0mg · Sodium 10mg · Carbs 25g · Fiber 2g · Sugar 20g · Protein 1g",
-  "created_at": "2026-01-01T07:32:38.219+00:00",
-  "updated_at": "2026-07-19T04:02:11.859967+00:00",
   "deleted": false,
   "images": [
     "images/797fae55-95d3-4ddf-946e-d178784d5732/797fae55-95d3-4ddf-946e-d178784d5732.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Watermelon is hydrating and has vitamins.",
+      "Olive oil adds unsaturated fat.",
+      "Lemon juice with no added sugar."
+    ],
+    "not_healthy": [
+      "The olive oil adds calories for a drink.",
+      "Not a meal; little protein or fiber."
+    ]
+  },
+  "created_at": "2026-01-01T07:32:38.219+00:00",
+  "updated_at": "2026-10-24T00:36:57-05:00"
 }
