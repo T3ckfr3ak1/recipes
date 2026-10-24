@@ -85,10 +85,22 @@
   "category": "Dinner",
   "source": "Flavorish",
   "notes": "Use fresh parsley for garnish and adjust seasoning to taste.\n\nSource: https://www.facebook.com/share/v/1CEnuCAbVD/\n\nNutrition: Serving 1 plate · Calories Approximately 600 kcal · Fat 30g · Saturated fat 15g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 150mg · Sodium 800mg · Carbs 70g · Fiber 5g · Sugar 8g · Protein 35g",
-  "created_at": "2025-11-23T17:06:07.118+00:00",
-  "updated_at": "2026-07-19T00:00:52.886062+00:00",
   "deleted": false,
   "images": [
     "images/33d194e8-1e54-4e18-9869-841885006b69/33d194e8-1e54-4e18-9869-841885006b69.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken gives protein.",
+      "Broccoli and sun-dried tomatoes add vegetables.",
+      "Olive oil adds unsaturated fat."
+    ],
+    "not_healthy": [
+      "Heavy cream, butter and Parmesan make the sauce high in saturated fat.",
+      "White pasta is refined carbs.",
+      "Parmesan and chicken stock add sodium."
+    ]
+  },
+  "created_at": "2025-11-23T17:06:07.118+00:00",
+  "updated_at": "2026-10-24T00:35:56-05:00"
 }
