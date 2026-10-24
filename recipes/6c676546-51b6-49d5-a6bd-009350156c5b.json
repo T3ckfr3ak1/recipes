@@ -122,10 +122,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1Co3kanMdT/\n\nNutrition: Serving 1 bowl · Calories Approximately 400 kcal per serving · Fat 15g · Saturated fat 5g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 80mg · Sodium 800mg · Carbs 50g · Fiber 8g · Sugar 10g · Protein 25g",
-  "created_at": "2025-11-23T15:41:17.134+00:00",
-  "updated_at": "2026-07-19T03:18:00.883324+00:00",
   "deleted": false,
   "images": [
     "images/6c676546-51b6-49d5-a6bd-009350156c5b/6c676546-51b6-49d5-a6bd-009350156c5b.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Lots of vegetables: onions, mushrooms, celery and several kinds of tomatoes.",
+      "Ground beef and eggs give protein.",
+      "Uses no salt seasoning for part of the flavor."
+    ],
+    "not_healthy": [
+      "Two pounds of hamburger adds saturated fat.",
+      "Canned tomatoes, broth and salt add sodium.",
+      "Crackers or bread crumbs add refined carbs."
+    ]
+  },
+  "created_at": "2025-11-23T15:41:17.134+00:00",
+  "updated_at": "2026-10-24T00:36:46-05:00"
 }
