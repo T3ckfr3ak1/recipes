@@ -52,6 +52,16 @@
   "notes": "About 1 hour. Joe likes them medium rare: pull at about 135°F, then rest. (USDA guidance is 145°F with a 3 minute rest.)\nOven-only option: Air Fry mode 400°F preheated, rack over sheet pan, 10 to 16 min, flip halfway, start checking at 8 min. Less even, still good.",
   "deleted": false,
   "id": "52da64a62873",
+  "nutrition": {
+    "healthy": [
+      "Thick pork chops give plenty of protein.",
+      "Simple pan sear with little added fat."
+    ],
+    "not_healthy": [
+      "Pork rub and salt add sodium.",
+      "Butter adds a little saturated fat."
+    ]
+  },
   "created_at": "2026-10-23T12:04:12-05:00",
-  "updated_at": "2026-10-23T12:04:12-05:00"
+  "updated_at": "2026-10-24T00:36:30-05:00"
 }
