@@ -63,10 +63,21 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "The author suggests serving these over pasta, in a hoagie roll, or as an appetizer. They also recommend stirring occasionally during the cooking process.\n\nSource: https://www.facebook.com/share/v/1NzMb8pey3/\n\nNutrition: Serving 1 serving · Calories 350 · Fat 28g · Saturated fat 12g · Unsaturated fat 14g · Trans fat 0g · Cholesterol 75mg · Sodium 950mg · Carbs 8g · Fiber 1g · Sugar 2g · Protein 18g",
-  "created_at": "2026-08-08T16:27:05.566158+00:00",
-  "updated_at": "2026-08-08T16:27:05.566158+00:00",
   "deleted": false,
   "images": [
     "images/cdd19229-b06a-4e07-bbed-462b774e67fd/cdd19229-b06a-4e07-bbed-462b774e67fd.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Meatballs give protein.",
+      "Pepperoncinis add a little vegetable."
+    ],
+    "not_healthy": [
+      "Frozen meatballs are processed and high in sodium.",
+      "Au jus and ranch packets add a lot more sodium.",
+      "A whole stick of butter adds saturated fat."
+    ]
+  },
+  "created_at": "2026-08-08T16:27:05.566158+00:00",
+  "updated_at": "2026-10-24T00:38:26-05:00"
 }
