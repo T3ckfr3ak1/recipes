@@ -83,10 +83,21 @@
   "category": "Main Dish",
   "source": "Flavorish",
   "notes": "You can serve this on top of rice, on a bed of lettuce, or inside a tortilla.\n\nSource: https://www.facebook.com/reel/27015152664842689/?sfnsn=mo&mibextid=6AJuK9\n\nNutrition: Serving 1 serving · Calories 450 kcal · Fat 28g · Saturated fat 14g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 110mg · Sodium 950mg · Carbs 18g · Fiber 4g · Sugar 3g · Protein 32g",
-  "created_at": "2026-07-30T01:02:53.400081+00:00",
-  "updated_at": "2026-07-30T01:02:53.400081+00:00",
   "deleted": false,
   "images": [
     "images/f18bbd10-a373-434a-942a-eaf27979381c/f18bbd10-a373-434a-942a-eaf27979381c.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken gives protein.",
+      "Refried beans add fiber.",
+      "Green chilies and green onions add vegetables."
+    ],
+    "not_healthy": [
+      "Cream cheese and shredded cheese add saturated fat.",
+      "Enchilada sauce, taco seasoning and canned chilies make it high in sodium."
+    ]
+  },
+  "created_at": "2026-07-30T01:02:53.400081+00:00",
+  "updated_at": "2026-10-24T00:39:09-05:00"
 }
