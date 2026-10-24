@@ -2,6 +2,7 @@
 
 - **Model:** Samsung freestanding gas range NX60A6511SS/AA (Joe, Oct 24, 2026). Fingerprint-resistant stainless, 6.0 cu. ft. Five burners: right front 18,000 BTU dual ring, left front 17,000 BTU, right rear 5,000 BTU, left rear 9,500 BTU, center oval 10,000 BTU. Oven modes include Bake, Convection Bake, Convection Roast, Broil (low/high), Air Fry, Bread Proof, and Dehydrate. The Air Fry tray is sold separately. Owner's manual: `appliance-manuals/samsung-nx60a6511ss.pdf`.
 - **What Joe described (Oct 24, 2026):** Samsung stainless, all gas, matching the ME21M706BAS microwave. Five-burner cooktop with a center oval burner. Oven modes he named: Air Fry, Dehydrate, Bake, Convection Bake, and Broil. This file is that range.
+- **Air fry setup (Joe, Oct 24, 2026):** the 1-inch stainless baking pan with its wire rack. The rack holds the food and the pan is the drip tray. See `stainless-baking-pan.md`. He also bakes on a pizza pan, a large sheet pan with a 1/2-inch lip, or in that same stainless pan.
 - **What it is (Joe, to Thrifty, Oct 20, 2026):** "i dont have an air fryer, i have a samsung oven with an air fry feature but its somewhere between air frying and baking"
 - **Modes used in Joe's recipes:** Bake and Air Fry. The meal pack uses regular Bake mode for frozen pizza, potatoes (Air Fry also works) and the pork chop reverse sear, and Air Fry mode for most other oven steps.
 
