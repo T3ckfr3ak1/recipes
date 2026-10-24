@@ -101,10 +101,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Feel free to adjust the spice levels with more or less red pepper flakes and hot sauce to suit your taste.\n\nSource: https://www.facebook.com/share/r/1AAuxefb5U/\n\nNutrition: Serving 1 bowl · Calories Approximately 600 kcal · Fat 25g · Saturated fat 10g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 50mg · Sodium 800mg · Carbs 80g · Fiber 4g · Sugar 8g · Protein 30g",
-  "created_at": "2025-11-23T17:01:46.484+00:00",
-  "updated_at": "2026-07-19T09:54:57.139162+00:00",
   "deleted": false,
   "images": [
     "images/e2a984a1-db88-4539-a286-3a08f5f8715e/e2a984a1-db88-4539-a286-3a08f5f8715e.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Shaved steak gives plenty of protein.",
+      "Lots of garlic and shallot."
+    ],
+    "not_healthy": [
+      "Butter, Parmesan and evaporated milk add saturated fat.",
+      "Creole seasoning, Parmesan and salt add sodium.",
+      "A pound of white pasta is mostly refined carbs."
+    ]
+  },
+  "created_at": "2025-11-23T17:01:46.484+00:00",
+  "updated_at": "2026-10-24T00:38:46-05:00"
 }
