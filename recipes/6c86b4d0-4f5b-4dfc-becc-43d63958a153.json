@@ -80,10 +80,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Adjust chili sauce to preferred spice level. Optional ingredients like bulgogi can be added for extra flavor.\n\nSource: https://www.facebook.com/share/r/1AGzmZ7MwM/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal per serving · Fat 20g · Saturated fat 3g · Unsaturated fat 17g · Trans fat 0g · Cholesterol 30mg · Sodium 700mg · Carbs 60g · Fiber 8g · Sugar 5g · Protein 25g",
-  "created_at": "2025-10-17T03:49:43.618+00:00",
-  "updated_at": "2026-07-19T03:18:24.060054+00:00",
   "deleted": false,
   "images": [
     "images/6c86b4d0-4f5b-4dfc-becc-43d63958a153/6c86b4d0-4f5b-4dfc-becc-43d63958a153.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Tuna gives protein.",
+      "Carrots, potatoes, avocado and seaweed add vegetables and fiber.",
+      "Avocado adds healthy fats."
+    ],
+    "not_healthy": [
+      "Mayo adds a lot of fat.",
+      "Canned seasoned tuna, furikake and chili sauce add sodium.",
+      "White rice is refined carbs."
+    ]
+  },
+  "created_at": "2025-10-17T03:49:43.618+00:00",
+  "updated_at": "2026-10-24T00:36:48-05:00"
 }
