@@ -127,10 +127,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1DjhHwSqbJ/\n\nNutrition: Serving 1 bowl · Calories Approximately 500 kcal · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 100mg · Sodium 800mg · Carbs 50g · Fiber 5g · Sugar 8g · Protein 40g",
-  "created_at": "2025-11-27T15:39:48.697+00:00",
-  "updated_at": "2026-07-18T21:18:52.524754+00:00",
   "deleted": false,
   "images": [
     "images/05ea45eb-d40b-409f-83c6-1d093294097a/05ea45eb-d40b-409f-83c6-1d093294097a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Beef shanks give plenty of protein.",
+      "Lots of vegetables: bell pepper, carrots, onion, celery, tomatoes and jalapenos.",
+      "Spices add flavor without added sugar."
+    ],
+    "not_healthy": [
+      "Seared in lard, which adds saturated fat.",
+      "Beef broth, canned Rotel and jalapeno juice add sodium.",
+      "Flour dredge and rice or potato sides add refined starch."
+    ]
+  },
+  "created_at": "2025-11-27T15:39:48.697+00:00",
+  "updated_at": "2026-10-24T00:35:14-05:00"
 }
