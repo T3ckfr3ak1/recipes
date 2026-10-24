@@ -93,10 +93,21 @@
   "category": "Sandwiches",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1BNkjKYpn4/\n\nNutrition: Serving 1 sandwich · Calories Approximate 500 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 60mg · Sodium 900mg · Carbs 50g · Fiber 4g · Sugar 12g · Protein 25g",
-  "created_at": "2025-10-18T17:54:13.871+00:00",
-  "updated_at": "2026-07-19T03:17:26.207118+00:00",
   "deleted": false,
   "images": [
     "images/6c392cf6-6f98-4290-b181-23e913636ad9/6c392cf6-6f98-4290-b181-23e913636ad9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion and tomato sauce add some vegetables."
+    ],
+    "not_healthy": [
+      "Brown sugar and ketchup add sugar.",
+      "Bouillon powder, ketchup and cheese make it high in sodium.",
+      "Texas toast with mayo and cheese adds refined carbs and saturated fat."
+    ]
+  },
+  "created_at": "2025-10-18T17:54:13.871+00:00",
+  "updated_at": "2026-10-24T00:36:44-05:00"
 }
