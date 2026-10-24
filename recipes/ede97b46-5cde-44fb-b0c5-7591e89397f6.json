@@ -87,10 +87,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/14T5N1RZTAZ/\n\nNutrition: Serving 1 bowl · Calories Approximately 400 kcal per serving · Fat 20g · Saturated fat 8g · Unsaturated fat 12g · Trans fat 0g · Cholesterol 80mg · Sodium 700mg · Carbs 45g · Fiber 4g · Sugar 8g · Protein 35g",
-  "created_at": "2025-11-27T00:13:23.507+00:00",
-  "updated_at": "2026-07-19T10:32:50.822155+00:00",
   "deleted": false,
   "images": [
     "images/ede97b46-5cde-44fb-b0c5-7591e89397f6/ede97b46-5cde-44fb-b0c5-7591e89397f6.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "93/7 lean beef gives lots of protein with less fat.",
+      "Uses Greek yogurt and sugar-free chili sauce to lighten it.",
+      "Onion and jalapenos add vegetables."
+    ],
+    "not_healthy": [
+      "Bacon, cheddar and cream cheese add saturated fat.",
+      "Bacon, pickled jalapenos and Worcestershire add sodium.",
+      "Jasmine rice is refined carbs."
+    ]
+  },
+  "created_at": "2025-11-27T00:13:23.507+00:00",
+  "updated_at": "2026-10-24T00:39:01-05:00"
 }
