@@ -62,10 +62,20 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "This is a favorite among no-bake pies. If you like root beer floats, you have to try this.\n\nSource: https://www.facebook.com/share/v/1CqMUvVhyK/\n\nNutrition: Serving 1 slice · Calories 280 · Fat 14g · Saturated fat 8g · Unsaturated fat 5g · Trans fat 0g · Cholesterol 10mg · Sodium 250mg · Carbs 35g · Fiber 1g · Sugar 22g · Protein 2g",
-  "created_at": "2026-07-31T19:46:28.435156+00:00",
-  "updated_at": "2026-07-31T19:46:28.435156+00:00",
   "deleted": false,
   "images": [
     "images/a517c69f-3450-4b39-b03c-8c096f732cc0/a517c69f-3450-4b39-b03c-8c096f732cc0.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "None really; it's a frozen dessert."
+    ],
+    "not_healthy": [
+      "Instant pudding, root beer, whipped topping, graham crust and cherries are high in added sugar.",
+      "Whipped topping and crust add saturated fat.",
+      "Highly processed with little fiber or protein."
+    ]
+  },
+  "created_at": "2026-07-31T19:46:28.435156+00:00",
+  "updated_at": "2026-10-24T00:37:46-05:00"
 }
