@@ -62,6 +62,16 @@
   "notes": "20 min. Leftover cooked patties: fridge 3 to 4 days, or freeze. Reheat in microwave at 50% power 1 to 2 min, or in a skillet.",
   "deleted": false,
   "id": "ca1bb4cb4382",
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives plenty of protein."
+    ],
+    "not_healthy": [
+      "80/20 beef, cheese and butter add saturated fat.",
+      "Pretzel buns are refined flour and often salty.",
+      "Mayo, BBQ sauce, ketchup and candied jalapenos add fat and sugar."
+    ]
+  },
   "created_at": "2026-10-23T12:04:19-05:00",
-  "updated_at": "2026-10-23T12:04:19-05:00"
+  "updated_at": "2026-10-24T00:38:18-05:00"
 }
