@@ -35,6 +35,14 @@
 ## To find out
 - Bacon (not all like it), hash browns, per-kid veggies.
 
+## McDonald's orders
+
+Per Joe via Meal Plan, Oct 24, 2026.
+
+- Lincoln: triple cheeseburger with only cheese, ketchup, and extra pickles (so he does eat cheese on burgers and likes pickles). Sometimes eats fries.
+- Warren: spicy McChicken. Wants fries.
+- Augustus: 10-piece chicken nuggets. Wants fries.
+
 ## Joe's rules for kid meals
 - Avoid processed or reformed meat (prefers whole-muscle like Tyson chunks).
 - Rarely buys hot dogs.
