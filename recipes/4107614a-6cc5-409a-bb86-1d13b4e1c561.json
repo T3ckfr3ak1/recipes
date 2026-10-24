@@ -80,10 +80,20 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/v/1AxzeNxESa/\n\nNutrition: Serving 1 slice · Calories Approximately 350 kcal per serving · Fat 20g · Saturated fat 10g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 150mg · Sodium 800mg · Carbs 30g · Fiber 3g · Sugar 3g · Protein 15g",
-  "created_at": "2025-09-19T05:01:12.103+00:00",
-  "updated_at": "2026-07-19T00:46:53.528012+00:00",
   "deleted": false,
   "images": [
     "images/4107614a-6cc5-409a-bb86-1d13b4e1c561/4107614a-6cc5-409a-bb86-1d13b4e1c561.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Eight eggs and ham give plenty of protein."
+    ],
+    "not_healthy": [
+      "Ham is processed meat high in sodium.",
+      "Cheese and sour cream add saturated fat.",
+      "Tater tots are fried, processed potatoes."
+    ]
+  },
+  "created_at": "2025-09-19T05:01:12.103+00:00",
+  "updated_at": "2026-10-24T00:36:07-05:00"
 }
