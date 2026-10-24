@@ -100,10 +100,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Let the spaghetti cool down before serving.\n\nSource: https://www.facebook.com/share/v/1AdCKM2R1A/\n\nNutrition: Serving 1 serving · Calories 650 kcal · Fat 40g · Saturated fat 20g · Unsaturated fat 19g · Trans fat 1g · Cholesterol 150mg · Sodium 1200mg · Carbs 45g · Fiber 3g · Sugar 8g · Protein 30g",
-  "created_at": "2026-01-28T05:01:27.276+00:00",
-  "updated_at": "2026-07-19T09:25:41.336831+00:00",
   "deleted": false,
   "images": [
     "images/d9e8087f-c7b9-4bff-95a7-eb8718d5cfb6/d9e8087f-c7b9-4bff-95a7-eb8718d5cfb6.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Sausage, beef and cheeses give lots of protein.",
+      "Marinara and onion add some vegetables."
+    ],
+    "not_healthy": [
+      "Italian sausage is processed meat high in sodium and saturated fat.",
+      "Cream cheese, sour cream, mozzarella and Parmesan add a lot of saturated fat.",
+      "White spaghetti is refined carbs."
+    ]
+  },
+  "created_at": "2026-01-28T05:01:27.276+00:00",
+  "updated_at": "2026-10-24T00:38:33-05:00"
 }
