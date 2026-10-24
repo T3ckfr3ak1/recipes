@@ -98,10 +98,20 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "The recipe uses a combination of cheeses and a unique crunchy topping made from crushed Cheez-Its.\n\nSource: https://www.facebook.com/share/v/1EUWyudLXM/\n\nNutrition: Serving 1 cup · Calories 650 · Fat 42g · Saturated fat 24g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 95mg · Sodium 1100mg · Carbs 45g · Fiber 2g · Sugar 5g · Protein 22g",
-  "created_at": "2026-07-08T02:12:13.726822+00:00",
-  "updated_at": "2026-07-08T02:12:13.726822+00:00",
   "deleted": false,
   "images": [
     "images/3d9d7038-a6c1-41e1-8b13-fcb8a5bacf1b/3d9d7038-a6c1-41e1-8b13-fcb8a5bacf1b.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Cheese and milk give protein and calcium."
+    ],
+    "not_healthy": [
+      "Butter, half and half, cream cheese and four cheeses make it very high in saturated fat.",
+      "Processed American cheese, cheddar and Cheez-Its add lots of sodium.",
+      "White macaroni is refined carbs with little fiber."
+    ]
+  },
+  "created_at": "2026-07-08T02:12:13.726822+00:00",
+  "updated_at": "2026-10-24T00:36:05-05:00"
 }
