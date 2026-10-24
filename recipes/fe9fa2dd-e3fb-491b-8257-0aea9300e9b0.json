@@ -94,10 +94,21 @@
   "category": "Dinner",
   "source": "Flavorish",
   "notes": "Feel free to customize with additional ingredients like bacon bits or different cheeses for variation.\n\nSource: https://www.facebook.com/share/v/19eRRW4vZs/\n\nNutrition: Serving 1 bowl · Calories Approximate, varies based on cheese and beef used · Fat Variable, depends on beef and cheese · Saturated fat Variable, depends on cheese and beef · Unsaturated fat Variable, depends on cheese and beef · Trans fat Negligible, unless processed ingredients are used · Cholesterol Variable, depends on beef and cheese · Sodium Variable, depends on broth and added seasonings · Carbs Approximate, varies based on noodles · Fiber Variable, depends on noodles and added vegetables · Sugar Minimal, unless added in ketchup or other ingredients · Protein Variable, depends on beef and cheese",
-  "created_at": "2025-10-18T05:50:09.54+00:00",
-  "updated_at": "2026-07-19T11:28:43.126698+00:00",
   "deleted": false,
   "images": [
     "images/fe9fa2dd-e3fb-491b-8257-0aea9300e9b0/fe9fa2dd-e3fb-491b-8257-0aea9300e9b0.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives lots of protein.",
+      "Made from scratch instead of a boxed mix."
+    ],
+    "not_healthy": [
+      "2.5 lb ground beef and lots of cheese add saturated fat.",
+      "Beef broth, garlic salt, pickle juice and cheese make it high in sodium.",
+      "Egg noodles are refined carbs."
+    ]
+  },
+  "created_at": "2025-10-18T05:50:09.54+00:00",
+  "updated_at": "2026-10-24T00:39:23-05:00"
 }
