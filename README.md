@@ -12,4 +12,4 @@ All times are ISO 8601 with offset. Deleted recipes stay with `deleted: true` an
 - `equipment/`: one markdown file per cooking tool or appliance Joe owns, with model and known settings or quirks.
 - `methods/`: one markdown file per cooking method, conversion rule, or lesson learned, citing which bot and date it came from.
 - `preferences/`: Joe's food likes, dislikes and brand rules.
-- `app-update-recommendations.md`: suggestions for the app in `app/`. Agents append there. The app does not load this file.
+- `appliance-manuals/`: owner's manuals for appliances in `equipment/`. The app does not load this folder.
