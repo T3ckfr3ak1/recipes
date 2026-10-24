@@ -103,10 +103,21 @@
   "category": "Side Dish",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1AyNeAoJLw/\n\nNutrition: Serving 1 cup · Calories 250 · Fat 12g · Saturated fat 4g · Unsaturated fat 8g · Trans fat 0g · Cholesterol 40mg · Sodium 600mg · Carbs 35g · Fiber 5g · Sugar 15g · Protein 10g",
-  "created_at": "2025-11-27T03:27:16.939+00:00",
-  "updated_at": "2026-07-19T10:30:57.593929+00:00",
   "deleted": false,
   "images": [
     "images/ed575556-0fc8-46b5-80e2-88ea07330c7a/ed575556-0fc8-46b5-80e2-88ea07330c7a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Beans give fiber and plant protein.",
+      "Onion and green bell pepper add vegetables."
+    ],
+    "not_healthy": [
+      "A bottle of BBQ sauce plus 1/2 cup brown sugar make it very high in sugar.",
+      "Smoked sausage is processed meat high in sodium and saturated fat.",
+      "A stick of butter and ground meat add more saturated fat."
+    ]
+  },
+  "created_at": "2025-11-27T03:27:16.939+00:00",
+  "updated_at": "2026-10-24T00:38:59-05:00"
 }
