@@ -49,6 +49,16 @@
   "notes": "15 min.",
   "deleted": false,
   "id": "65edce66bb09",
+  "nutrition": {
+    "healthy": [
+      "Pulled pork gives protein."
+    ],
+    "not_healthy": [
+      "Tortilla chips and pepper jack add fat and sodium.",
+      "Sour cream and ranch add saturated fat.",
+      "BBQ sauce and candied jalapenos add sugar."
+    ]
+  },
   "created_at": "2026-10-23T12:04:17-05:00",
-  "updated_at": "2026-10-23T12:04:17-05:00"
+  "updated_at": "2026-10-24T00:36:42-05:00"
 }
