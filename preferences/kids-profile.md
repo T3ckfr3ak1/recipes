@@ -24,7 +24,7 @@
 
 ## Lincoln (L), 12
 - Not very picky. No spicy food.
-- Not a cheese fan. Won't eat mac and cheese.
+- Eats cheese, but not creamy cheese or a lot of cheese (no grilled cheese, no mac and cheese). Loves pizza and eats a slice on burgers. Go light on cheese in shared dishes like quesadillas and nachos.
 - Eats Tyson BBQ chicken chunks.
 - Not picky on deli sandwiches.
 
