@@ -42,10 +42,20 @@
   "category": "Dessert",
   "source": "Flavorish",
   "notes": "This recipe comes out somewhere between a soufflé, cake and cloud bread. It's perfect for when you want dessert but still want to smash your protein for the day! You can eat the whole thing without guilt. The author also mentions that chocolate protein powder would be amazing in this recipe.\n\nSource: https://www.facebook.com/share/r/1DnqTQraSh/\n\nNutrition: Serving Whole recipe · Calories 250 calories · Fat 0g fat · Saturated fat 0g · Unsaturated fat 0g · Trans fat 0g · Cholesterol 0mg · Sodium 0mg · Carbs 3g carbs · Fiber 0g · Sugar 0g · Protein 58g protein",
-  "created_at": "2026-06-30T05:31:17.767485+00:00",
-  "updated_at": "2026-06-30T05:31:17.767485+00:00",
   "deleted": false,
   "images": [
     "images/9116681c-9fc6-4853-9cb3-010d44605b70/9116681c-9fc6-4853-9cb3-010d44605b70.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Egg whites and protein powder make it very high in protein and low in fat.",
+      "Uses sweetener instead of sugar."
+    ],
+    "not_healthy": [
+      "Protein powder and sweetener are processed ingredients.",
+      "No fiber, fruit or other nutrients."
+    ]
+  },
+  "created_at": "2026-06-30T05:31:17.767485+00:00",
+  "updated_at": "2026-10-24T00:37:22-05:00"
 }
