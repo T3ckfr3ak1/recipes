@@ -113,10 +113,22 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/19aMxayHq4/\n\nNutrition: Serving 1 bowl · Calories Approximately 450 kcal · Fat 15g · Saturated fat 8g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 70mg · Sodium 900mg · Carbs 60g · Fiber 5g · Sugar 8g · Protein 25g",
-  "created_at": "2025-09-19T05:07:42.969+00:00",
-  "updated_at": "2026-07-19T07:07:06.094535+00:00",
   "deleted": false,
   "images": [
     "images/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion, garlic and tomatoes add vegetables.",
+      "Plenty of spices for flavor."
+    ],
+    "not_healthy": [
+      "2 tsp salt, broth, marinara, canned tomatoes and soy sauce make it high in sodium.",
+      "Ground beef and cheddar add saturated fat.",
+      "Elbow macaroni is refined carbs."
+    ]
+  },
+  "created_at": "2025-09-19T05:07:42.969+00:00",
+  "updated_at": "2026-10-24T00:37:56-05:00"
 }
