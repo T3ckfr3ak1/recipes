@@ -6,9 +6,9 @@
   "cook_minutes": null,
   "ingredients": [
     {
-      "quantity": "about 1",
+      "quantity": "about 1/2",
       "unit": "lb",
-      "item": "russet potatoes, diced 3/4 inch",
+      "item": "russet potato (1 medium), diced 3/4 inch",
       "note": "or oven hash browns instead (R2, Oven Hash Browns, recipes/0fba731d0d13.json)"
     },
     {
@@ -91,5 +91,5 @@
     "minutes": 25
   },
   "created_at": "2026-10-23T12:04:20-05:00",
-  "updated_at": "2026-10-24T15:17:49-05:00"
+  "updated_at": "2026-10-24T15:18:38-05:00"
 }
