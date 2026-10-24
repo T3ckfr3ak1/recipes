@@ -54,6 +54,17 @@
   "notes": null,
   "deleted": false,
   "id": "33a19be43be9",
+  "nutrition": {
+    "healthy": [
+      "Pulled pork gives protein.",
+      "Corn adds a little fiber."
+    ],
+    "not_healthy": [
+      "Pepper jack, sour cream and ranch add saturated fat.",
+      "BBQ sauce and candied jalapenos add sugar.",
+      "Rub, cheese and sauces add sodium."
+    ]
+  },
   "created_at": "2026-10-23T12:03:51-05:00",
-  "updated_at": "2026-10-23T12:03:51-05:00"
+  "updated_at": "2026-10-24T00:35:52-05:00"
 }
