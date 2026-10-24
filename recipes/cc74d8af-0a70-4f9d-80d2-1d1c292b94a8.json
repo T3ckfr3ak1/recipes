@@ -47,10 +47,20 @@
   "category": "Dinner",
   "source": "Flavorish",
   "notes": "Adjust cooking time as needed to melt cheese and toast to your preference.\n\nSource: https://www.facebook.com/share/r/1JiUdWkRRf/\n\nNutrition: Serving 1 toast with topping · Calories Approximate 350 kcal per serving · Fat 15g · Saturated fat 8g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 60mg · Sodium 800mg · Carbs 40g · Fiber 3g · Sugar 8g · Protein 20g",
-  "created_at": "2025-11-04T05:31:02.703+00:00",
-  "updated_at": "2026-07-19T08:40:12.666055+00:00",
   "deleted": false,
   "images": [
     "images/cc74d8af-0a70-4f9d-80d2-1d1c292b94a8/cc74d8af-0a70-4f9d-80d2-1d1c292b94a8.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein."
+    ],
+    "not_healthy": [
+      "Canned sloppy joe sauce has added sugar and sodium.",
+      "Frozen garlic Texas toast is refined bread with added fat.",
+      "Provolone adds saturated fat and sodium."
+    ]
+  },
+  "created_at": "2025-11-04T05:31:02.703+00:00",
+  "updated_at": "2026-10-24T00:38:22-05:00"
 }
