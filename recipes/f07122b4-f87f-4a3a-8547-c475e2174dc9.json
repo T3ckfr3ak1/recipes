@@ -71,10 +71,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Keep flaxseed in the fridge to preserve delicate omegas. You can also prepare this as overnight oats by keeping it cold.\n\nSource: https://www.facebook.com/share/v/19GtMX34pe/\n\nNutrition: Serving 1 bowl · Calories 450 kcal · Fat 12g · Saturated fat 1g · Unsaturated fat 10g · Trans fat 0g · Cholesterol 0mg · Sodium 150mg · Carbs 65g · Fiber 15g · Sugar 18g · Protein 25g",
-  "created_at": "2026-08-03T06:47:06.400957+00:00",
-  "updated_at": "2026-08-03T06:47:06.400957+00:00",
   "deleted": false,
   "images": [
     "images/f07122b4-f87f-4a3a-8547-c475e2174dc9/f07122b4-f87f-4a3a-8547-c475e2174dc9.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Oats, chia and flaxseed give lots of fiber.",
+      "Raspberries and strawberries add fruit and vitamins.",
+      "Protein powder adds protein, and chia and flax add omega-3 fats."
+    ],
+    "not_healthy": [
+      "Honey adds some sugar.",
+      "Protein powder is a processed ingredient."
+    ]
+  },
+  "created_at": "2026-08-03T06:47:06.400957+00:00",
+  "updated_at": "2026-10-24T00:39:03-05:00"
 }
