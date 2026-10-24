@@ -75,10 +75,20 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Adjust toppings and condiments to taste.\n\nSource: https://www.facebook.com/share/v/175xVRveY3/\n\nNutrition: Serving 1 burger · Calories Approximately 700 kcal · Fat 45 g · Saturated fat 20 g · Unsaturated fat 25 g · Trans fat 0 g · Cholesterol 150 mg · Sodium 900 mg · Carbs 50 g · Fiber 2 g · Sugar 5 g · Protein 45 g",
-  "created_at": "2025-11-22T23:23:10.18+00:00",
-  "updated_at": "2026-07-19T05:20:26.804815+00:00",
   "deleted": false,
   "images": [
     "images/90c736a1-0837-4ea5-9030-93d9ff869714/90c736a1-0837-4ea5-9030-93d9ff869714.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef and bacon give lots of protein."
+    ],
+    "not_healthy": [
+      "80/20 beef, bacon, two cheeses and sour cream make it very high in saturated fat.",
+      "Ranch seasoning, bacon and cheese make it very high in sodium.",
+      "White buns and steak sauce add refined carbs and sugar."
+    ]
+  },
+  "created_at": "2025-11-22T23:23:10.18+00:00",
+  "updated_at": "2026-10-24T00:37:18-05:00"
 }
