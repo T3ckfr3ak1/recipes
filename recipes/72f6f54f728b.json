@@ -41,6 +41,16 @@
   "notes": "If thawed in the fridge overnight: skip the defrost step, 50% power 2 to 3 min, flip halfway. More even.\nEven quicker and more even: slice the chop thin while partly frozen, then warm the slices at 50% power 1 to 2 min.\nFood safety note: USDA recommends reheating leftovers to 165°F. Warming to about 120 to 130°F keeps it medium; that's your call.\nWant a crust back? After microwaving, 45 sec per side in a very hot skillet with butter.",
   "deleted": false,
   "id": "72f6f54f728b",
+  "nutrition": {
+    "healthy": [
+      "Pork chop gives plenty of protein.",
+      "Reheated with water or broth instead of added fat."
+    ],
+    "not_healthy": [
+      "Salt and broth add some sodium.",
+      "No vegetables or fiber on its own."
+    ]
+  },
   "created_at": "2026-10-23T12:04:13-05:00",
-  "updated_at": "2026-10-23T12:04:13-05:00"
+  "updated_at": "2026-10-24T00:36:53-05:00"
 }
