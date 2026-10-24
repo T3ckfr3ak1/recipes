@@ -101,10 +101,20 @@
   "category": "Condiments",
   "source": "Flavorish",
   "notes": "This jam can be made in advance and frozen for a very long time. It is excellent served on steak, hamburgers, or anywhere you want to add flavor. It can be stored in small containers like pesto.\n\nSource: https://www.facebook.com/share/v/199qAu8Q6y/\n\nNutrition: Serving 1 tablespoon · Calories 75 · Fat 6g · Saturated fat 2g · Unsaturated fat 4g · Trans fat 0g · Cholesterol 15mg · Sodium 150mg · Carbs 5g · Fiber 0.5g · Sugar 4g · Protein 2g",
-  "created_at": "2026-06-14T05:13:38.096+00:00",
-  "updated_at": "2026-07-18T23:36:28.528098+00:00",
   "deleted": false,
   "images": [
     "images/2cadf767-610d-41ad-bb1a-4164a4d12f39/2cadf767-610d-41ad-bb1a-4164a4d12f39.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Onion, garlic, chili peppers and herbs add some plant nutrients.",
+      "Used as a condiment, so portions are small."
+    ],
+    "not_healthy": [
+      "Bacon is processed meat high in sodium and saturated fat.",
+      "Brown sugar, maple syrup and maple balsamic add a lot of sugar."
+    ]
+  },
+  "created_at": "2026-06-14T05:13:38.096+00:00",
+  "updated_at": "2026-10-24T00:35:50-05:00"
 }
