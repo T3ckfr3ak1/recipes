@@ -45,10 +45,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Serve with fruit or powdered sugar if desired.\n\nSource: https://www.facebook.com/share/v/1F5y3ELNWx/\n\nNutrition: Serving 1 slice · Calories 280 · Fat 18g · Saturated fat 9g · Unsaturated fat 7g · Trans fat 0g · Cholesterol 280mg · Sodium 250mg · Carbs 12g · Fiber 0g · Sugar 8g · Protein 14g",
-  "created_at": "2026-07-05T06:28:24.241381+00:00",
-  "updated_at": "2026-07-05T06:28:24.241381+00:00",
   "deleted": false,
   "images": [
     "images/94d24cac-2061-4c15-a5a2-c66aceb9db7a/94d24cac-2061-4c15-a5a2-c66aceb9db7a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Nine eggs give lots of protein.",
+      "No sugar in the batter.",
+      "Milk adds calcium."
+    ],
+    "not_healthy": [
+      "Butter adds saturated fat.",
+      "Usually served with sweet toppings."
+    ]
+  },
+  "created_at": "2026-07-05T06:28:24.241381+00:00",
+  "updated_at": "2026-10-24T00:37:31-05:00"
 }
