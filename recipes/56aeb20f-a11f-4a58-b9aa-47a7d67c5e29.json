@@ -53,10 +53,21 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "Source: https://www.facebook.com/share/r/1BcqiowzD1/\n\nNutrition: Serving 1 bowl · Calories Approximately 400 kcal · Fat 25g · Saturated fat 10g · Unsaturated fat 15g · Trans fat 0g · Cholesterol 80mg · Sodium 900mg · Carbs 10g · Fiber 2g · Sugar 3g · Protein 20g",
-  "created_at": "2025-10-19T17:05:42.496+00:00",
-  "updated_at": "2026-07-19T02:04:05.649915+00:00",
   "deleted": false,
   "images": [
     "images/56aeb20f-a11f-4a58-b9aa-47a7d67c5e29/56aeb20f-a11f-4a58-b9aa-47a7d67c5e29.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Chicken breast gives lean protein.",
+      "Low carb pasta adds fiber and cuts refined carbs."
+    ],
+    "not_healthy": [
+      "Buffalo sauce, ranch dressing and ranch packet make it very high in sodium.",
+      "Ranch dressing and cheese add fat.",
+      "No vegetables."
+    ]
+  },
+  "created_at": "2025-10-19T17:05:42.496+00:00",
+  "updated_at": "2026-10-24T00:36:34-05:00"
 }
