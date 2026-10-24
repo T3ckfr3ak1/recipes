@@ -70,10 +70,20 @@
   "category": "Main Course",
   "source": "Flavorish",
   "notes": "This dish is a hearty, indulgent meal with no health claims. Adjust ingredients as desired.\n\nSource: https://www.facebook.com/share/v/1A8Pzhd3tr/\n\nNutrition: Serving 1 slice · Calories Approximately 600 kcal · Fat Approximately 35g · Saturated fat Approximately 15g · Unsaturated fat Approximately 20g · Trans fat 0g · Cholesterol Approximately 80mg · Sodium Approximately 900mg · Carbs Approximately 50g · Fiber Approximately 5g · Sugar Approximately 5g · Protein Approximately 30g",
-  "created_at": "2025-11-04T05:33:44.955+00:00",
-  "updated_at": "2026-07-19T04:17:38.205172+00:00",
   "deleted": false,
   "images": [
     "images/7e0c86b8-d918-49dc-b4e3-c65045bfdce7/7e0c86b8-d918-49dc-b4e3-c65045bfdce7.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef and chicken give protein."
+    ],
+    "not_healthy": [
+      "Taquitos, Fritos and queso are processed and high in sodium.",
+      "Cheese, queso and fried items add a lot of saturated fat.",
+      "Taco seasoning and enchilada sauce add more sodium."
+    ]
+  },
+  "created_at": "2025-11-04T05:33:44.955+00:00",
+  "updated_at": "2026-10-24T00:37:05-05:00"
 }
