@@ -69,6 +69,17 @@
   "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.",
   "deleted": false,
   "id": "16671902db4d",
+  "nutrition": {
+    "healthy": [
+      "Chicken breast is lean, high protein meat.",
+      "Pressure cooked in water with no added fat.",
+      "Simple seasonings with no sugar."
+    ],
+    "not_healthy": [
+      "Bouillon base plus added salt adds sodium.",
+      "No vegetables or fiber on its own."
+    ]
+  },
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-23T12:03:56-05:00"
+  "updated_at": "2026-10-24T00:35:30-05:00"
 }
