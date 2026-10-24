@@ -193,6 +193,79 @@ Simmer.
     expect(descriptionFromHtml(html), '1 lb & 2 tbsp "honey"');
   });
 
+  test('a card with the amount after the ingredient name is a recipe', () {
+    final recipe = recipeFromDescription('''
+Most homemade chili tastes like tomato soup with ground beef in it. This one does not.
+
+Today's Verse: "You prepare a table before me in the presence of my enemies." Psalm 23:5
+
+Chili That Actually Slaps
+Servings: 6 to 8
+Prep 15 to 20 min | Cook 1 1/2 to 2 hr
+
+Base
+Ground beef 80/20 900g (2 lb)
+Neutral oil 15ml (1 Tbsp)
+Onion, diced 150g (1 large)
+Garlic, minced 15g (5 cloves)
+Crushed tomatoes 800g (1 can, 28 oz)
+Kidney beans, drained 1 can (optional)
+
+Chili Seasoning (for 2 lb meat)
+Chili powder 20g (2 1/2 Tbsp)
+Cayenne 0.5g (1/4 tsp)
+
+Thickener: Masa harina 9g (1 Tbsp) mixed with 2 Tbsp water, stirred in at the end
+
+Pro Tips:
+Brown the beef hard. A real sear, not a steam.
+The cocoa is not optional.
+
+#FoodParables #ChiliRecipe
+''', now: now);
+
+    expect(recipe, isNotNull);
+    expect(recipe!.title, 'Chili That Actually Slaps');
+    expect(recipe.servings, 6);
+    expect(recipe.prepMinutes, 15);
+    expect(recipe.cookMinutes, 90);
+    expect(recipe.ingredients.map((item) => item.item), [
+      'Ground beef 80/20',
+      'Neutral oil',
+      'Onion, diced',
+      'Garlic, minced',
+      'Crushed tomatoes',
+      'Kidney beans, drained',
+      'Chili powder',
+      'Cayenne',
+      'Masa harina',
+    ]);
+    expect(recipe.ingredients.first.quantity, '2');
+    expect(recipe.ingredients.first.unit, 'lb');
+    expect(recipe.ingredients.first.note, '900 g');
+    expect(recipe.ingredients[2].quantity, '150');
+    expect(recipe.ingredients[2].unit, 'g');
+    expect(recipe.ingredients[2].note, '1 large');
+    expect(recipe.ingredients[4].note, '1 can, 28 oz');
+    expect(recipe.ingredients[5].note, 'optional');
+    expect(recipe.ingredients[6].quantity, '2 1/2');
+    expect(recipe.ingredients[6].unit.toLowerCase(), 'tbsp');
+    expect(recipe.steps.first, contains('sear'));
+    expect(recipe.steps.join('\n'), isNot(contains('Psalm')));
+    expect(recipe.steps.join('\n'), isNot(contains('FoodParables')));
+  });
+
+  test('a flattened metric card is split into ingredients', () {
+    final recipe = recipeFromDescription(
+      'Chili That Actually Slaps Base Ground beef 80/20 900g (2 lb) Neutral oil 15ml (1 Tbsp) Onion, diced 150g (1 large)',
+      now: now,
+    );
+
+    expect(recipe!.title, 'Chili That Actually Slaps');
+    expect(recipe.ingredients, hasLength(3));
+    expect(recipe.ingredients.first.unit, 'lb');
+  });
+
   test('content can come before property on the meta tag', () {
     const html =
         '''<meta content="Simmer the soup." property="og:description">''';

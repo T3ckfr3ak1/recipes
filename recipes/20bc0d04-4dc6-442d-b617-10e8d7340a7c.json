@@ -1,0 +1,176 @@
+{
+  "title": "Chili That Actually Slaps",
+  "description": "Most homemade chili tastes like tomato soup with ground beef in it. This one does not. Layered seasoning, soy and Worcestershire for depth, apple cider vinegar to wake it up, and a pinch of cocoa nobody tastes but everybody feels. Low and slow handles the rest. Serves 6 to 8.",
+  "servings": 8,
+  "prep_minutes": 20,
+  "cook_minutes": 120,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "lb",
+      "item": "ground beef 80/20",
+      "note": "900 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "neutral oil",
+      "note": "15 ml"
+    },
+    {
+      "quantity": "150",
+      "unit": "g",
+      "item": "onion, diced",
+      "note": "1 large"
+    },
+    {
+      "quantity": "5",
+      "unit": "cloves",
+      "item": "garlic, minced",
+      "note": "15 g"
+    },
+    {
+      "quantity": "800",
+      "unit": "g",
+      "item": "crushed tomatoes",
+      "note": "1 can, 28 oz"
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "tomato paste",
+      "note": "30 g"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "cups",
+      "item": "beef broth",
+      "note": "360 ml"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "Worcestershire",
+      "note": "15 ml"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "soy sauce",
+      "note": "8 ml"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "brown sugar",
+      "note": "12 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "apple cider vinegar",
+      "note": "15 ml"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "kidney beans, drained",
+      "note": "optional"
+    },
+    {
+      "quantity": "1",
+      "unit": "can",
+      "item": "black beans, drained",
+      "note": "optional"
+    },
+    {
+      "quantity": "2 1/2",
+      "unit": "Tbsp",
+      "item": "chili powder",
+      "note": "20 g"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "Tbsp",
+      "item": "ancho chili powder",
+      "note": "10 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "ground cumin",
+      "note": "6 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "note": "3 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "note": "2.5 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "onion powder",
+      "note": "2.5 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "Mexican oregano",
+      "note": "1 g"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "black pepper",
+      "note": "1 g"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "tsp",
+      "item": "cayenne",
+      "note": "0.5 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "unsweetened cocoa powder",
+      "note": "1 g"
+    },
+    {
+      "quantity": "1",
+      "unit": "Tbsp",
+      "item": "masa harina",
+      "note": "9 g, mixed with 2 Tbsp water and stirred in at the end"
+    }
+  ],
+  "steps": [
+    "Brown the beef hard in the oil. A real sear, not a steam. That crust is the first layer of flavor.",
+    "Add the onion, then the garlic.",
+    "Toast the chili seasoning in the fat for about 30 seconds before adding any liquid. That wakes up the spices.",
+    "Stir in the tomato paste, then the crushed tomatoes, beef broth, Worcestershire, soy sauce, brown sugar, and apple cider vinegar.",
+    "Simmer on low for 1 1/2 to 2 hours. Leave it uncovered for the last 30 minutes so it tightens without flour.",
+    "Beans are optional. If you use them, drain them and add them near the end.",
+    "Stir the masa harina with 2 Tbsp water and mix that in at the end.",
+    "Keep the cocoa in. It will not taste like chocolate.",
+    "Day-two chili beats day-one chili. Refrigerate 4 to 5 days, or freeze up to 3 months."
+  ],
+  "tags": [
+    "chili",
+    "beef",
+    "comfort food"
+  ],
+  "category": "Main Course",
+  "source": "Food Parables",
+  "notes": "Saved from the Food Parables reel caption. The card's seasoning block is for 2 lb of meat. Cocoa stays in; it does not taste like chocolate. The card also quotes Psalm 23:5.",
+  "deleted": false,
+  "id": "20bc0d04-4dc6-442d-b617-10e8d7340a7c",
+  "created_at": "2026-10-24T00:40:00-05:00",
+  "updated_at": "2026-10-24T00:40:00-05:00"
+}
