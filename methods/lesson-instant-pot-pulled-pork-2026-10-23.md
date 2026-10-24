@@ -25,3 +25,4 @@ Source: Head Chef, from Joe's cook on Oct 23, 2026.
 - At the end it shredded easily and left a lot of hot juice in the pot.
 - Storage: cooled in the juice until it could be handled, then finished shredding, packed, and refrigerated within 2 h of turning the pot off. About half goes to the freezer.
 - Recipe d5b95a0f8164 stays at 212F for 10 hours for now. That's still an estimate until we've done a cook at 212F from the start.
+- Recipe revised to 212F for 8 hours (estimate). 10 hours was judged too long because the meat finished quickly at 212F after 8 h at 195F. Confirm on the next cook done at 212F from the start.
