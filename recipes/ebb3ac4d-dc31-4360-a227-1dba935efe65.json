@@ -84,10 +84,20 @@
   "category": "Beverages",
   "source": "Flavorish",
   "notes": "Adjust the amount of sparkling water to taste for a less or more carbonated drink.\n\nSource: https://www.facebook.com/share/v/1J6JnmJdQZ/\n\nNutrition: Serving 1 glass · Calories Approximately 50 kcal per serving · Fat 0g · Saturated fat 0g · Unsaturated fat 0g · Trans fat 0g · Cholesterol 0mg · Sodium 10mg · Carbs 12g · Fiber 0g · Sugar 12g · Protein 0g",
-  "created_at": "2025-12-06T23:59:07.205+00:00",
-  "updated_at": "2026-07-19T10:25:23.836281+00:00",
   "deleted": false,
   "images": [
     "images/ebb3ac4d-dc31-4360-a227-1dba935efe65/ebb3ac4d-dc31-4360-a227-1dba935efe65.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Real spices and citrus peel with no artificial colors.",
+      "Made with sparkling water instead of a store soda."
+    ],
+    "not_healthy": [
+      "A full cup of coconut sugar makes the syrup high in added sugar.",
+      "Little nutritional value beyond flavor."
+    ]
+  },
+  "created_at": "2025-12-06T23:59:07.205+00:00",
+  "updated_at": "2026-10-24T00:38:56-05:00"
 }
