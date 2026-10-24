@@ -99,10 +99,20 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "Ensure bacon is wrapped securely around the onion rings to prevent unraveling during cooking.\n\nSource: https://www.facebook.com/share/r/194Nr7fmZd/\n\nNutrition: Serving 1 onion ring · Calories 350 kcal · Fat 25 g · Saturated fat 10 g · Unsaturated fat 15 g · Trans fat 0 g · Cholesterol 80 mg · Sodium 600 mg · Carbs 20 g · Fiber 3 g · Sugar 5 g · Protein 20 g",
-  "created_at": "2025-11-24T04:12:32.873+00:00",
-  "updated_at": "2026-07-19T00:22:43.631826+00:00",
   "deleted": false,
   "images": [
     "images/3a27e0bd-369a-4f68-9ee3-4f2ca5e9523a/3a27e0bd-369a-4f68-9ee3-4f2ca5e9523a.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Ground beef gives protein.",
+      "Onion rings use real onion."
+    ],
+    "not_healthy": [
+      "Bacon wrap, bacon fat and cheese add saturated fat and sodium.",
+      "Burger sauce has sugar from BBQ sauce and ketchup plus mayo fat."
+    ]
+  },
+  "created_at": "2025-11-24T04:12:32.873+00:00",
+  "updated_at": "2026-10-24T00:36:00-05:00"
 }
