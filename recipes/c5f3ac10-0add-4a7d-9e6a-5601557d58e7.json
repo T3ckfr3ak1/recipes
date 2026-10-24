@@ -84,10 +84,21 @@
   "category": "Breakfast",
   "source": "Flavorish",
   "notes": "Use fresh ingredients for the best flavor. Adjust the heat level by modifying the seeds in the peppers.\n\nSource: https://www.facebook.com/share/v/17EH1ZeVc3/\n\nNutrition: Serving 1 plate · Calories 350 kcal · Fat 15 g · Saturated fat 5 g · Unsaturated fat 10 g · Trans fat 0 g · Cholesterol 210 mg · Sodium 600 mg · Carbs 40 g · Fiber 5 g · Sugar 8 g · Protein 15 g",
-  "created_at": "2025-10-13T03:09:50.093+00:00",
-  "updated_at": "2026-07-19T08:18:30.784439+00:00",
   "deleted": false,
   "images": [
     "images/c5f3ac10-0add-4a7d-9e6a-5601557d58e7/c5f3ac10-0add-4a7d-9e6a-5601557d58e7.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Fresh salsa from tomatoes, chiles, onion and garlic adds vegetables.",
+      "Eggs give protein.",
+      "Corn tortillas are whole grain corn."
+    ],
+    "not_healthy": [
+      "Tortillas are fried in bacon grease, adding saturated fat.",
+      "Bacon and optional cheese add sodium."
+    ]
+  },
+  "created_at": "2025-10-13T03:09:50.093+00:00",
+  "updated_at": "2026-10-24T00:38:16-05:00"
 }
