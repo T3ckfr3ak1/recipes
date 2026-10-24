@@ -81,10 +81,22 @@
   "category": "Appetizer",
   "source": "Flavorish",
   "notes": "The serving size is approximately one cottage cheese container's worth. Can be served with tortilla chips or used as a topping for hot dogs.\n\nSource: https://www.facebook.com/share/v/1GxaU2RcGv/\n\nNutrition: Serving 1/4 of recipe · Calories 210 kcal · Fat 7g · Saturated fat 3g · Unsaturated fat 4g · Trans fat 0g · Cholesterol 45mg · Sodium 650mg · Carbs 18g · Fiber 2g · Sugar 6g · Protein 22g",
-  "created_at": "2026-08-14T23:53:37.868219+00:00",
-  "updated_at": "2026-08-14T23:53:37.868219+00:00",
   "deleted": false,
   "images": [
     "images/27be05e3-1eb2-4268-9b78-27016398ca95/27be05e3-1eb2-4268-9b78-27016398ca95.jpg"
-  ]
+  ],
+  "nutrition": {
+    "healthy": [
+      "Low fat cottage cheese and chicken make it high in protein.",
+      "Corn, jalapeno, cilantro and lime add vegetables.",
+      "Lighter than a cream cheese or mayo based dip."
+    ],
+    "not_healthy": [
+      "Tajin, hot sauce, canned corn and queso fresco add a lot of sodium.",
+      "Mexican crema adds some saturated fat.",
+      "Usually eaten with chips."
+    ]
+  },
+  "created_at": "2026-08-14T23:53:37.868219+00:00",
+  "updated_at": "2026-10-24T00:35:43-05:00"
 }
