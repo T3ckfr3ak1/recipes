@@ -13,3 +13,5 @@ flutter build apk --release
 ```
 
 The library is a SQLite database in the app's local support folder. The app keeps working from that database when the network is down.
+
+App changes are suggested in `../app-update-recommendations.md`. Append a block there. Do not edit this source to file a suggestion.
