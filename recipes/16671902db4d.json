@@ -1,5 +1,5 @@
 {
-  "title": "Instant Pot Shredded Chicken from Frozen",
+  "title": "Instant Pot Shredded Chicken (frozen or thawed)",
   "description": "2.5 lb frozen chicken breasts pressure cooked and shredded. Makes about 5 to 6 cups. No thawing.",
   "servings": null,
   "prep_minutes": null,
@@ -59,10 +59,10 @@
     "Add the frozen breasts in a single layer as much as possible. If they're frozen together in a block, try to break them apart (run under warm water for a minute).",
     "Sprinkle the garlic powder, onion powder, salt, pepper, candied jalapeno slices, and a splash of the jar syrup on top.",
     "Lock the pressure lid: line up the lid mark with Open and twist about 30 degrees counterclockwise until the Steam Release Switch moves to Closed.",
-    "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min (this time is for FROZEN breasts only; the thawed-breast time is TBD), then press the dial to start. The screen is orange while heating and red at pressure.",
-    "At the beep, press Cancel and leave the Steam Release Switch CLOSED for 10 min (natural release).",
-    "Slide the Steam Release Switch to Open. Once there's no steam, twist the lid clockwise and remove it.",
-    "Check the thickest piece for 165F. If it's short, lock the lid and run POULTRY for 3 more min.",
+    "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min for FROZEN breasts or 10 min for THAWED breasts, then press the dial to start. The screen is orange while heating and red at pressure.",
+    "At the beep, press Cancel and slide the Steam Release Switch to Open right away (quick release). Do not let it natural release, because that keeps cooking the meat and dries it out.",
+    "Once there's no steam, twist the lid clockwise and remove it.",
+    "Cut the thickest piece open. It should be white all the way through with no pink, and the juices should run clear (165F if you have a thermometer). If it isn't, lock the lid and run POULTRY for 2 more min with a quick release.",
     "Shred with 2 forks (or a hand mixer on low). Stir in a few spoonfuls of the cooking liquid."
   ],
   "tags": [
@@ -74,7 +74,7 @@
   ],
   "category": "Main",
   "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R7",
-  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.\n\nJoe's final version, Oct 25, 2026 (via Meal Plan): 3.5 lb batch with onion powder in place of dried minced onion (he had none), candied jalapenos, and no trivet.\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36 (appliance-manuals/emeril-lagasse-y8d-af-36.pdf).\n\nJoe's result (Oct 25, 2026): 3.5 lb THAWED breasts on POULTRY 12 min with 10 min natural release came out the driest, blandest, toughest pulled chicken he's seen. The 12 to 15 min time is for FROZEN breasts; don't use it for thawed (thawed time TBD until researched). Flavor was too weak: seasoning amounts need to go up (TBD). Untested rescue used that day: add 1 cup water, 1 tsp bouillon, 1/2 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt, and 2 Tbsp jalapeno syrup, simmer on Saute with the glass lid, then 20 min on Keep Warm, and bag every portion with broth. See methods/lesson-instant-pot-shredded-chicken-2026-10-25.md.",
+  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.\n\nJoe's final version, Oct 25, 2026 (via Meal Plan): 3.5 lb batch with onion powder in place of dried minced onion (he had none), candied jalapenos, and no trivet.\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36 (appliance-manuals/emeril-lagasse-y8d-af-36.pdf).\n\nJoe's result (Oct 25, 2026): 3.5 lb THAWED breasts on POULTRY 12 min with 10 min natural release came out the driest, blandest, toughest pulled chicken he's seen. The 12 to 15 min time is for FROZEN breasts; don't use it for thawed (thawed time TBD until researched). Flavor was too weak: seasoning amounts need to go up (TBD). Untested rescue used that day: add 1 cup water, 1 tsp bouillon, 1/2 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt, and 2 Tbsp jalapeno syrup, simmer on Saute with the glass lid, then 20 min on Keep Warm, and bag every portion with broth. See methods/lesson-instant-pot-shredded-chicken-2026-10-25.md.\n\nTimes are from Instant Pot's official chicken breast recipe (https://instantpot.com/blogs/recipes/easy-chicken-breast), 12 min frozen and 10 min for shredding fresh, both with a quick release. Not yet tested on Joe's Emeril. Oct 25 batch (thawed, 12 min plus 10 min NR) was dry and tough. (Head Chef, Oct 25, 2026)",
   "deleted": false,
   "id": "16671902db4d",
   "nutrition": {
@@ -91,5 +91,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-25T16:07:31-05:00"
+  "updated_at": "2026-10-25T16:31:40-05:00"
 }
