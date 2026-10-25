@@ -1,0 +1,75 @@
+{
+  "title": "Pork and Black Bean Burritos",
+  "description": "Joe's meal-prep burritos: pulled pork and black beans warmed in the 4-cup Pyrex, with mozzarella and candied jalapenos. Makes 4: eat 1, freeze 3 in quart freezer bags for work.",
+  "servings": 4,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "item": "pulled pork",
+      "note": "Joe's Slow Cooker Pulled Pork (d5b95a0f8164)"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "black beans, drained",
+      "note": "1 can"
+    },
+    {
+      "quantity": "4",
+      "unit": null,
+      "item": "Mission burrito-size flour tortillas",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded mozzarella",
+      "note": "1/4 cup per burrito"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "item": "candied jalapenos / cowboy candy",
+      "note": "amount not specified by Joe. Canned Cowboy Candy (5e18b57fd262) if using the homemade habanero batch, which is for Joe and Warren only."
+    }
+  ],
+  "steps": [
+    "Combine the pork and beans in the 4-cup Pyrex. Cover.",
+    "Microwave on High 2 min. Stir, then microwave 1 more min.",
+    "Fill each tortilla with 3/4 cup filling, 1/4 cup mozzarella, and candied jalapenos.",
+    "Roll the burritos.",
+    "Eat 1. Freeze 3 in quart freezer bags.",
+    "At work: take the burrito out of the bag onto a paper plate with a damp paper towel over it. Microwave 2 min, flip, then 2 min more, until the center is 165F (starting point from the Pulled Pork Wrap 57daf991b4f8, not tested). Eat with plastic utensils."
+  ],
+  "tags": [
+    "meal-prep",
+    "freezer",
+    "lunch",
+    "burrito",
+    "pork"
+  ],
+  "category": "Lunch",
+  "source": "Joe (via Meal Plan), Oct 25, 2026",
+  "notes": "Joe's recipe. Uses as few dishes as possible: the filling is warmed in the 4-cup Pyrex.\nNot specified by Joe: candied jalapeno amount, whether to rinse the beans, warming the tortillas, how to roll (sides tucked or not), and cooling before bagging. The Pulled Pork Wrap cools wraps completely before bagging so the tortillas don't get soggy.\nThe reheat time is a starting point copied from the Pulled Pork Wrap (57daf991b4f8), not tested on these burritos.\nNo foil. Work meals go in quart Ziploc freezer bags, never Tupperware.\nNo sour cream inside: it doesn't freeze well. Add it when serving if wanted.\nSpicy: the homemade habanero cowboy candy is for Joe and Warren only.",
+  "nutrition": {
+    "healthy": [
+      "Pulled pork gives protein.",
+      "Black beans add fiber and more protein.",
+      "A set 1/4 cup of cheese per burrito keeps the cheese moderate."
+    ],
+    "not_healthy": [
+      "Large flour tortilla is refined carbs.",
+      "Pork butt is fatty, and the rub and canned beans add sodium.",
+      "Candied jalapenos add sugar."
+    ]
+  },
+  "starred": false,
+  "made": false,
+  "deleted": false,
+  "id": "e48582ad361a",
+  "created_at": "2026-10-25T12:25:39-05:00",
+  "updated_at": "2026-10-25T12:25:39-05:00"
+}
