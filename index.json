@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-10-24T20:14:57-05:00",
+  "generated_at": "2026-10-24T20:14:58-05:00",
   "recipes": [
-    {
-      "id": "b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa",
-      "updated_at": "2026-10-24T00:37:56-05:00",
-      "deleted": false,
-      "path": "recipes/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa.json"
-    },
     {
       "id": "b194b1e7-4e9e-4e35-b70b-34eff102f2c9",
       "updated_at": "2026-10-24T00:37:58-05:00",
@@ -834,6 +828,12 @@
       "updated_at": "2026-10-24T20:14:57-05:00",
       "deleted": false,
       "path": "recipes/acaefb13-d993-4325-bc2f-fef10fc53232.json"
+    },
+    {
+      "id": "b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa",
+      "updated_at": "2026-10-24T20:14:58-05:00",
+      "deleted": false,
+      "path": "recipes/b0305b3a-783f-48a1-a1bb-c9bf4fe5c6fa.json"
     }
   ]
 }
