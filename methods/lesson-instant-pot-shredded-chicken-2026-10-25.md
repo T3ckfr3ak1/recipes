@@ -25,3 +25,10 @@ Quick release instead of a 10 min natural release, and 10 min for thawed breasts
 5. Bag every portion with broth.
 
 Head Chef's version (via Meal Plan, Oct 25, 2026) replaces Meal Plan's earlier light-bubble step. Manual check (`appliance-manuals/emeril-lagasse-y8d-af-36.pdf`): the Unit goes to Keep Warm by itself only when a cooking cycle finishes. Pressing Cancel ends any function, Keep Warm included, and the Panel has a separate Keep Warm Button. After Cancel, check that the screen shows Keep Warm; if it doesn't, press the Keep Warm Button.
+
+## Result of the rescue (Joe, 4:42 PM, Oct 25, 2026, via Head Chef)
+Joe's words: "the chicken is doen now, i guess, it has flavor, its still fairly tough, but like you said, we cant uncook it".
+
+The rescue (warming it in broth, with 2 Tbsp butter stirred in at the 10 min mark, as Head Chef reported) brought the flavor back, but the meat stayed fairly tough. You can add flavor back to overcooked breast, but you can't make it tender again, so the fix is to not overcook it in the first place: thawed breasts get POULTRY 10 min with a quick release (R7, `recipes/16671902db4d.json`).
+
+Joe also said (4:43 PM, via Meal Plan): "maybe next time i suggest we slow cook, we slow cook". He had suggested slow cooking this chicken, and it was pressure cooked instead. See the cooking-method rule in `preferences/food-preferences.md`.
