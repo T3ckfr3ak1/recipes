@@ -20,6 +20,7 @@
 ## Storage rules
 - Sour cream (Joe via Meal Plan, Oct 25, 2026): opened sour cream doesn't last, and it doesn't freeze well. Don't plan freezer meals with sour cream inside; add it at serving.
 - Candied jalapenos (Joe via Meal Plan, Oct 25, 2026): 'to taste' applies only to toppings (burritos, sandwiches, bowls). Cooked meats get an exact amount scaled from the pulled pork ratio (1/2 cup peppers, no juice, per 8.2 lb). His kids eat jalapenos; only habanero is Joe and Warren only.
+- Appliance steps (Joe via Meal Plan, Oct 25, 2026): all appliance steps must be button-level for Joe's actual model, taken from the manuals in `appliance-manuals/`.
 - Seasoning (Joe via Meal Plan, Oct 25, 2026): every cook step must include its seasoning. Plain, unseasoned meat is never acceptable.
 - No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
 
