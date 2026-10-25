@@ -14,11 +14,11 @@
 - R7's 12 to 15 min is for **frozen** breasts. Don't use it for thawed breasts. The thawed time is TBD until it's researched.
 - The flavor was too weak. The seasoning amounts need to go up, and the new amounts are TBD.
 
-## Today's rescue (untested)
+## Today's rescue (Head Chef's version, untested)
 1. Add to the shredded chicken: 1 cup water, 1 tsp Better Than Bouillon, 1/2 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt, and 2 Tbsp candied jalapeno syrup.
-2. Put the KitchenAid glass lid on (not the pressure lid). Press Saute, turn the dial to POULTRY, and bring it to a light bubble, about 3 to 4 min.
+2. Put the KitchenAid glass lid on (not the pressure lid). Press Saute, turn the dial to POULTRY, and heat only until it's steaming. Don't let it bubble. Stir in 2 Tbsp butter.
 3. Press Cancel and leave it on Keep Warm with the glass lid for 20 min, stirring once halfway.
 4. Do not pressure cook it again.
 5. Bag every portion with broth.
 
-Steps as Meal Plan gave them to Joe, Oct 25, 2026. Manual check (`appliance-manuals/emeril-lagasse-y8d-af-36.pdf`): the Unit goes to Keep Warm by itself only when a cooking cycle finishes. Pressing Cancel ends any function, Keep Warm included, and the Panel has a separate Keep Warm Button. After Cancel, check that the screen shows Keep Warm; if it doesn't, press the Keep Warm Button.
+Head Chef's version (via Meal Plan, Oct 25, 2026) replaces Meal Plan's earlier light-bubble step. Manual check (`appliance-manuals/emeril-lagasse-y8d-af-36.pdf`): the Unit goes to Keep Warm by itself only when a cooking cycle finishes. Pressing Cancel ends any function, Keep Warm included, and the Panel has a separate Keep Warm Button. After Cancel, check that the screen shows Keep Warm; if it doesn't, press the Keep Warm Button.
