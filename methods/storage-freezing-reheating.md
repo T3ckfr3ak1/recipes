@@ -40,13 +40,13 @@ Fridge-cold (Mon, Tue):
 3. Microwave at 50% for 4 min. Stir outside to center and re-form the ring.
 4. Microwave at 50% for 4 more min.
 5. Stir, re-cover, and let it stand 3 min.
-6. Done at 165F in 2-3 spots. If short, 1 more min at 50%.
+6. Done when it's steaming hot all the way through (165F if you have a thermometer). If short, 1 more min at 50%.
 
 Partly frozen (Wed, Thu):
 1. Break up the icy clumps through the bag first.
 2. Same plate, ring, 2 Tbsp liquid, and damp paper towel.
 3. Microwave at 50% for 5 min. Stir, break up the ice, and re-form the ring.
 4. Microwave at 50% for 5 more min. If any ice is left, 1-min steps at 50%, stirring each time.
-5. Let it stand 3 min. Done at 165F in 2-3 spots. If short, 1 more min.
+5. Let it stand 3 min. Done when it's steaming hot all the way through (165F if you have a thermometer). If short, 1 more min.
 
 The cheese folds in during the stirs.

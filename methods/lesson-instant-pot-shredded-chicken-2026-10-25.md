@@ -14,6 +14,9 @@
 - R7's 12 to 15 min is for **frozen** breasts. Don't use it for thawed breasts. The thawed time is TBD until it's researched.
 - The flavor was too weak. The seasoning amounts need to go up, and the new amounts are TBD.
 
+## Fix (Head Chef)
+Quick release instead of a 10 min natural release, and 10 min for thawed breasts.
+
 ## Today's rescue (Head Chef's version, untested)
 1. Add to the shredded chicken: 1 cup water, 1 tsp Better Than Bouillon, 1/2 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt, and 2 Tbsp candied jalapeno syrup.
 2. Put the KitchenAid glass lid on (not the pressure lid). Press Saute, turn the dial to POULTRY, and heat only until it's steaming. Don't let it bubble. Stir in 2 Tbsp butter.
