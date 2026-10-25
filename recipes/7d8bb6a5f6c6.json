@@ -19,7 +19,7 @@
     }
   ],
   "steps": [
-    "Oven (easy with hash browns): Air Fry mode 400°F, foil-lined sheet pan, 10 to 14 min, turn halfway. Fits on the same rack or pan as the hash browns.",
+    "Oven (easy with hash browns): Air Fry mode 400°F, lightly oiled sheet pan, 10 to 14 min, turn halfway. Fits on the same rack or pan as the hash browns.",
     "Skillet: medium heat, splash of oil, 10 to 12 min, turning often, until browned all over.",
     "Done: browned and 160°F inside if raw links."
   ],
@@ -30,7 +30,7 @@
   ],
   "category": "Breakfast",
   "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R13",
-  "notes": "Thrifty told Joe the maple links on his order are uncooked, so cook them all the way through.",
+  "notes": "Thrifty told Joe the maple links on his order are uncooked, so cook them all the way through.\nFoil removed Oct 25, 2026 (Joe has no foil); per Joe via Meal Plan.",
   "deleted": false,
   "id": "7d8bb6a5f6c6",
   "nutrition": {
@@ -45,5 +45,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:04:06-05:00",
-  "updated_at": "2026-10-24T20:14:13-05:00"
+  "updated_at": "2026-10-25T12:30:33-05:00"
 }
