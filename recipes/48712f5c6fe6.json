@@ -1,0 +1,75 @@
+{
+  "title": "Pressure Cooker Cheesy Mashed Potatoes (Emeril)",
+  "description": "No-drain russet mash with butter, sour cream, and mozzarella. Freezer-friendly. Untested on Joe's Emeril.",
+  "servings": 4,
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "lb",
+      "item": "russet potatoes",
+      "note": "peeled, cut in 2 in chunks"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "water",
+      "note": ""
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "note": ""
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "butter",
+      "note": ""
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "sour cream",
+      "note": ""
+    },
+    {
+      "quantity": "",
+      "unit": "",
+      "item": "whole milk",
+      "note": "as needed, likely under 1/2 cup"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "shredded mozzarella",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Put the potatoes, water, and salt in the pot.",
+    "Lock the pressure lid so the Steam Release Switch is Closed.",
+    "Press Pressure, turn the dial to CUSTOM, press Timer and set 8 min, then press the dial to start.",
+    "At the beep, press Cancel and leave the switch Closed for a 10 min natural release, then slide it to Open.",
+    "Don't drain. While it's hot, mash in the butter, then stir in the sour cream.",
+    "Add milk a splash at a time until creamy.",
+    "Gently fold in the mozzarella just until mixed (beating it in makes it gummy)."
+  ],
+  "tags": [
+    "instant-pot",
+    "pressure-cook",
+    "potatoes",
+    "side",
+    "meal-prep",
+    "freezer-friendly"
+  ],
+  "category": "Sides",
+  "source": "Head Chef, Oct 25, 2026",
+  "notes": "Fat from sour cream, butter, and cheese helps russet mash freeze and thaw without going gritty or watery (ATK https://www.americastestkitchen.com/articles/4107-leftover-mashed-potatoes-here-s-how-to-freeze-and-reheat-em ; Penn State Extension https://extension.psu.edu/freezing-potatoes). Best eaten within a few weeks frozen. Mozzarella gets a little stringy on reheat. Pressure time cross-checked with The Recipe Well no-drain mash (10 min + 5 NR).\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36. Untested on Joe's Emeril.",
+  "deleted": false,
+  "id": "48712f5c6fe6",
+  "created_at": "2026-10-25T16:35:22-05:00",
+  "updated_at": "2026-10-25T16:35:22-05:00"
+}
