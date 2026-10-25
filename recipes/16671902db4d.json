@@ -59,7 +59,7 @@
     "Add the frozen breasts in a single layer as much as possible. If they're frozen together in a block, try to break them apart (run under warm water for a minute).",
     "Sprinkle the garlic powder, onion powder, salt, pepper, candied jalapeno slices, and a splash of the jar syrup on top.",
     "Lock the pressure lid: line up the lid mark with Open and twist about 30 degrees counterclockwise until the Steam Release Switch moves to Closed.",
-    "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min, then press the dial to start. The screen is orange while heating and red at pressure.",
+    "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min (this time is for FROZEN breasts only; the thawed-breast time is TBD), then press the dial to start. The screen is orange while heating and red at pressure.",
     "At the beep, press Cancel and leave the Steam Release Switch CLOSED for 10 min (natural release).",
     "Slide the Steam Release Switch to Open. Once there's no steam, twist the lid clockwise and remove it.",
     "Check the thickest piece for 165F. If it's short, lock the lid and run POULTRY for 3 more min.",
@@ -74,7 +74,7 @@
   ],
   "category": "Main",
   "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R7",
-  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.\n\nJoe's final version, Oct 25, 2026 (via Meal Plan): 3.5 lb batch with onion powder in place of dried minced onion (he had none), candied jalapenos, and no trivet.\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36 (appliance-manuals/emeril-lagasse-y8d-af-36.pdf).",
+  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.\n\nJoe's final version, Oct 25, 2026 (via Meal Plan): 3.5 lb batch with onion powder in place of dried minced onion (he had none), candied jalapenos, and no trivet.\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36 (appliance-manuals/emeril-lagasse-y8d-af-36.pdf).\n\nJoe's result (Oct 25, 2026): 3.5 lb THAWED breasts on POULTRY 12 min with 10 min natural release came out the driest, blandest, toughest pulled chicken he's seen. The 12 to 15 min time is for FROZEN breasts; don't use it for thawed (thawed time TBD until researched). Flavor was too weak: seasoning amounts need to go up (TBD). Untested rescue used that day: add 1 cup water, 1 tsp bouillon, 1/2 tsp garlic powder, 1/4 tsp onion powder, 1/4 tsp salt, and 2 Tbsp jalapeno syrup, simmer on Saute with the glass lid, then 20 min on Keep Warm, and bag every portion with broth. See methods/lesson-instant-pot-shredded-chicken-2026-10-25.md.",
   "deleted": false,
   "id": "16671902db4d",
   "nutrition": {
@@ -91,5 +91,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-25T15:29:28-05:00"
+  "updated_at": "2026-10-25T16:07:31-05:00"
 }
