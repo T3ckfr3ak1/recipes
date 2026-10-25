@@ -66,6 +66,24 @@
       "note": "after cook mix"
     },
     {
+      "quantity": "1",
+      "unit": "tsp",
+      "item": "dried parsley",
+      "note": "after cook mix"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "tsp",
+      "item": "dried oregano",
+      "note": "after cook mix"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "tsp",
+      "item": "rubbed sage",
+      "note": "after cook mix; a little less if ground"
+    },
+    {
       "quantity": "",
       "unit": "",
       "item": "whole milk",
@@ -77,7 +95,7 @@
     "Before cook, mix together 1 1/2 cups water, 1 1/2 tsp Better Than Bouillon chicken base, and 1 tsp salt until the base dissolves. Pour it over the potatoes.",
     "Cook: press Pressure, turn the dial to CUSTOM, press Timer and set 8 min, then press the dial to start. Keep the Steam Release Switch Closed while it cooks.",
     "At the beep, press Cancel and leave the switch Closed for 10 min, then open it. Don't drain.",
-    "After cook, mix together 3 Tbsp butter, 1/2 cup sour cream, 1 1/2 cups shredded mozzarella, 1 tsp garlic powder, 1/2 tsp onion powder, and 1/2 tsp black pepper. Stir it into the hot potatoes and mash just until smooth, without whipping.",
+    "After cook, mix together 3 Tbsp butter, 1/2 cup sour cream, 1 1/2 cups shredded mozzarella, 1 tsp garlic powder, 1/2 tsp onion powder, 1/2 tsp black pepper, 1 tsp dried parsley, 1/4 tsp dried oregano, and 1/4 tsp rubbed sage (a little less if ground). Stir it into the hot potatoes and mash just until smooth, without whipping.",
     "Add a splash of milk only if it's stiff.",
     "Taste, and add salt 1/4 tsp at a time if needed."
   ],
@@ -95,5 +113,5 @@
   "deleted": false,
   "id": "48712f5c6fe6",
   "created_at": "2026-10-25T16:35:22-05:00",
-  "updated_at": "2026-10-25T17:15:18-05:00"
+  "updated_at": "2026-10-25T17:16:49-05:00"
 }
