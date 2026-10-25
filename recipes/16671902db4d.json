@@ -6,7 +6,7 @@
   "cook_minutes": null,
   "ingredients": [
     {
-      "quantity": "2.5",
+      "quantity": "3.5",
       "unit": "lb",
       "item": "frozen chicken breasts",
       "note": null
@@ -15,47 +15,55 @@
       "quantity": "1",
       "unit": "cup",
       "item": "water",
-      "note": null
+      "note": "minimum 1 cup liquid for the Emeril"
     },
     {
-      "quantity": "1",
+      "quantity": "1 1/2",
       "unit": "tsp",
       "item": "Better Than Bouillon chicken base",
-      "note": null
+      "note": "stirred into the water"
     },
     {
-      "quantity": "1",
+      "quantity": "1 1/2",
       "unit": "tsp",
       "item": "garlic powder",
       "note": null
     },
     {
-      "quantity": "1",
+      "quantity": "1/2",
       "unit": "tsp",
-      "item": "dried minced onion",
-      "note": null
+      "item": "onion powder",
+      "note": "Joe's swap for 1 1/2 tsp dried minced onion"
     },
     {
-      "quantity": "1/2",
+      "quantity": "3/4",
       "unit": "tsp",
       "item": "salt",
       "note": null
     },
     {
-      "quantity": "1/2",
+      "quantity": "3/4",
       "unit": "tsp",
       "item": "pepper",
-      "note": "or a dry rub you like in place of the seasonings"
+      "note": null
+    },
+    {
+      "quantity": "3 1/2",
+      "unit": "Tbsp",
+      "item": "candied jalapeno slices",
+      "note": "peppers only, no juice; scaled from Joe's pulled pork ratio (1/2 cup per 8.2 lb, d5b95a0f8164)"
     }
   ],
   "steps": [
-    "Stir the bouillon into the water in the pot. Put in the trivet if you have it.",
+    "Stir the bouillon into the 1 cup water in the pot. No trivet: the chicken goes straight into the liquid.",
     "Add the frozen breasts in a single layer as much as possible. If they're frozen together in a block, try to break them apart (run under warm water for a minute).",
-    "Sprinkle seasoning on top.",
-    "Pressure cook on High: 12 to 15 min for separate breasts, 20 to 25 min if frozen in a solid block.",
-    "Natural release 10 min, then release the rest.",
-    "Check the thickest piece: 165°F, no pink. If not there, pressure cook 3 to 5 more min.",
-    "Shred with 2 forks (or a hand mixer on low, fast). Stir in a few spoons of the cooking liquid."
+    "Sprinkle the garlic powder, onion powder, salt, pepper, and candied jalapeno slices on top.",
+    "Lock the pressure lid: line up the lid mark with Open and twist about 30 degrees counterclockwise until the Steam Release Switch moves to Closed.",
+    "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min, then press the dial to start. The screen is orange while heating and red at pressure.",
+    "At the beep, press Cancel and leave the Steam Release Switch CLOSED for 10 min (natural release).",
+    "Slide the Steam Release Switch to Open. Once there's no steam, twist the lid clockwise and remove it.",
+    "Check the thickest piece for 165F. If it's short, lock the lid and run POULTRY for 3 more min.",
+    "Shred with 2 forks (or a hand mixer on low). Stir in a few spoonfuls of the cooking liquid."
   ],
   "tags": [
     "instant pot",
@@ -66,7 +74,7 @@
   ],
   "category": "Main",
   "source": "Joe's Meal Pack, Oct 20 to Nov 4, 2026 (built by Thrifty, now kept by Meal Plan), R7",
-  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.",
+  "notes": "Total about 45 min.\nStorage: fridge 3 to 4 days. Freeze in labeled meal-size bags with a splash of liquid, up to 2 to 3 months.\n\nJoe's final version, Oct 25, 2026 (via Meal Plan): 3.5 lb batch with onion powder in place of dried minced onion (he had none), candied jalapenos, and no trivet.\n\nButton steps are for Joe's Emeril Lagasse Pressure AirFryer Y8D-AF-36 (appliance-manuals/emeril-lagasse-y8d-af-36.pdf).",
   "deleted": false,
   "id": "16671902db4d",
   "nutrition": {
@@ -83,5 +91,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-24T20:12:47-05:00"
+  "updated_at": "2026-10-25T15:28:53-05:00"
 }
