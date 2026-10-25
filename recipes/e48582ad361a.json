@@ -30,10 +30,10 @@
       "note": "1/4 cup per burrito"
     },
     {
-      "quantity": null,
+      "quantity": "to taste",
       "unit": null,
       "item": "candied jalapenos / cowboy candy",
-      "note": "amount not specified by Joe. Canned Cowboy Candy (5e18b57fd262) if using the homemade habanero batch, which is for Joe and Warren only."
+      "note": "to taste, no set amount (per Joe via Meal Plan, Oct 25, 2026). Jarred candied jalapenos for now; Joe plans to switch to homemade Canned Cowboy Candy (5e18b57fd262) after his next meal prep weekend after Nov 4. The habanero batch is for Joe and Warren only."
     }
   ],
   "steps": [
@@ -53,7 +53,7 @@
   ],
   "category": "Lunch",
   "source": "Joe (via Meal Plan), Oct 25, 2026",
-  "notes": "Joe's recipe. Uses as few dishes as possible: the filling is warmed in the 4-cup Pyrex.\nNot specified by Joe: candied jalapeno amount, whether to rinse the beans, warming the tortillas, how to roll (sides tucked or not), and cooling before bagging. The Pulled Pork Wrap cools wraps completely before bagging so the tortillas don't get soggy.\nThe reheat time is a starting point copied from the Pulled Pork Wrap (57daf991b4f8), not tested on these burritos.\nNo foil. Work meals go in quart Ziploc freezer bags, never Tupperware.\nNo sour cream inside: it doesn't freeze well. Add it when serving if wanted.\nSpicy: the homemade habanero cowboy candy is for Joe and Warren only.",
+  "notes": "Joe's recipe. Uses as few dishes as possible: the filling is warmed in the 4-cup Pyrex.\nNot specified by Joe: whether to rinse the beans, warming the tortillas, how to roll (sides tucked or not), and cooling before bagging. The Pulled Pork Wrap cools wraps completely before bagging so the tortillas don't get soggy.\nThe reheat time is a starting point copied from the Pulled Pork Wrap (57daf991b4f8), not tested on these burritos.\nNo foil. Work meals go in quart Ziploc freezer bags, never Tupperware.\nNo sour cream inside: it doesn't freeze well. Add it when serving if wanted.\nSpicy: the homemade habanero cowboy candy is for Joe and Warren only.",
   "nutrition": {
     "healthy": [
       "Pulled pork gives protein.",
@@ -71,5 +71,5 @@
   "deleted": false,
   "id": "e48582ad361a",
   "created_at": "2026-10-25T12:25:39-05:00",
-  "updated_at": "2026-10-25T12:30:41-05:00"
+  "updated_at": "2026-10-25T12:42:19-05:00"
 }
