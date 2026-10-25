@@ -49,8 +49,8 @@
     }
   ],
   "steps": [
-    "Put the potatoes, water, and salt in the pot.",
-    "Lock the pressure lid so the Steam Release Switch is Closed.",
+    "We're pressure cooking the potatoes. Put the potatoes, water, and salt in the pot.",
+    "Keep the Steam Release Switch Closed while it cooks.",
     "Press Pressure, turn the dial to CUSTOM, press Timer and set 8 min, then press the dial to start.",
     "At the beep, press Cancel and leave the switch Closed for a 10 min natural release, then slide it to Open.",
     "Don't drain. While it's hot, mash in the butter, then stir in the sour cream.",
@@ -71,5 +71,5 @@
   "deleted": false,
   "id": "48712f5c6fe6",
   "created_at": "2026-10-25T16:35:22-05:00",
-  "updated_at": "2026-10-25T16:35:22-05:00"
+  "updated_at": "2026-10-25T17:04:20-05:00"
 }
