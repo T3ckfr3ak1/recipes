@@ -17,6 +17,10 @@
 - Candied jalapenos: "the jalepenos are good for lunch sandwiches".
 - Peppers: Joe finds a blend of peppers makes the flavor flow better than a single pepper type (example: candied jalapenos plus El Yucateco XXXtra Hot habanero in the Oct 23, 2026 pulled pork). He plans to start making his own seasoning blends again.
 
+## Storage rules
+- Sour cream (Joe via Meal Plan, Oct 25, 2026): opened sour cream doesn't last, and it doesn't freeze well. Don't plan freezer meals with sour cream inside; add it at serving.
+- No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
+
 ## Household
 - His girlfriend prefers lighter meals.
 - Thursday dinners with his kids are Jack's pizzas. Joe: "what the kids will and wont eat is such a pain in the ass".
