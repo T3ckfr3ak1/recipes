@@ -1,5 +1,7 @@
 # Recipes
 
+**This repo is the single source of truth for all of Joe's kitchen bots. Check it before answering, and push everything learned here.**
+
 Maintained by Recipe Keeper. The Windows and Android apps are the same Flutter project in `app/`. They read this repo and publish every recipe here, including Flavorish imports. The app source has no account keys. A GitHub token is entered in the app and stays on that device.
 
 - `index.json`: `generated_at` plus one entry per recipe: `id`, `updated_at`, `deleted`, `path`.
