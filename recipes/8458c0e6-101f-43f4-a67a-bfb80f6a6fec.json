@@ -50,7 +50,6 @@
     "Evenly sprinkle the sugar-flour mixture over your pie. Do not stir.",
     "Add some butter on top, shredded or cut into pats.",
     "Sprinkle with a little cinnamon.",
-    "Protect your crust with foil if necessary.",
     "Bake at 400°F for 30 minutes.",
     "Reduce the heat to 375°F and bake for another 30 minutes.",
     "Let it cool completely before refrigerating.",
@@ -66,7 +65,7 @@
   ],
   "category": "Dessert",
   "source": "Flavorish",
-  "notes": "Source: https://www.facebook.com/share/v/17PAtsNiEZ/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 0 mg · Sodium 150 mg · Carbs 40 g · Fiber 2 g · Sugar 30 g · Protein 2 g",
+  "notes": "Source: https://www.facebook.com/share/v/17PAtsNiEZ/\n\nNutrition: Serving 1 slice · Calories 250 kcal · Fat 10 g · Saturated fat 5 g · Unsaturated fat 5 g · Trans fat 0 g · Cholesterol 0 mg · Sodium 150 mg · Carbs 40 g · Fiber 2 g · Sugar 30 g · Protein 2 g\nFoil removed Oct 25, 2026 (Joe has no foil); per Joe via Meal Plan.",
   "deleted": false,
   "images": [
     "images/8458c0e6-101f-43f4-a67a-bfb80f6a6fec/8458c0e6-101f-43f4-a67a-bfb80f6a6fec.jpg"
@@ -84,5 +83,5 @@
   "starred": false,
   "made": false,
   "created_at": "2025-11-09T07:20:53.09+00:00",
-  "updated_at": "2026-10-24T20:14:21-05:00"
+  "updated_at": "2026-10-25T12:30:34-05:00"
 }
