@@ -50,11 +50,6 @@
       "quantity": "",
       "unit": "",
       "item": "Saran wrap"
-    },
-    {
-      "quantity": "",
-      "unit": "",
-      "item": "Aluminum foil"
     }
   ],
   "steps": [
@@ -67,7 +62,7 @@
     "Add another layer of bread, then pour the remaining egg mixture over it. Press down on dry spots to ensure everything is coated.",
     "Sprinkle more cinnamon on top.",
     "Cover the dish with saran wrap and refrigerate overnight.",
-    "In the morning, remove the saran wrap and cover with aluminum foil. Bake at 350°F (175°C) for 45 minutes, removing the foil for the last 15 minutes.",
+    "In the morning, remove the saran wrap. Bake at 350°F (175°C) for 45 minutes.",
     "Remove from oven, let cool slightly, and serve. Optional toppings include powdered sugar, maple syrup, strawberries, or whipped cream."
   ],
   "tags": [
@@ -80,7 +75,7 @@
   ],
   "category": "Breakfast",
   "source": "Flavorish",
-  "notes": "Source: https://www.facebook.com/share/v/1BVTiHnxwE/\n\nNutrition: Serving 1 slice · Calories Approximately 250 kcal per serving · Fat 10g · Saturated fat 5g · Unsaturated fat 5g · Trans fat 0g · Cholesterol 80mg · Sodium 150mg · Carbs 35g · Fiber 2g · Sugar 15g · Protein 8g",
+  "notes": "Source: https://www.facebook.com/share/v/1BVTiHnxwE/\n\nNutrition: Serving 1 slice · Calories Approximately 250 kcal per serving · Fat 10g · Saturated fat 5g · Unsaturated fat 5g · Trans fat 0g · Cholesterol 80mg · Sodium 150mg · Carbs 35g · Fiber 2g · Sugar 15g · Protein 8g\nFoil removed Oct 25, 2026 (Joe has no foil); per Joe via Meal Plan.",
   "deleted": false,
   "images": [
     "images/fb62252c-a7ae-4129-b03e-3ff6b2a81011/fb62252c-a7ae-4129-b03e-3ff6b2a81011.jpg"
@@ -98,5 +93,5 @@
   "starred": false,
   "made": false,
   "created_at": "2025-09-20T14:30:59.22+00:00",
-  "updated_at": "2026-10-24T20:16:12-05:00"
+  "updated_at": "2026-10-25T12:30:42-05:00"
 }
