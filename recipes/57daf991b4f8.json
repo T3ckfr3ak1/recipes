@@ -1,0 +1,76 @@
+{
+  "title": "Pulled Pork Wrap (Freezer Meal Prep)",
+  "description": "Burrito-style wrap for work lunches: Joe's pulled pork, Fiesta blend cheese, and homemade cowboy candy in a Mission burrito-size tortilla. Seared shut in a skillet, frozen, then microwaved at work.",
+  "servings": 1,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": null,
+      "item": "Mission burrito-size flour tortilla",
+      "note": "10 inch, per wrap"
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "pulled pork",
+      "note": "Joe's Slow Cooker Pulled Pork (d5b95a0f8164). Drain off the juice and cool it before filling. If it's frozen, thaw it in the fridge first."
+    },
+    {
+      "quantity": "1/3",
+      "unit": "cup",
+      "item": "Fiesta blend shredded cheese",
+      "note": "per wrap. Lighter than the 2/3 cup in a quesadilla. Use less for cheese-light."
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "cowboy candy, drained and chopped",
+      "note": "Canned Cowboy Candy (80/20 Jalapeno and Habanero) (5e18b57fd262). Go up to 2 tbsp if you want more heat."
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "oil or cooking spray",
+      "note": "for the skillet, optional"
+    }
+  ],
+  "steps": [
+    "Drain the pork well and let it cool. Hot, wet filling steams the tortilla and makes it soggy in the freezer.",
+    "Warm the tortillas so they fold without cracking: wrap them in a barely damp towel and microwave about 1 minute.",
+    "Lay a tortilla flat. Put the cheese in a strip just below the center, then the pork on top of it, then the cowboy candy.",
+    "Fold the bottom up over the filling, tuck in both sides, and roll it up tight so the seam ends up on the bottom.",
+    "Heat a nonstick skillet over medium with a little oil or spray. Set the wraps in seam side down and cook 1 to 2 minutes, until golden and sealed. Flip and cook 1 to 2 minutes more.",
+    "Cool the wraps completely on a rack. Wrapping them warm traps steam, which makes them soggy and causes freezer burn.",
+    "Wrap each one tightly in plastic wrap or foil, put them in a freezer bag, label with the date, and freeze.",
+    "At work: take off the foil or plastic, wrap the wrap in a damp paper towel, and set it on a plate. Microwave 2 minutes, flip, then microwave 2 minutes more.",
+    "Check the center with a thermometer. It needs to reach 165F. If it doesn't, add 30 to 60 seconds at a time. Let it rest 1 minute before eating."
+  ],
+  "tags": [
+    "meal-prep",
+    "freezer",
+    "lunch",
+    "wrap",
+    "pork"
+  ],
+  "category": "Lunch",
+  "source": "Recipe Keeper for Joe, Oct 24, 2026 (Joe chose the ingredients; Recipe Keeper worked out the portions and method). Portions guided by Baking Mischief freezer burritos https://bakingmischief.com/freezer-burritos/ and Feel Good Foodie https://feelgoodfoodie.net/recipe/breakfast-burrito/ . Sear-to-seal, cooling, and freezing method from Feel Good Foodie. Microwave reheat from America's Test Kitchen https://www.americastestkitchen.com/articles/6029-how-to-reheat-frozen-breakfast-burritos and Baking Mischief. 165F, thawing, and refreezing from USDA FSIS https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety . Mission burrito size is 10 inch: https://www.missionfoods.com/products/burrito-flour-tortillas/",
+  "notes": "Not yet made by Joe. These are starting portions and times to adjust after the first batch.\nPortions: 3/4 cup pork, 1/3 cup cheese, and 1 tbsp cowboy candy is about 1 1/4 cups of filling. Sources put a 10 inch burrito at about 1 to 1 1/2 cups of filling (Baking Mischief uses 1/2 cup meat and 1/4 cup cheese plus rice; Feel Good Foodie says to stay around 1 1/2 cups so it closes). Joe's bowls use about 1 cup of protein and his quesadilla uses 2/3 cup cheese. The pork and cowboy candy are both already spicy, so start with 1 tbsp of the 80/20 cowboy candy.\nSear: 1 to 2 min per side over medium (Feel Good Foodie's seam-side-down sear). This seals the wrap. The filling is cool, so the cheese may not fully melt until you reheat it.\nFreezer life: best within about 1 month for tortilla texture (Baking Mischief), good up to 2 to 3 months (Feel Good Foodie). USDA says frozen leftovers keep 3 to 4 months for quality.\nReheat: ATK says 2 to 4 min in a damp paper towel. Baking Mischief says 4 to 5 min, flipping halfway. Work microwaves vary in power, so check for 165F (USDA) in the center on the first one.\nPork safety: USDA says leftovers thawed in the fridge can be refrozen without reheating. Use thawed pork within 3 to 4 days. Don't make wraps with pork thawed on the counter.\nCheese-light: cut the cheese to 1/4 cup or less. The wrap still seals without it.",
+  "nutrition": {
+    "healthy": [
+      "Pulled pork gives a lot of protein.",
+      "Portioned and homemade, so it beats a fast-food lunch.",
+      "No rice or beans, so there's less starch than a typical burrito."
+    ],
+    "not_healthy": [
+      "Large flour tortilla is refined carbs.",
+      "Pork butt and cheese add saturated fat and sodium.",
+      "Cowboy candy adds sugar."
+    ]
+  },
+  "deleted": false,
+  "id": "57daf991b4f8",
+  "created_at": "2026-10-24T20:11:16-05:00",
+  "updated_at": "2026-10-24T20:11:16-05:00"
+}
