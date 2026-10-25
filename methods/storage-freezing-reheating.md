@@ -30,11 +30,23 @@ Foil removed Oct 25, 2026 (Joe has no foil); per Joe via Meal Plan.
 
 ## Work bowl microwave reheat
 
-**From Oven Air Fry Chef, derived, not yet tested by Joe.** Added Oct 25, 2026.
+**From Oven Air Fry Chef, not yet tested by Joe.** Updated Oct 25, 2026 for the mashed potato and shredded chicken bowls (replaces the old chicken, roasted potato, corn, and broccoli version).
 
-Work bowl (about 1 quart of chicken, diced potatoes, corn and broccoli), dumped from the Ziploc onto a sturdy microwave-safe paper plate (or two stacked), in a 1000-1200 W microwave:
-- Fridge-cold: spread in a ring with an empty center, sprinkle 1-2 Tbsp water or broth over the chicken, and cover with a damp paper towel. 50% power 3 min, stir and re-form, then 50% 3 min. Stand 2 min. Done when steaming throughout (165F); otherwise add 1 min at 50%.
-- Partly frozen: break up clumps, same setup. 50% 4 min, stir and break up ice, then 50% 4 min. If still icy, 1-min steps at 50% with a stir each time. Stand 2 min. Same done check.
-- 700-900 W microwave: same times at 70% power.
+Mashed potato and shredded chicken bowl (with torn habanero jack and candied jalapenos), dumped from the quart Ziploc onto a sturdy paper plate, or two stacked. Times are for a 1000 W microwave at level 5 (50%). The work microwave's wattage is unknown: if its label says 700-900 W, use 70% for the same times; if it says 1100-1200 W, use 40%.
 
-Basis: 50% power and the broth splash are existing repo rules; times are scaled from Factor chilled-meal and Banquet/Hungry-Man 16 oz frozen-meal directions; USDA says cover, stir, stand 2 min, and reach 165F.
+Fridge-cold (Mon, Tue):
+1. Spread the bowl in a ring about 1 inch thick with an empty center.
+2. Sprinkle 2 Tbsp water, broth, or whole milk over it and cover with a damp paper towel.
+3. Microwave at 50% for 4 min. Stir outside to center and re-form the ring.
+4. Microwave at 50% for 4 more min.
+5. Stir, re-cover, and let it stand 3 min.
+6. Done at 165F in 2-3 spots. If short, 1 more min at 50%.
+
+Partly frozen (Wed, Thu):
+1. Break up the icy clumps through the bag first.
+2. Same plate, ring, 2 Tbsp liquid, and damp paper towel.
+3. Microwave at 50% for 5 min. Stir, break up the ice, and re-form the ring.
+4. Microwave at 50% for 5 more min. If any ice is left, 1-min steps at 50%, stirring each time.
+5. Let it stand 3 min. Done at 165F in 2-3 spots. If short, 1 more min.
+
+The cheese folds in during the stirs.

@@ -23,7 +23,7 @@
 - No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
 
 ## Household
-- His girlfriend prefers lighter meals.
+- As of Oct 24, 2026 Joe is single (he and his girlfriend broke up). Meals are for Joe alone or Joe plus his three sons.
 - Thursday dinners with his kids are Jack's pizzas. Joe: "what the kids will and wont eat is such a pain in the ass".
 
 ## Brand rules (Thrifty memory, Oct 20, 2026)
