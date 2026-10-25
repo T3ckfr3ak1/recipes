@@ -48,16 +48,16 @@
       "note": null
     },
     {
-      "quantity": "3 1/2",
-      "unit": "Tbsp",
+      "quantity": "12",
+      "unit": "slices",
       "item": "candied jalapeno slices",
-      "note": "peppers only, no juice; scaled from Joe's pulled pork ratio (1/2 cup per 8.2 lb, d5b95a0f8164)"
+      "note": "plus a splash of the jar syrup (Joe, Oct 25, 2026)"
     }
   ],
   "steps": [
     "Stir the bouillon into the 1 cup water in the pot. No trivet: the chicken goes straight into the liquid.",
     "Add the frozen breasts in a single layer as much as possible. If they're frozen together in a block, try to break them apart (run under warm water for a minute).",
-    "Sprinkle the garlic powder, onion powder, salt, pepper, and candied jalapeno slices on top.",
+    "Sprinkle the garlic powder, onion powder, salt, pepper, candied jalapeno slices, and a splash of the jar syrup on top.",
     "Lock the pressure lid: line up the lid mark with Open and twist about 30 degrees counterclockwise until the Steam Release Switch moves to Closed.",
     "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min, then press the dial to start. The screen is orange while heating and red at pressure.",
     "At the beep, press Cancel and leave the Steam Release Switch CLOSED for 10 min (natural release).",
@@ -91,5 +91,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-25T15:28:53-05:00"
+  "updated_at": "2026-10-25T15:29:28-05:00"
 }
