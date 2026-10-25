@@ -25,10 +25,10 @@ Added Oct 25, 2026 (Joe via Meal Plan; checked against `appliance-manuals/emeril
 2. Press Pressure, turn the dial to the preset (POULTRY for chicken, CUSTOM for anything else), press Timer and set the minutes, then press the dial to start. The screen is orange while heating and red at pressure.
 3. When it beeps, it goes to Keep Warm. Press Cancel.
 4. Release:
-   - Natural release: wait the recipe's minutes (10 min for shredded chicken), then slide the Steam Release Switch to Open.
-   - Rapid release: slide the Steam Release Switch to Open right away (mashed potatoes).
+   - Natural release: leave the switch closed for the recipe's minutes (10 min for shredded chicken and mashed potatoes), then slide the Steam Release Switch to Open.
+   - Rapid release: slide the Steam Release Switch to Open right away. Joe prefers natural release (Oct 25, 2026), so default to it.
 5. Wait until there's no steam, then twist the lid clockwise and remove it.
 
-Examples: shredded chicken (R7) is POULTRY 12 min with 10 min natural release. Mashed potatoes are CUSTOM 8 min with rapid release.
+Examples: shredded chicken (R7) is POULTRY 12 min with 10 min natural release. Mashed potatoes are CUSTOM 8 min with 10 min natural release.
 
 Trivet: none for shredded chicken. The chicken goes straight into the seasoned liquid (Joe, Oct 25, 2026).
