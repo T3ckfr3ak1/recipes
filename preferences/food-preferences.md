@@ -26,7 +26,7 @@
 - Thursday dinners with his kids are Jack's pizzas. Joe: "what the kids will and wont eat is such a pain in the ass".
 
 ## Brand rules (Thrifty memory, Oct 20, 2026)
-> avoid Great Value when a name brand is cost-effective; Kodiak pancake mix only (made with whole milk and eggs, never water); Baja Blast as a 24-pack of cans, never 2-liters; Monster in 12-packs; pretzel or King's Hawaiian burger buns; Bunny bread; Mission XL burrito tortillas only; Marzetti blue cheese; ketchup with no corn syrup; no Frank's RedHot (he hates it); he uses real maple syrup.
+> avoid Great Value when a name brand is cost-effective; Kodiak pancake mix only (made with whole milk and eggs, never water); Baja Blast as a 24-pack of cans, never 2-liters; Monster in 12-packs; pretzel or King's Hawaiian burger buns; Bunny bread; Mission Super Soft Flour Tortillas, Burrito Size, 16 count only (exact name from the Walmart invoice, per Meal Plan Oct 25, 2026); Marzetti blue cheese; ketchup with no corn syrup; no Frank's RedHot (he hates it); he uses real maple syrup.
 
 More from Thrifty's memory:
 - Hidden Valley ranch, Hillshire Farm lunch meat, and more than one kind of lunch meat for variety.
