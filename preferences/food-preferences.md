@@ -18,7 +18,7 @@
 - Peppers: Joe finds a blend of peppers makes the flavor flow better than a single pepper type (example: candied jalapenos plus El Yucateco XXXtra Hot habanero in the Oct 23, 2026 pulled pork). He plans to start making his own seasoning blends again.
 
 ## Storage rules
-- Sour cream (Joe via Meal Plan, Oct 25, 2026): opened sour cream doesn't last, and it doesn't freeze well. Don't plan freezer meals with sour cream inside; add it at serving.
+- Sour cream (Joe via Meal Plan, Oct 25, 2026): opened sour cream doesn't last, and it doesn't freeze well. As a topping, add it at serving. Plain sour cream doesn't freeze well on its own; mixed into mashed potatoes it's fine (Head Chef's call at Joe's request, Oct 25, 2026).
 - Candied jalapenos (Joe via Meal Plan, Oct 25, 2026): 'to taste' applies only to toppings (burritos, sandwiches, bowls). Cooked meats get Joe's stated amount, not a scaled measurement: shredded chicken gets 12 slices plus a splash of the jar syrup; pulled pork per `recipes/d5b95a0f8164.json`. His kids eat jalapenos; only habanero is Joe and Warren only.
 - Cook check (Oct 25, 2026; set by Grok Bot after Joe asked whether Head Chef was watching meal prep, passed on by Head Chef and Meal Plan): before Joe starts any planned cook, Meal Plan sends Head Chef the recipe, cut, frozen or thawed, weight, appliance and mode, time, temp, release, and liquid, and holds the cook steps until Head Chef confirms.
 - Appliance steps (Joe via Meal Plan, Oct 25, 2026): all appliance steps must be button-level for Joe's actual model, taken from the manuals in `appliance-manuals/`.
