@@ -55,14 +55,13 @@
     }
   ],
   "steps": [
-    "Stir the bouillon into the 1 cup water in the pot. No trivet: the chicken goes straight into the liquid.",
+    "We're pressure cooking the chicken. Stir the bouillon into the 1 cup water in the pot. No trivet: the chicken goes straight into the liquid.",
     "Add the breasts, frozen or thawed, in a single layer as much as possible. If frozen breasts are stuck together in a block, run them under warm water for a minute to break them apart.",
     "Sprinkle the garlic powder, onion powder, salt, pepper, candied jalapeno slices, and a splash of the jar syrup on top.",
-    "Lock the pressure lid: line up the lid mark with Open and twist about 30 degrees counterclockwise until the Steam Release Switch moves to Closed.",
+    "Keep the Steam Release Switch Closed while it cooks.",
     "Press Pressure, turn the dial to POULTRY, press Timer and set 12 min for FROZEN breasts or 10 min for THAWED breasts, then press the dial to start. The screen is orange while heating and red at pressure.",
     "At the beep, press Cancel and slide the Steam Release Switch to Open right away (quick release). Do not let it natural release, because that keeps cooking the meat and dries it out.",
-    "Once there's no steam, twist the lid clockwise and remove it.",
-    "Cut the thickest piece open. It should be white all the way through with no pink, and the juices should run clear (165F if you have a thermometer). If it isn't, lock the lid and run POULTRY for 2 more min with a quick release.",
+    "Cut the thickest piece open. It should be white all the way through with no pink, and the juices should run clear (165F if you have a thermometer). If it isn't, run POULTRY for 2 more min with the switch Closed, then open the switch right away at the beep.",
     "Shred with 2 forks (or a hand mixer on low). Stir in a few spoonfuls of the cooking liquid."
   ],
   "tags": [
@@ -91,5 +90,5 @@
   "starred": false,
   "made": false,
   "created_at": "2026-10-23T12:03:56-05:00",
-  "updated_at": "2026-10-25T16:32:26-05:00"
+  "updated_at": "2026-10-25T17:04:19-05:00"
 }
