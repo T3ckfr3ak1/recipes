@@ -51,6 +51,7 @@ Per Joe via Meal Plan, Oct 24, 2026.
 - Rarely buys hot dogs.
 - No cereal (goes stale).
 - Base meals mild; spicy added per plate.
+- Jalapeno-seasoned meat is fine for the boys (Joe, Oct 25, 2026, via Meal Plan): creamy sauces like alfredo knock down the heat, so Joe's jalapeno shredded chicken goes in the kids' alfredo and kid dishes. No separate mild meat unless the meat has habanero.
 
 ## Tags
 - Recipes the boys approve get the tag `kid-approved` (all three), or `kid-approved:W`, `kid-approved:A`, or `kid-approved:L` when only some of them approve.
