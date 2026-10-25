@@ -19,6 +19,7 @@
 
 ## Storage rules
 - Sour cream (Joe via Meal Plan, Oct 25, 2026): opened sour cream doesn't last, and it doesn't freeze well. Don't plan freezer meals with sour cream inside; add it at serving.
+- Seasoning (Joe via Meal Plan, Oct 25, 2026): every cook step must include its seasoning. Plain, unseasoned meat is never acceptable.
 - No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
 
 ## Household
