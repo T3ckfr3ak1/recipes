@@ -15,25 +15,25 @@
       "quantity": "1 1/2",
       "unit": "cups",
       "item": "water",
-      "note": "Head Chef's estimate of the 8 qt minimum, not from the manual"
+      "note": "before cook mix; Head Chef's estimate of the 8 qt minimum, not from the manual"
     },
     {
       "quantity": "2",
       "unit": "tsp",
       "item": "salt",
-      "note": ""
+      "note": "before cook mix"
     },
     {
       "quantity": "3",
       "unit": "Tbsp",
       "item": "butter",
-      "note": ""
+      "note": "after cook mix"
     },
     {
       "quantity": "1/2",
       "unit": "cup",
       "item": "sour cream",
-      "note": ""
+      "note": "after cook mix"
     },
     {
       "quantity": "",
@@ -45,17 +45,16 @@
       "quantity": "1 1/2",
       "unit": "cups",
       "item": "shredded mozzarella",
-      "note": ""
+      "note": "after cook mix"
     }
   ],
   "steps": [
-    "We're pressure cooking the potatoes. Put the potatoes, water, and salt in the pot.",
-    "Keep the Steam Release Switch Closed while it cooks.",
-    "Press Pressure, turn the dial to CUSTOM, press Timer and set 8 min, then press the dial to start.",
-    "At the beep, press Cancel and leave the switch Closed for a 10 min natural release, then slide it to Open.",
-    "Don't drain. While it's hot, mash in the butter, then stir in the sour cream.",
-    "Add a splash of milk only if it's stiff.",
-    "Gently fold in the mozzarella just until mixed (beating it in makes it gummy)."
+    "We're pressure cooking the potatoes. Potatoes: 6 medium russets (about 3 lb), peeled and cut in 2-inch chunks, in the pot.",
+    "Before cook, mix together one and a half cups of water and two teaspoons of salt. Pour it over the potatoes.",
+    "Cook: press Pressure, turn the dial to CUSTOM, press Timer and set 8 min, then press the dial to start. Keep the Steam Release Switch Closed while it cooks.",
+    "At the beep, press Cancel and leave the switch Closed for 10 min, then open it. Don't drain.",
+    "For after the cook is done, mix together three tablespoons of butter, a half a cup of sour cream, and a cup and a half of shredded mozzarella. Stir it into the hot potatoes and mash.",
+    "Add a splash of milk only if it's stiff."
   ],
   "tags": [
     "instant-pot",
@@ -71,5 +70,5 @@
   "deleted": false,
   "id": "48712f5c6fe6",
   "created_at": "2026-10-25T16:35:22-05:00",
-  "updated_at": "2026-10-25T17:06:27-05:00"
+  "updated_at": "2026-10-25T17:12:21-05:00"
 }
