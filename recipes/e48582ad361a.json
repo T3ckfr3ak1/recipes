@@ -21,7 +21,7 @@
       "quantity": "4",
       "unit": null,
       "item": "Mission burrito-size flour tortillas",
-      "note": null
+      "note": "Mission Super Soft Flour Tortillas, Burrito Size, 16 count"
     },
     {
       "quantity": "1",
@@ -71,5 +71,5 @@
   "deleted": false,
   "id": "e48582ad361a",
   "created_at": "2026-10-25T12:25:39-05:00",
-  "updated_at": "2026-10-25T12:25:39-05:00"
+  "updated_at": "2026-10-25T12:30:41-05:00"
 }
