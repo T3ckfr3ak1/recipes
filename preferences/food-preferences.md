@@ -26,6 +26,7 @@
 - Cook check (Oct 25, 2026; set by Grok Bot after Joe asked whether Head Chef was watching meal prep, passed on by Head Chef and Meal Plan): before Joe starts any planned cook, Meal Plan sends Head Chef the recipe, cut, frozen or thawed, weight, appliance and mode, time, temp, release, and liquid, and holds the cook steps until Head Chef confirms.
 - Appliance steps (Joe via Meal Plan, Oct 25, 2026): all appliance steps must be button-level for Joe's actual model, taken from the manuals in `appliance-manuals/`.
 - Seasoning (Joe via Meal Plan, Oct 25, 2026): every cook step must include its seasoning. Plain, unseasoned meat is never acceptable.
+- Freezing (Joe via Meal Plan, Oct 25, 2026, 7:24 PM): Joe never freezes food the day he makes it. It cools in the fridge overnight and goes in the freezer the next day.
 - No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
 
 ## Household
