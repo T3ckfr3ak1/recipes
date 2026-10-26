@@ -27,6 +27,7 @@
 - Appliance steps (Joe via Meal Plan, Oct 25, 2026): all appliance steps must be button-level for Joe's actual model, taken from the manuals in `appliance-manuals/`.
 - Seasoning (Joe via Meal Plan, Oct 25, 2026): every cook step must include its seasoning. Plain, unseasoned meat is never acceptable.
 - Freezing (Joe via Meal Plan, Oct 25, 2026, 7:24 PM): Joe never freezes food the day he makes it. It cools in the fridge overnight and goes in the freezer the next day.
+- No repeats (Joe via Meal Plan, Oct 25, 2026, 7:25 PM): in every meal plan, the same meal is never scheduled two days in a row, for lunch or dinner.
 - No foil until Joe buys it. Work meals go in quart Ziploc freezer bags, never Tupperware.
 
 ## Household
