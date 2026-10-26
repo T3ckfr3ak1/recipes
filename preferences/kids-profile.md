@@ -32,6 +32,7 @@
 - Not picky on deli sandwiches.
 
 ## All three
+- **Wings are never a kids' meal.** They won't eat bone-in wings (Joe via Meal Plan, Oct 25, 2026).
 - Pepperoni pizza, pepperoni-only pizza rolls (no other flavor), Not-Spaghetti, quesadillas, hot dogs, pancakes, waffles, French toast, cereal, eggs, sausage links.
 - Likely fine: corn, broccoli, green beans, carrots, potatoes (log as we go).
 
