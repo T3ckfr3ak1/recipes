@@ -8,3 +8,8 @@
   - The baked potato shortcut (R15).
   - Steaming frozen broccoli and corn (R16).
   - Melting butter for Buffalo sauce (R8).
+- **Sensor reheat (refrigerated food only):**
+  - Refrigerated mash or leftovers: Reheat, 1 (Casserole), 1 to 4 servings. Cover with a lid or vented plastic wrap, because the sensor reads steam. Stir once, and if it's not steaming hot all the way through, add time at 50%.
+  - Reheat 2 (Dinner plate) is for precooked, refrigerated meat plus a starch.
+  - Frozen bowls don't use the sensor modes; they use the manual 50% steps in `work-meal-packing.md`.
+  - Source: the ME21M706BAS manual, p. 18-19 (Head Chef, Oct 27, 2026).
