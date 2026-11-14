@@ -1,0 +1,119 @@
+{
+  "title": "Joe's All Purpose (house rub and seasoning)",
+  "description": "Joe's house rub and all-purpose seasoning. Mild, smoky, chile-forward. Double batch, single spices only. Yield: about 8 cups (8 pork butt rubs at 1 cup each).",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "item": "Morton Coarse Kosher Salt",
+      "note": "must be Morton coarse kosher; other salts change saltiness"
+    },
+    {
+      "quantity": "1 1/2",
+      "unit": "cup",
+      "item": "turbinado sugar (Sugar In The Raw)",
+      "note": null
+    },
+    {
+      "quantity": "3/4",
+      "unit": "cup",
+      "item": "smoked sweet paprika",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "sweet paprika",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "granulated garlic",
+      "note": "or garlic powder, 1/4 cup"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "onion powder",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "ground ancho chile",
+      "note": "pure"
+    },
+    {
+      "quantity": "1/2",
+      "unit": "cup",
+      "item": "nutritional yeast flakes",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "ground guajillo chile",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "ground mustard",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "ground coriander",
+      "note": null
+    },
+    {
+      "quantity": "2 Tbsp + 2 tsp",
+      "unit": null,
+      "item": "ground cumin",
+      "note": null
+    },
+    {
+      "quantity": "1 Tbsp + 1 tsp",
+      "unit": null,
+      "item": "ground celery seed",
+      "note": null
+    },
+    {
+      "quantity": "6",
+      "unit": "Tbsp",
+      "item": "chipotle powder",
+      "note": null
+    },
+    {
+      "quantity": "1/2",
+      "unit": "tsp",
+      "item": "habanero powder",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Measure everything into a large bowl and whisk until the color is even, breaking up any clumps.",
+    "Store in a 1 gallon glass jar with a tight lid, or two half-gallon wide-mouth Ball jars, away from the stove.",
+    "Shake the jar before every use (salt and sugar settle).",
+    "Pulled pork: about 2 Tbsp per pound, 1 cup for an 8 lb butt. General use: like seasoned salt, lighter than on pork. The sugar can scorch at high heat (skillet, air fry), so watch the edges."
+  ],
+  "tags": [
+    "seasoning",
+    "rub",
+    "pork",
+    "all-purpose",
+    "house-blend"
+  ],
+  "category": "Seasoning",
+  "source": "Joe Wuest (house blend), finalized with Head Chef; saved at Joe's request via Head Chef, Nov 14, 2026",
+  "notes": "Mild, smoky, chile-forward. Chipotle carries the smoke and heat; habanero is for fruity flavor, not heat. Reflux-friendly: no citric acid, citrus, tomato, or vinegar powders. No mushrooms (Joe won't eat them). Untested as of Nov 14, 2026: if too warm, cut chipotle to 4 Tbsp; for more habanero flavor, add 1/4 tsp at a time. Related: use 1 cup in pulled pork d5b95a0f8164 in place of the Yellowstone plus Weber rub (that recipe not yet updated; Head Chef will update it after Joe's first cook).",
+  "id": "a8a773950216",
+  "created_at": "2026-11-14T16:28:42-06:00",
+  "updated_at": "2026-11-14T16:28:42-06:00",
+  "deleted": false
+}
