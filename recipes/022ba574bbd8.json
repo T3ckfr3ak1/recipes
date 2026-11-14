@@ -3,37 +3,37 @@
   "description": "Smoked candied jalapenos: sliced jalapenos smoked in a Traeger, then simmered in an apricot preserves, hot honey, and cider vinegar syrup.",
   "servings": null,
   "prep_minutes": null,
-  "cook_minutes": null,
+  "cook_minutes": 60,
   "ingredients": [
     {
       "quantity": "15",
       "unit": null,
       "item": "jalapenos",
-      "note": null
+      "note": "slice about 1/4 inch (Head Chef note, per Traeger and Grill Nation recipes)"
     },
     {
       "quantity": "2",
       "unit": "cup",
       "item": "light brown sugar",
-      "note": "not visible in step 3 of the source; unconfirmed when it goes in (most likely step 3)"
+      "note": null
     },
     {
       "quantity": "1",
       "unit": "jar",
       "item": "apricot preserves",
-      "note": "jar size not given in the source"
+      "note": "size not given by creator; Smucker's sells 12 oz and 18 oz; Grill Nation's near-identical recipe uses 18 oz (Head Chef note)"
     },
     {
       "quantity": "1/4",
       "unit": "cup",
       "item": "apple cider vinegar",
-      "note": "source says '1/4 cups'"
+      "note": "creator wrote '1/4 cups'; 1/4 cup matches Traeger and Grill Nation apricot-style versions (Head Chef note)"
     },
     {
       "quantity": "2",
       "unit": "tbsp",
       "item": "FIRENECTAR hot honey",
-      "note": null
+      "note": "Chef Emari Stevens' brand, firenectar.co; another hot honey is an untested swap (Head Chef note)"
     },
     {
       "quantity": "1",
@@ -49,11 +49,11 @@
     }
   ],
   "steps": [
-    "Slice the jalapenos (wear gloves).",
-    "Put them on a baking tray in a Traeger at 375F for 45 minutes.",
-    "In a pan on low heat, combine the apricot preserves, hot honey, apple cider vinegar, black pepper and minced garlic, and bring to a low simmer.",
-    "Add the smoked jalapenos, stir, and simmer 15 minutes.",
-    "Jar it and refrigerate."
+    "Wearing gloves, slice the jalapenos. (Head Chef note: about 1/4 inch rounds.)",
+    "Spread on a baking tray and smoke in a Traeger at 375F for 45 minutes. (Head Chef note: check at about 30 min and pull while slices still hold their shape. Lower-temp option for more smoke: 225 to 250F for 25 to 45 min, per Traeger and Grill Nation. No smoker: oven 225F on a wire rack 17 to 20 min, per Table of Spice.)",
+    "In a pan on low heat, add the brown sugar, apricot preserves, hot honey, apple cider vinegar, black pepper and minced garlic, and bring to a low simmer.",
+    "Add the smoked jalapenos, stir, and simmer 15 minutes. (Head Chef note: stop when syrup coats a spoon; it thickens as it cools.)",
+    "Jar and refrigerate."
   ],
   "tags": [
     "jalapeno",
@@ -61,13 +61,14 @@
     "candied jalapenos",
     "smoked",
     "traeger",
-    "condiment"
+    "condiment",
+    "refrigerator"
   ],
   "category": "Condiment",
-  "source": "Grill Vault BBQ post (Justin Cde Baca), from Joe's screenshots; sent by Grok Bot at Joe's request, Nov 13, 2026",
-  "notes": "Serving ideas: burgers, cream cheese dip, sliders, sandwiches. UNCONFIRMED: part of step 3 was covered by the video's title overlay. 'Low heat' is a partial read, and the brown sugar isn't visible in step 3, though it's in the ingredient list (it most likely goes in at step 3). Saved exactly as given; the jar size is not in the source. This is a refrigerator recipe, not a tested canning method.",
+  "source": "Grill Vault BBQ (@grillvaultbbq, Justin Cde Baca) Instagram reel, Oct 18, 2026: https://www.instagram.com/reel/DeqEgCWt5lV/ (source confirmed by Head Chef). Originally from Joe's screenshots, sent by Grok Bot at Joe's request, Nov 13, 2026.",
+  "notes": "Serving ideas: burgers, cream cheese dip, sliders, sandwiches. Cook time is 45 min smoke plus 15 min simmer (creator). Yield not given by creator (Head Chef estimate 3.5 to 4.5 cups, unconfirmed). Fridge only. Not a tested canning recipe: do not water-bath can or store at room temperature. Head Chef recommendation: keep at 40F or below and use within 2 weeks (NC State Extension guidance for quick refrigerator pickles); low vinegar plus garlic is why storage is short. Use a clean spoon; discard if mold appears. Jar size, slice thickness and yield are not in the original source.",
   "deleted": false,
   "id": "022ba574bbd8",
   "created_at": "2026-11-13T21:53:44-06:00",
-  "updated_at": "2026-11-13T21:53:44-06:00"
+  "updated_at": "2026-11-13T23:09:14-06:00"
 }
