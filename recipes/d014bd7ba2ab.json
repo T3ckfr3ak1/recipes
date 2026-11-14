@@ -1,6 +1,6 @@
 {
   "title": "Joe's All Purpose Wild (house rub and seasoning)",
-  "description": "The hot version of Joe's house rub and all-purpose seasoning. Yield: about 4 cups (4 pork butt rubs at 1 cup each). Joe says the ingredient amounts matter most; the yield is just a summary.",
+  "description": "The Wild version of Joe's house rub and all-purpose seasoning. Yield: about 4 cups (4 pork butt rubs at 1 cup each). Joe says the ingredient amounts matter most; the yield is just a summary.",
   "servings": null,
   "prep_minutes": null,
   "cook_minutes": null,
@@ -114,13 +114,13 @@
     "pork",
     "all-purpose",
     "house-blend",
-    "hot"
+    "wild"
   ],
   "category": "Seasoning",
   "source": "Joe Wuest (house blend), finalized with Head Chef; saved at Joe's request via Head Chef, Nov 14, 2026",
-  "notes": "The hot version of Joe's All Purpose (a8a773950216, Mild). Same base as Mild, with habanero as the main heat (about 85% of it), a trace of reaper, and extra sugar to balance. Estimated about 15,000 SHU for the rub (rough calculation from average published chile ranges, not tested). Reflux-friendly: no citric acid, citrus, tomato, or vinegar powders. No mushrooms. Untested as of Nov 14, 2026: if too hot, cut habanero to 3 Tbsp; for more heat, add habanero 1 Tbsp at a time before raising the reaper. Joe doesn't want the reaper to be the main heat. Per Joe's standing rule, habanero dishes are for Joe and Warren only.",
+  "notes": "Heat level: Wild (about 15,000 SHU est.). The Wild version of Joe's All Purpose (a8a773950216, Mild). Same base as Mild, with habanero as the main heat (about 85% of it), a trace of reaper, and extra sugar to balance. Estimated about 15,000 SHU for the rub (rough calculation from average published chile ranges, not tested). Reflux-friendly: no citric acid, citrus, tomato, or vinegar powders. No mushrooms. Untested as of Nov 14, 2026: if too hot, cut habanero to 3 Tbsp; for more heat, add habanero 1 Tbsp at a time before raising the reaper. Joe doesn't want the reaper to be the main heat. Per Joe's standing rule, habanero dishes are for Joe and Warren only.",
   "id": "d014bd7ba2ab",
   "created_at": "2026-11-14T17:07:25-06:00",
-  "updated_at": "2026-11-14T17:07:25-06:00",
+  "updated_at": "2026-11-14T17:20:29-06:00",
   "deleted": false
 }
