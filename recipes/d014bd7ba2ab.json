@@ -1,0 +1,126 @@
+{
+  "title": "Joe's All Purpose Wild (house rub and seasoning)",
+  "description": "The hot version of Joe's house rub and all-purpose seasoning. Yield: about 4 cups (4 pork butt rubs at 1 cup each). Joe says the ingredient amounts matter most; the yield is just a summary.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "item": "Morton Coarse Kosher Salt",
+      "note": "must be Morton coarse kosher"
+    },
+    {
+      "quantity": "3/4 cup + 2 Tbsp",
+      "unit": null,
+      "item": "turbinado sugar (Sugar In The Raw)",
+      "note": null
+    },
+    {
+      "quantity": "6",
+      "unit": "Tbsp",
+      "item": "smoked sweet paprika",
+      "note": null
+    },
+    {
+      "quantity": "5",
+      "unit": "Tbsp",
+      "item": "habanero powder",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "granulated garlic",
+      "note": "or garlic powder, 2 Tbsp"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "onion powder",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "ground ancho chile",
+      "note": "pure"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "nutritional yeast flakes",
+      "note": null
+    },
+    {
+      "quantity": "3",
+      "unit": "Tbsp",
+      "item": "chipotle powder",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "sweet paprika",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "ground guajillo chile",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "ground mustard",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "Tbsp",
+      "item": "ground coriander",
+      "note": null
+    },
+    {
+      "quantity": "4",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "tsp",
+      "item": "ground celery seed",
+      "note": null
+    },
+    {
+      "quantity": "1/4",
+      "unit": "tsp",
+      "item": "Carolina Reaper powder",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Measure everything into a large bowl and whisk until the color is even, breaking up any clumps. Habanero and reaper powders are strong: avoid breathing the dust, and wash your hands (or wear gloves) before touching your eyes.",
+    "Store in a glass jar with a tight lid and about 4 cups of space, away from the stove.",
+    "Shake the jar before every use (salt and sugar settle).",
+    "Pulled pork: about 2 Tbsp per pound, 1 cup for an 8 lb butt. General use: like seasoned salt, lighter than on pork. The sugar can scorch at high heat, so watch the edges."
+  ],
+  "tags": [
+    "seasoning",
+    "rub",
+    "pork",
+    "all-purpose",
+    "house-blend",
+    "hot"
+  ],
+  "category": "Seasoning",
+  "source": "Joe Wuest (house blend), finalized with Head Chef; saved at Joe's request via Head Chef, Nov 14, 2026",
+  "notes": "The hot version of Joe's All Purpose (a8a773950216, Mild). Same base as Mild, with habanero as the main heat (about 85% of it), a trace of reaper, and extra sugar to balance. Estimated about 15,000 SHU for the rub (rough calculation from average published chile ranges, not tested). Reflux-friendly: no citric acid, citrus, tomato, or vinegar powders. No mushrooms. Untested as of Nov 14, 2026: if too hot, cut habanero to 3 Tbsp; for more heat, add habanero 1 Tbsp at a time before raising the reaper. Joe doesn't want the reaper to be the main heat. Per Joe's standing rule, habanero dishes are for Joe and Warren only.",
+  "id": "d014bd7ba2ab",
+  "created_at": "2026-11-14T17:07:25-06:00",
+  "updated_at": "2026-11-14T17:07:25-06:00",
+  "deleted": false
+}
