@@ -1,0 +1,73 @@
+{
+  "title": "Smoked Cowboy Candy",
+  "description": "Smoked candied jalapenos: sliced jalapenos smoked in a Traeger, then simmered in an apricot preserves, hot honey, and cider vinegar syrup.",
+  "servings": null,
+  "prep_minutes": null,
+  "cook_minutes": null,
+  "ingredients": [
+    {
+      "quantity": "15",
+      "unit": null,
+      "item": "jalapenos",
+      "note": null
+    },
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "item": "light brown sugar",
+      "note": "not visible in step 3 of the source; unconfirmed when it goes in (most likely step 3)"
+    },
+    {
+      "quantity": "1",
+      "unit": "jar",
+      "item": "apricot preserves",
+      "note": "jar size not given in the source"
+    },
+    {
+      "quantity": "1/4",
+      "unit": "cup",
+      "item": "apple cider vinegar",
+      "note": "source says '1/4 cups'"
+    },
+    {
+      "quantity": "2",
+      "unit": "tbsp",
+      "item": "FIRENECTAR hot honey",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "black pepper",
+      "note": null
+    },
+    {
+      "quantity": "1",
+      "unit": "tbsp",
+      "item": "minced garlic",
+      "note": null
+    }
+  ],
+  "steps": [
+    "Slice the jalapenos (wear gloves).",
+    "Put them on a baking tray in a Traeger at 375F for 45 minutes.",
+    "In a pan on low heat, combine the apricot preserves, hot honey, apple cider vinegar, black pepper and minced garlic, and bring to a low simmer.",
+    "Add the smoked jalapenos, stir, and simmer 15 minutes.",
+    "Jar it and refrigerate."
+  ],
+  "tags": [
+    "jalapeno",
+    "cowboy candy",
+    "candied jalapenos",
+    "smoked",
+    "traeger",
+    "condiment"
+  ],
+  "category": "Condiment",
+  "source": "Grill Vault BBQ post (Justin Cde Baca), from Joe's screenshots; sent by Grok Bot at Joe's request, Nov 13, 2026",
+  "notes": "Serving ideas: burgers, cream cheese dip, sliders, sandwiches. UNCONFIRMED: part of step 3 was covered by the video's title overlay. 'Low heat' is a partial read, and the brown sugar isn't visible in step 3, though it's in the ingredient list (it most likely goes in at step 3). Saved exactly as given; the jar size is not in the source. This is a refrigerator recipe, not a tested canning method.",
+  "deleted": false,
+  "id": "022ba574bbd8",
+  "created_at": "2026-11-13T21:53:44-06:00",
+  "updated_at": "2026-11-13T21:53:44-06:00"
+}
